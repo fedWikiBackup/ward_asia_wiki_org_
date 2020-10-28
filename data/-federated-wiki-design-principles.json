@@ -1,1 +1,39 @@
-[object Object]
+{
+  "title": " Federated Wiki Design Principles",
+  "story": [
+    {
+      "type": "search",
+      "id": "7fad45773286d9e2",
+      "text": "SITES splash.fed.wiki.org"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": " Federated Wiki Design Principles",
+        "story": []
+      },
+      "date": 1450538043169
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7fad45773286d9e2"
+      },
+      "id": "7fad45773286d9e2",
+      "type": "add",
+      "date": 1450538048148
+    },
+    {
+      "type": "edit",
+      "id": "7fad45773286d9e2",
+      "item": {
+        "type": "search",
+        "id": "7fad45773286d9e2",
+        "text": "SITES splash.fed.wiki.org"
+      },
+      "date": 1450538077631
+    }
+  ]
+}
