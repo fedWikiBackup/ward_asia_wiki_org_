@@ -1,0 +1,142 @@
+{
+  "title": "Exploring Underlying Principles",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5f316a2142e0de2e",
+      "text": "Taking a look at those Vision and Tactics that are heavily solution based. We try and expose the ideas that are surfaced in the [[Principles for Version Two]]."
+    },
+    {
+      "type": "markdown",
+      "id": "0da742043dfa30c8",
+      "text": "# Vision"
+    },
+    {
+      "type": "markdown",
+      "id": "ac4ceb41b6a78590",
+      "text": "Creating new Wiki, and sharing it with others, needs to be simple. _A tactic that supports simple creation, for a client/server architecture, is 'Farm is the Only Option.'_\n"
+    },
+    {
+      "type": "markdown",
+      "id": "74c7d128ca1bb6d1",
+      "text": "Extending the types of content supported with a wiki should be simple. _A tactic to support this is to use plugins for each content type. A technology specific solution is the use of ES6 Module._\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Exploring Underlying Principles",
+        "story": []
+      },
+      "date": 1601117091007
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5f316a2142e0de2e"
+      },
+      "id": "5f316a2142e0de2e",
+      "type": "add",
+      "date": 1601117316793
+    },
+    {
+      "type": "edit",
+      "id": "5f316a2142e0de2e",
+      "item": {
+        "type": "paragraph",
+        "id": "5f316a2142e0de2e",
+        "text": "Taking a look at those Vision and Tactics that are heavily solution based. We try and expose the ideas that  "
+      },
+      "date": 1601117814787
+    },
+    {
+      "type": "edit",
+      "id": "5f316a2142e0de2e",
+      "item": {
+        "type": "paragraph",
+        "id": "5f316a2142e0de2e",
+        "text": "Taking a look at those Vision and Tactics that are heavily solution based. We try and expose the ideas that are surfaced in the [[Principles for Version Two]]."
+      },
+      "date": 1601117866465
+    },
+    {
+      "type": "add",
+      "id": "0da742043dfa30c8",
+      "item": {
+        "type": "paragraph",
+        "id": "0da742043dfa30c8",
+        "text": "# Vision"
+      },
+      "after": "5f316a2142e0de2e",
+      "date": 1601118892501
+    },
+    {
+      "type": "add",
+      "id": "ac4ceb41b6a78590",
+      "item": {
+        "type": "paragraph",
+        "id": "ac4ceb41b6a78590",
+        "text": "Creating new Wiki, and sharing it with others, needs to be simple. A tactic that supports simple creation, for a client/server architecture, is 'Farm is the Only Option.'"
+      },
+      "after": "0da742043dfa30c8",
+      "date": 1601119125961
+    },
+    {
+      "type": "edit",
+      "id": "0da742043dfa30c8",
+      "item": {
+        "type": "markdown",
+        "id": "0da742043dfa30c8",
+        "text": "# Vision"
+      },
+      "date": 1601119129957
+    },
+    {
+      "type": "edit",
+      "id": "ac4ceb41b6a78590",
+      "item": {
+        "type": "paragraph",
+        "id": "ac4ceb41b6a78590",
+        "text": "Creating new Wiki, and sharing it with others, needs to be simple. _A tactic that supports simple creation, for a client/server architecture, is 'Farm is the Only Option.'_"
+      },
+      "date": 1601119198955
+    },
+    {
+      "type": "edit",
+      "id": "ac4ceb41b6a78590",
+      "item": {
+        "type": "markdown",
+        "id": "ac4ceb41b6a78590",
+        "text": "Creating new Wiki, and sharing it with others, needs to be simple. _A tactic that supports simple creation, for a client/server architecture, is 'Farm is the Only Option.'_"
+      },
+      "date": 1601119200337
+    },
+    {
+      "type": "edit",
+      "id": "ac4ceb41b6a78590",
+      "item": {
+        "type": "markdown",
+        "id": "ac4ceb41b6a78590",
+        "text": "Creating new Wiki, and sharing it with others, needs to be simple. _A tactic that supports simple creation, for a client/server architecture, is 'Farm is the Only Option.'_\n"
+      },
+      "date": 1601119205624
+    },
+    {
+      "type": "add",
+      "id": "74c7d128ca1bb6d1",
+      "item": {
+        "type": "markdown",
+        "id": "74c7d128ca1bb6d1",
+        "text": "Extending the types of content supported with a wiki should be simple. _A tactic to support this is to use plugins for each content type. A technology specific solution is the use of ES6 Module._\n"
+      },
+      "after": "ac4ceb41b6a78590",
+      "date": 1601119664707
+    },
+    {
+      "type": "fork",
+      "site": "goals.pod.rodwell.me",
+      "date": 1601128126220
+    }
+  ]
+}
