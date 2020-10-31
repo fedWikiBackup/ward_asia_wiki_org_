@@ -1,0 +1,186 @@
+{
+  "title": "Rename Ghost Pages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ffca7be5214c65d6",
+      "text": "We've resisted renaming pages because it introduces so many complexities with respect to persistent and shared resources. Ghost pages are immune to these issues and will offer solutions to some of the most demanding cases."
+    },
+    {
+      "type": "paragraph",
+      "id": "54c52790f465ca86",
+      "text": "Wiki offers to create a page but gets the preferred title case wrong. So, fix it before creating the page."
+    },
+    {
+      "type": "paragraph",
+      "id": "44789cbb547193be",
+      "text": "We wish to materialize an old revision as a page in its own right. So, fix the revisions title before forking it from history."
+    },
+    {
+      "type": "paragraph",
+      "id": "173ce77bf80494c7",
+      "text": "We search for something and find the search result is almost exactly the bibliography we intend to write. So, fix the title of the search result and fork it into existance."
+    },
+    {
+      "type": "markdown",
+      "id": "490e87c867f90d11",
+      "text": "# Details"
+    },
+    {
+      "type": "paragraph",
+      "id": "0b4084b1229947c3",
+      "text": "Ghost pages only enable content editable for titles."
+    },
+    {
+      "type": "paragraph",
+      "id": "04e33f256ee0cdd7",
+      "text": "On completion, change the page json in multiple places to reflect the new title."
+    },
+    {
+      "type": "paragraph",
+      "id": "e0b160768f334647",
+      "text": "Possibly omit ghost pages from the lineup url so that this need not be corrected when edited. Existing uses of this information fail except for revisions."
+    },
+    {
+      "type": "paragraph",
+      "id": "d3be7513bbc1a521",
+      "text": "ToDo: Check all [[Rename Pages]] concerns to be sure they are avoided."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Rename Ghost Pages",
+        "story": []
+      },
+      "date": 1604103583906
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ffca7be5214c65d6"
+      },
+      "id": "ffca7be5214c65d6",
+      "type": "add",
+      "date": 1604103586328
+    },
+    {
+      "type": "edit",
+      "id": "ffca7be5214c65d6",
+      "item": {
+        "type": "paragraph",
+        "id": "ffca7be5214c65d6",
+        "text": "We've resisted renaming pages because it introduces so many complexities with respect to persistent and shared resources. Ghost pages are immune to these issues and will offer solutions to some of the most demanding cases."
+      },
+      "date": 1604103700972
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "54c52790f465ca86"
+      },
+      "id": "54c52790f465ca86",
+      "type": "add",
+      "after": "ffca7be5214c65d6",
+      "date": 1604103749903
+    },
+    {
+      "type": "edit",
+      "id": "54c52790f465ca86",
+      "item": {
+        "type": "paragraph",
+        "id": "54c52790f465ca86",
+        "text": "Wiki offers to create a page but gets the preferred title case wrong. So, fix it before creating the page."
+      },
+      "date": 1604103827722
+    },
+    {
+      "type": "add",
+      "id": "44789cbb547193be",
+      "item": {
+        "type": "paragraph",
+        "id": "44789cbb547193be",
+        "text": "We wish to materialize an old revision as a page in its own right. So, fix the revisions title before forking it from history."
+      },
+      "after": "54c52790f465ca86",
+      "date": 1604103958514
+    },
+    {
+      "type": "add",
+      "id": "173ce77bf80494c7",
+      "item": {
+        "type": "paragraph",
+        "id": "173ce77bf80494c7",
+        "text": "We search for something and find the search result is almost exactly the bibliography we intend to write. So, fix the title of the search result and fork it into existance."
+      },
+      "after": "44789cbb547193be",
+      "date": 1604104083688
+    },
+    {
+      "type": "add",
+      "id": "490e87c867f90d11",
+      "item": {
+        "type": "paragraph",
+        "id": "490e87c867f90d11",
+        "text": "# Details"
+      },
+      "after": "173ce77bf80494c7",
+      "date": 1604104170575
+    },
+    {
+      "type": "add",
+      "id": "0b4084b1229947c3",
+      "item": {
+        "type": "paragraph",
+        "id": "0b4084b1229947c3",
+        "text": "Ghost pages only enable content editable for titles."
+      },
+      "after": "490e87c867f90d11",
+      "date": 1604104203394
+    },
+    {
+      "type": "add",
+      "id": "04e33f256ee0cdd7",
+      "item": {
+        "type": "paragraph",
+        "id": "04e33f256ee0cdd7",
+        "text": "On completion, change the page json in multiple places to reflect the new title."
+      },
+      "after": "0b4084b1229947c3",
+      "date": 1604104272935
+    },
+    {
+      "type": "add",
+      "id": "e0b160768f334647",
+      "item": {
+        "type": "paragraph",
+        "id": "e0b160768f334647",
+        "text": "Possibly omit ghost pages from the lineup url so that this need not be corrected when edited. Existing uses of this information fail except for revisions."
+      },
+      "after": "04e33f256ee0cdd7",
+      "date": 1604104362075
+    },
+    {
+      "type": "edit",
+      "id": "490e87c867f90d11",
+      "item": {
+        "type": "markdown",
+        "id": "490e87c867f90d11",
+        "text": "# Details"
+      },
+      "date": 1604104365898
+    },
+    {
+      "type": "add",
+      "id": "d3be7513bbc1a521",
+      "item": {
+        "type": "paragraph",
+        "id": "d3be7513bbc1a521",
+        "text": "ToDo: Check all [[Rename Pages]] concerns to be sure they are avoided."
+      },
+      "after": "e0b160768f334647",
+      "date": 1604104435075
+    }
+  ]
+}

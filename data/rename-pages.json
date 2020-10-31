@@ -7,6 +7,11 @@
       "text": "Sometime you get the name wrong. The name is important. We need a rename that  is convenient, safe and useful in both local and distributed cases."
     },
     {
+      "type": "paragraph",
+      "id": "f1284149d5e5d497",
+      "text": "See [[Rename Ghost Pages]] for a simplification."
+    },
+    {
       "type": "html",
       "id": "d4a17a47a3e30ada",
       "text": "<h3> Cases"
@@ -784,6 +789,17 @@
       },
       "after": "e6b70296b1ae406e",
       "date": 1498234340952
+    },
+    {
+      "type": "add",
+      "id": "f1284149d5e5d497",
+      "item": {
+        "type": "paragraph",
+        "id": "f1284149d5e5d497",
+        "text": "See [[Rename Ghost Pages]] for a simplification."
+      },
+      "after": "1bc1fd663f78ef82",
+      "date": 1604103580583
     }
   ]
 }

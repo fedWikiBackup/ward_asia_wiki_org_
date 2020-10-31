@@ -63,6 +63,11 @@
     },
     {
       "type": "paragraph",
+      "id": "8de2b45e03bd8695",
+      "text": "[[Rename Pages]] which has many implications for sitemaps and neighborhoods as well as delete and recover. It's time to work these out."
+    },
+    {
+      "type": "paragraph",
       "id": "ac9f98fc860c2f4a",
       "text": "[[Experimental Plugin Deployment]] to selected sites to gain experience while developing new or enhanced features."
     },
@@ -80,11 +85,6 @@
       "type": "paragraph",
       "id": "d9be73d2381898dd",
       "text": "[[New Site Starter Kit]] that will guide a new site owner through accepted customizations and common workflows. This could include creating support channels on, say, stack overflow, or some standard practice for reaching a farm's operator."
-    },
-    {
-      "type": "paragraph",
-      "id": "8de2b45e03bd8695",
-      "text": "[[Rename Pages]] which has many implications for sitemaps and neighborhoods as well as delete and recover. It's time to work these out."
     },
     {
       "type": "paragraph",
@@ -1476,6 +1476,68 @@
         "text": "[[Hide Factories when Read-Only]] because they instruct authors on how to write, not readers on how to read."
       },
       "date": 1580442084155
+    },
+    {
+      "id": "8de2b45e03bd8695",
+      "type": "move",
+      "order": [
+        "bca952328122b574",
+        "c6826eb10c8e065f",
+        "2d48268f1674af50",
+        "71f1282d5beaa0c6",
+        "4a80dc63eeacd5ef",
+        "023b9dcc6682a602",
+        "6a88e16c06332202",
+        "531373a02611f87b",
+        "5d5a24cb56e5d965",
+        "d07d688fe62313be",
+        "1a50aa1ec0136e82",
+        "656cd0c0fff28725",
+        "ac9f98fc860c2f4a",
+        "8de2b45e03bd8695",
+        "f86049af177cda0c",
+        "5ca421bae0bcedb1",
+        "d9be73d2381898dd",
+        "f34920c0adeb24d9",
+        "6d9946bc1bc58f25",
+        "2435c4302588e504",
+        "e660b5aed7f1b291",
+        "d06e965b56f9c051",
+        "c1e6cc7a864552e0",
+        "930ad1fccf115ee4"
+      ],
+      "date": 1604103538657
+    },
+    {
+      "id": "8de2b45e03bd8695",
+      "type": "move",
+      "order": [
+        "bca952328122b574",
+        "c6826eb10c8e065f",
+        "2d48268f1674af50",
+        "71f1282d5beaa0c6",
+        "4a80dc63eeacd5ef",
+        "023b9dcc6682a602",
+        "6a88e16c06332202",
+        "531373a02611f87b",
+        "5d5a24cb56e5d965",
+        "d07d688fe62313be",
+        "1a50aa1ec0136e82",
+        "656cd0c0fff28725",
+        "8de2b45e03bd8695",
+        "ac9f98fc860c2f4a",
+        "f86049af177cda0c",
+        "5ca421bae0bcedb1",
+        "d9be73d2381898dd",
+        "f34920c0adeb24d9",
+        "6d9946bc1bc58f25",
+        "2435c4302588e504",
+        "e660b5aed7f1b291",
+        "d06e965b56f9c051",
+        "c1e6cc7a864552e0",
+        "930ad1fccf115ee4"
+      ],
+      "date": 1604103541393
     }
   ]
 }
