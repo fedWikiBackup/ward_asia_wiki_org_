@@ -1,0 +1,3301 @@
+[
+  {
+    "slug": "-federated-wiki-design-principles",
+    "title": " Federated Wiki Design Principles",
+    "date": 1450538077631,
+    "synopsis": "SITES splash.fed.wiki.org"
+  },
+  {
+    "slug": "2001-geocaches",
+    "title": "2001 Geocaches",
+    "date": 1469059966790,
+    "synopsis": "A Geocache is a treasure hidden by high tech adventurers expressly to be found by the like minded armed with handheld GPS receivers. The Geocaching.com web site explains the sport and can point you toward stashes in your own locale. These are the caches we have created."
+  },
+  {
+    "slug": "32c3-virtually",
+    "title": "32C3 Virtually",
+    "date": 1451196364964,
+    "synopsis": "We're pleased to be partially present at the CCC event. Here I keep track of what I've promised and how it worked. See [[Federation Search]], [[Recent Changes]]"
+  },
+  {
+    "slug": "a-tiny-static-full-text-search",
+    "title": "A Tiny, Static, Full-Text Search",
+    "date": 1591762635220,
+    "synopsis": "Let's run all articles through a generator that creates a tiny, self-contained search index using this magical data structure called a Bloom Filter. [https://endler.dev/2019/tinysearch/ post]"
+  },
+  {
+    "slug": "about-activity-plugin",
+    "title": "About Activity Plugin",
+    "date": 1553379753735,
+    "synopsis": "The Activity plugin lists pages in your neighborhood. It expand as your neighborhood grows. Page names used on multiple sites are grouped together with the most current site listed first. Read [[More About Activity Plugin]]."
+  },
+  {
+    "slug": "about-dotviz-plugin",
+    "title": "About DotViz Plugin",
+    "date": 1422061786749,
+    "synopsis": "This plugin takes dot markup and renders in place as svg. The dot converter runs on the server returning svg formatted text to the wiki plugin in the browser."
+  },
+  {
+    "slug": "about-map-plugin",
+    "title": "About Map Plugin",
+    "date": 1467918164394,
+    "synopsis": "This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption."
+  },
+  {
+    "slug": "about-plugins-plugin",
+    "title": "About Plugins Plugin",
+    "date": 1468798593388,
+    "synopsis": "The Plugins plugin lists the available plugins on the origin server. Specific plugins can be selected with a regular expression. [https://github.com/WardCunningham/wiki-plugin-plugins github]"
+  },
+  {
+    "slug": "about-radar-plugin",
+    "title": "About Radar Plugin",
+    "date": 1435868639173,
+    "synopsis": "The Radar plugin plots data that it finds already open in the wiki in a radial grid with many axis, one for each dimension in the data."
+  },
+  {
+    "slug": "about-search-plugin",
+    "title": "About Search Plugin",
+    "date": 1450127336264,
+    "synopsis": "Search retrieves page references from information recorded by federated wiki search services."
+  },
+  {
+    "slug": "aboutus-office",
+    "title": "AboutUs Office",
+    "date": 1469137940510,
+    "synopsis": "We occupied half a floor of this recently saved from derelict status old railroad warehouse. We enjoyed an open plan with rollaround Anthro desks. I rolled mine next to whoever I thought I should be working with most that week or two."
+  },
+  {
+    "slug": "abstraction-in-turtle-geometry",
+    "title": "Abstraction in Turtle Geometry",
+    "date": 1585796187089,
+    "synopsis": "We seek to bring previous javascript experiments with turtle geometry to wiki. We are porting a turtle geometry editor from a previous jQuery-based implementation to a modern ES6 implementation. In our most recent branch we have a proof-of-concept that our editor can save geometry into the memory of a seran-wiki outpost where it can be included in a node-based wiki and forked into the wider federation."
+  },
+  {
+    "slug": "active-feeds",
+    "title": "Active Feeds",
+    "date": 1505361752018,
+    "synopsis": "We notice sites that host automatic updates and consider improvements for each."
+  },
+  {
+    "slug": "active-sites",
+    "title": "Active Sites",
+    "date": 1601240947323,
+    "synopsis": "Sites active since last scrape."
+  },
+  {
+    "slug": "advanced-work",
+    "title": "Advanced Work",
+    "date": 1445187282454,
+    "synopsis": "Elso Kilpi questions the cultural metaphors that guide our actions at work and in society as belonging to an outmoded industrial era. Creative, knowledge-based work crosses traditional organisational boundaries: organisations are emergent self-organising processes. [https://medium.com/@EskoKilpi/advanced-work-5ac3d810fe49 essay]."
+  },
+  {
+    "slug": "alert-on-home-outage",
+    "title": "Alert on Home Outage",
+    "date": 1558826519662,
+    "synopsis": "We configure a Detect and Alert with a hair trigger as a test case of the [[Alert Prototype]]. We can stop and start home servers without much disruption and from Singapore ping timeouts make them appear more flaky than they really are. See [[Ping Home Servers]]"
+  },
+  {
+    "slug": "alert-prototype",
+    "title": "Alert Prototype",
+    "date": 1560354946767,
+    "synopsis": "We've built a pingdom replacement out of our Datalog work. Now we want to similarly configure more server-side plugins to detect and alert reliably without many false alarms. See [[Ping Service]]"
+  },
+  {
+    "slug": "alex-north",
+    "title": "Alex North",
+    "date": 1419112338213,
+    "synopsis": "Alex is a software engineer in Sydney, Australia. He previously worked on [[Google Wave]]."
+  },
+  {
+    "slug": "all-eyes-on-saturn",
+    "title": "All Eyes on Saturn",
+    "date": 1505490343014,
+    "synopsis": "I got up this morning to watch the live feed from JPL as the Cassini spacecraft tumbled into Saturn's atmosphere. Cassini's thruster stabilization switched to high gain as it struggled to point its antenna to Earth. A minute passed. Then the last blip on the radio spectrum was gone,"
+  },
+  {
+    "slug": "am-i-logged-in-yet",
+    "title": "Am I Logged In Yet?",
+    "date": 1537148549672,
+    "synopsis": "We may not yet be as consistent as we need to be as to how we signal authentication, authorization, ownership and mode. These signals appear in the left end of the web page footer."
+  },
+  {
+    "slug": "amazon-sns",
+    "title": "Amazon SNS",
+    "date": 1557107004835,
+    "synopsis": "Amazon's Simple Notification Service looks like a promising way to sent alerts when we notice a site going down. [https://console.aws.amazon.com/sns/v3/home?region=us-east-1#/homepage amazon]"
+  },
+  {
+    "slug": "ambient-computing",
+    "title": "Ambient Computing",
+    "date": 1453132719657,
+    "synopsis": "Ambient computing is a newish phrase without a clear definition. We use it here to refer to  a slower, social form of computation which occurs and is visualised through the participation of network actors."
+  },
+  {
+    "slug": "ambient-federation",
+    "title": "Ambient Federation",
+    "date": 1438232606111,
+    "synopsis": "We imagine the day not far away when talking to a computer in public will not sound like science fiction. We'll live in a world of muffled speech. A few dialogs will be about important things other than ordering pizza."
+  },
+  {
+    "slug": "annotate-yellow-halo",
+    "title": "Annotate Yellow Halo",
+    "date": 1582504470807,
+    "synopsis": "We sketch an idea for an escape from  the confusing yellow halo. But also, did you know that the reason for the halo is often recorded in the journal as it has been here?"
+  },
+  {
+    "slug": "are-we-a-model-or-a-document",
+    "title": "Are We a Model or a Document?",
+    "date": 1599448270343,
+    "synopsis": "Our dreams for this technology are pulled in different directions by competing traditions as to what we put into computers and what we expect to happen there. Hypertext straddles this division and is thus able to go either way. But our dreams are most likely aligned with one or the other."
+  },
+  {
+    "slug": "asset-abstractions-improve",
+    "title": "Asset Abstractions Improve",
+    "date": 1562596718949,
+    "synopsis": "Since the dawn of the web large files such as images were separated from the hypertext and eventually referred to as assets. We defied this distinction by storing images inside our page json and have suffered under the large files thus produced. Here we chart our long struggle to have our unique model for sharing work for segregated assets."
+  },
+  {
+    "slug": "asset-sharing-workflow",
+    "title": "Asset Sharing Workflow",
+    "date": 1580451747130,
+    "synopsis": "We consider the case where assets are devised to make a welcoming custom home page that others might wish to emulate. We catalog examples with a page of Reference to a standardized asset description pages that are intended to be forked into new sites."
+  },
+  {
+    "slug": "assets-in-ipfs",
+    "title": "Assets in IPFS",
+    "date": 1475209485704,
+    "synopsis": "We explore distributing assets via a node on localhost. The strategy is to store postcard sized assets in the json along with full resolution content in ipfs. Double-click will retrieve and display the ipfs version."
+  },
+  {
+    "slug": "assets-plugin",
+    "title": "Assets Plugin",
+    "date": 1516564532983,
+    "synopsis": "We want a plugin that can show a subdirectory of assets, offer links to those assets, and add more on drop."
+  },
+  {
+    "slug": "audioboom-transport",
+    "title": "Audioboom Transport",
+    "date": 1450606321983,
+    "synopsis": "The audioboom-transport creates HTML5 audio pages in Fedwiki. [[Drag and Drop]] an audioboom url onto the [[Transporter]] and it will create a [[Ghost Page]] containing an image, map, description and audio from the audioboom website."
+  },
+  {
+    "slug": "augmentation-means",
+    "title": "Augmentation Means",
+    "date": 1513541902397,
+    "synopsis": "Our culture has evolved means for us to organize the little things we can do with our basic capabilities so that we can derive comprehension from truly complex situations, and accomplish the processes of deriving and implementing problem solutions. The ways in which human capabilities are thus extended are here called augmentation means, and we define four basic classes of them. [http://www.1962paper.org/web.html report]"
+  },
+  {
+    "slug": "authentication-resources",
+    "title": "Authentication Resources",
+    "date": 1468680055901,
+    "synopsis": "We list and maybe even review authentication systems and interfaces that will show the range of what might be expected of wiki in diverse circumstances."
+  },
+  {
+    "slug": "automated-pages",
+    "title": "Automated Pages",
+    "date": 1450557148375,
+    "synopsis": "We can write scripts that show what's happening around the federation but how can we run them automatically?"
+  },
+  {
+    "slug": "backup",
+    "title": "Backup",
+    "date": 1497816909695,
+    "synopsis": "You will want to make backups of the sites you own or host for others. Don't confuse the journal with a backup strategy. The journal tells others how the pages you decide to keep got the way they are. If you loose pages, the journals go with them."
+  },
+  {
+    "slug": "bad-markup",
+    "title": "Bad Markup",
+    "date": 1422316150778,
+    "synopsis": "These are pages that need markup attention beyond the shift-double-click fix."
+  },
+  {
+    "slug": "bagby-confluence",
+    "title": "Bagby Confluence",
+    "date": 1467765570399,
+    "synopsis": "This confluence is in the Clackamas River Ranger District of the section of the Mount Hood National Forest. It is six miles southeast of the Ripplebrook Ranger Station, in the same general area as Bagby Hot Springs. September 23, 2000. [http://c2.com/ward/confluence/n45w122/ page]"
+  },
+  {
+    "slug": "bbc-five-shot",
+    "title": "BBC Five Shot",
+    "date": 1438354614756,
+    "synopsis": "Michael Rosenblum’s “five shot” is a method that he developed training journalists from the NY Times to the BBC. It’s actually something he’s preached since the late 1990s, and those who are fortunate enough to learn it get an insight into shooting better video, immediately. [http://www.andrewlih.com/blog/2011/10/01/fiveshotpattern/ post]"
+  },
+  {
+    "slug": "bbc-world-service",
+    "title": "BBC World Service",
+    "date": 1420511585766,
+    "synopsis": "Scraper for news stories from the BBC. [http://www.bbc.com/news/world-middle-east-28069800 news]"
+  },
+  {
+    "slug": "best-picts",
+    "title": "Best Picts",
+    "date": 1474762119902,
+    "synopsis": "These are from a sample app saving images to ipfs. [https://ipfs.pics/best site]"
+  },
+  {
+    "slug": "beware-the-secure-internet",
+    "title": "Beware the Secure Internet",
+    "date": 1580904554433,
+    "synopsis": "When my browser tells me the wiki server is 'Not secure', what is it telling me and what practical significance does this have? [https://riot.im/app/#/room/#fedwiki:matrix.org/$158023002162267jrjXW:matrix.org riot]"
+  },
+  {
+    "slug": "beyond-slugs",
+    "title": "Beyond Slugs",
+    "date": 1484613382057,
+    "synopsis": "We convert link text to slugs and thus gain safe text for use in urls and flat file names. Slugs use all lowercase and thus provide case independent retrieval of pages. Once retrieved, the title's mixed case and special characters are rendered from the title field of the page json."
+  },
+  {
+    "slug": "bibliographic-refresh",
+    "title": "Bibliographic Refresh",
+    "date": 1419191234154,
+    "synopsis": "Keep the bios of a class list up to date with student changes by tickling all references on a page of interest."
+  },
+  {
+    "slug": "big-trouble-pages",
+    "title": "Big Trouble Pages",
+    "date": 1567295898874,
+    "synopsis": "See have seen some null pointer exceptions while studying [[Unexpected Server Restarts]]. Let's get 'em."
+  },
+  {
+    "slug": "biketown",
+    "title": "Biketown",
+    "date": 1568925018323,
+    "synopsis": "Portland's bike share program launched in July 2016 with 1,000 bikes at 100 stations across downtown and several neighborhoods. [https://www.biketownpdx.com/ site]"
+  },
+  {
+    "slug": "biological-inspiration",
+    "title": "Biological Inspiration",
+    "date": 1447526152545,
+    "synopsis": "We ask, through what thought processes have we guided federated wiki's mechanisms and has that guidance proven sound?"
+  },
+  {
+    "slug": "blockchain-timestamp",
+    "title": "Blockchain Timestamp",
+    "date": 1589901825528,
+    "synopsis": "With OpenTimestamps I can, by various means, produce difficult to refute evidence that bits I have in my possession existed at a point in time. The exact configuration of bits is summarized by cryptographic means of high reliability. Further, the clock is similarly demonstrated to be reliable by public activity of those maintaining the blockchain where the two bits of information are joined. [https://opentimestamps,org site]"
+  },
+  {
+    "slug": "blue-remote",
+    "title": "Blue Remote",
+    "date": 1495211081152,
+    "synopsis": "A page retrieved from a site other than the origin are shown with a blue border."
+  },
+  {
+    "slug": "bottles-of-beer-methods",
+    "title": "Bottles of Beer Methods",
+    "date": 1452663290595,
+    "synopsis": "We compute a few verses of the Bottles of Beer song using Method paragraphs as both producers and consumers of data values."
+  },
+  {
+    "slug": "catalog-of-custom-home-pages",
+    "title": "Catalog of Custom Home Pages",
+    "date": 1580482238335,
+    "synopsis": "We have an asset convention for making [[Safe and Familiar Welcome]] pages. The server looks for index.html in the home asset. When there, it redirects to this to start browsing. We encourage this by offering examples to be forked and modified."
+  },
+  {
+    "slug": "certified-friendly-photographer",
+    "title": "Certified Friendly Photographer",
+    "date": 1506692533873,
+    "synopsis": "When an organization adds more than one person per week others will quickly lose track of who's who. An organization this size should commission colleagues to fill a public image catalog and keep it up to date with retakes."
+  },
+  {
+    "slug": "chatham-house-rule",
+    "title": "Chatham House Rule",
+    "date": 1512476752190,
+    "synopsis": "When a meeting, or part thereof, is held under the Chatham House Rule, participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed. [https://www.chathamhouse.org/about/chatham-house-rule page]"
+  },
+  {
+    "slug": "check-the-weather",
+    "title": "Check the Weather",
+    "date": 1599572682452,
+    "synopsis": "I check various sources to plan my morning bicycle commute. I wish this would all appear on one wiki page."
+  },
+  {
+    "slug": "chorus-of-voices",
+    "title": "Chorus of Voices",
+    "date": 1487103987358,
+    "synopsis": "Four distinct concerns surface when designing federated wiki based information communities. We identify each and suggest forces that must be resolved before creative collaboration will take place."
+  },
+  {
+    "slug": "chronological-access",
+    "title": "Chronological Access",
+    "date": 1498486159015,
+    "synopsis": "We ask, if the creation date of every page is recorded, why make it the title also?"
+  },
+  {
+    "slug": "chronological-scaling",
+    "title": "Chronological Scaling",
+    "date": 1523545997342,
+    "synopsis": "I would like to say a few words about the challenge I think we face which I would like to call “chronological scaling”. Let me describe this in terms of a question a high school student might ask:"
+  },
+  {
+    "slug": "citation-bar",
+    "title": "Citation Bar",
+    "date": 1512232837479,
+    "synopsis": "The \"citation bar\" is a proposal for a new framing of the journal display in wiki."
+  },
+  {
+    "slug": "cities-alive-as-hypertext",
+    "title": "Cities Alive as Hypertext",
+    "date": 1511189089721,
+    "synopsis": "As an experiment we've taken an export of production artifacts and written javascript that transforms that to federated wiki hypertext. We describe our pilot process."
+  },
+  {
+    "slug": "cities-alive-inside",
+    "title": "Cities Alive Inside",
+    "date": 1511029281535,
+    "synopsis": "We extract html from the Amazon Look-Inside of the newly released [[Cities Alive]]. We are working with the author and author's book designer to streamline a process and a better product. For now it is hacking with jQuery."
+  },
+  {
+    "slug": "clean-fast-install",
+    "title": "Clean Fast Install",
+    "date": 1481556024099,
+    "synopsis": "We've gotten a lot of benefit from install scripts for digital ocean but haven't always used best practices or followed them up with maintenance and upgrade practices."
+  },
+  {
+    "slug": "cleaning-the-journal",
+    "title": "Cleaning the Journal",
+    "date": 1463282627544,
+    "synopsis": "We're testing the new journal cleaner."
+  },
+  {
+    "slug": "client-server-doit-framework",
+    "title": "Client-Server Doit Framework",
+    "date": 1590885246497,
+    "synopsis": "We offer a static html framework that will post a query to a server and then render the result in place. This makes for a web version of the read-eval-print loop where eval happens on the server."
+  },
+  {
+    "slug": "coding-folks",
+    "title": "Coding Folks",
+    "date": 1419111026860,
+    "synopsis": "If you're talking about federated wiki code, add your site here and you will be heard sooner. You can, but need not, use the same site as the happening."
+  },
+  {
+    "slug": "collaborative-link",
+    "title": "Collaborative Link",
+    "date": 1496845308483,
+    "synopsis": "The web became more collaborative with wiki's introduction of the [[Internal Link]]. Link names were drawn from a shared space backed up at the time by shared storage. Federated wiki's internal links preserves the shared space but not the shared storage making it the ideal link for the distributed collaborative web."
+  },
+  {
+    "slug": "collaborative-reality",
+    "title": "Collaborative Reality",
+    "date": 1580671099975,
+    "synopsis": "We propose an architecture for observing and interpreting reality through low latency reporting from distributed agents, aggregation as spatial models, and collaborative assessments by a community of experts. [http://ward.asia.wiki.org/assets/pages/collaborative-reality/cro-architecture.png enlarge] [http://ward.asia.wiki.org/assets/pages/collaborative-reality/cro-architecture.pdf pdf]"
+  },
+  {
+    "slug": "collect-ft8-decodes",
+    "title": "Collect FT8 Decodes",
+    "date": 1582777630735,
+    "synopsis": "We experiment by collecting FT8 mode payloads as decoded by WSJT-X software and reported to us via UDP.  The WSJT plugin server-side manages a circular buffer. The client-side fetches subsets and shares aspects with other plugins. [https://github.com/WardCunningham/wiki-plugin-wsjt github]"
+  },
+  {
+    "slug": "community-of-the-moment",
+    "title": "Community of the Moment",
+    "date": 1513528814792,
+    "synopsis": "We consider how a group of like-minded folks might assemble for a few days and produce pages valuable in the moment and possibly posterity."
+  },
+  {
+    "slug": "community-support-technician",
+    "title": "Community Support Technician",
+    "date": 1602372245293,
+    "synopsis": "Can we sketch a curriculum for medical school for wiki doctors? An MD might learn biology, anatomy and ethics. We might teach networking, wiki and federation. Graduates could solve new user problems but not host a wiki farm or run a hospital for that matter."
+  },
+  {
+    "slug": "complementary-notice-on-fork",
+    "title": "Complementary Notice on Fork",
+    "date": 1483369755508,
+    "synopsis": "The client could tell a remote server when it forks a page. I've resisted this because I don't want strangers to write on any site (they will find a way to spam). However, a complementary notice could be ignored, counted or recorded. All are useful options at various states of growth."
+  },
+  {
+    "slug": "computational-habitat",
+    "title": "Computational Habitat",
+    "date": 1449070189122,
+    "synopsis": "We consider wiki as an opportunistic symbiotic organism existing in and responding to the habitat provided by the evolving internet."
+  },
+  {
+    "slug": "condensed-journal",
+    "title": "Condensed Journal",
+    "date": 1463282436009,
+    "synopsis": "The Journal is created as a side-effect of editing and matches the editing interactions in detail. Here we consider eliding some of that detail when published or viewed. We don't yet exploit the journal for merging but should be careful that we don't limit that functionality."
+  },
+  {
+    "slug": "conduit-of-high-fidelity",
+    "title": "Conduit of High Fidelity",
+    "date": 1451613464109,
+    "synopsis": "Words provide a metaphorical conduit for our thought that is marginal at best in practice. We supplement traditional composition with [[Diverse and Personal Context]] so as to provide for a more embodied experience for later and distant readers."
+  },
+  {
+    "slug": "config-notes",
+    "title": "Config Notes",
+    "date": 1547278260874,
+    "synopsis": "We notice where important server files get installed. See also [[Wiki Admin]], [[Wiki Relocation]], [[Server Startup]]"
+  },
+  {
+    "slug": "configured-changes",
+    "title": "Configured Changes",
+    "date": 1427211386645,
+    "synopsis": "The activity plugin now accepts commands. [https://github.com/fedwiki/wiki-plugin-activity/pull/8 github]"
+  },
+  {
+    "slug": "content-transformation",
+    "title": "Content Transformation",
+    "date": 1585918072279,
+    "synopsis": "We've written a number of one-off content translators that usually involve adapting old scripts to new circumstances. In a recent conversion we found making two sites useful where the second site records the difficulties and solutions used to produce the first. This replaces console.log with hypertext."
+  },
+  {
+    "slug": "contingent-also",
+    "title": "Contingent Also",
+    "date": 1524301374105,
+    "synopsis": "We consider how decoding of clicks and drops might be extended to remote services without fundamentally changing the nature of wiki. We suggest this behavior be concentrated in a new plugin called \"Also\"."
+  },
+  {
+    "slug": "contours-of-privilege",
+    "title": "Contours of Privilege",
+    "date": 1453133703846,
+    "synopsis": "We consider the landscape of authentication and authorization we desire when everything we own is computerized."
+  },
+  {
+    "slug": "coordinated-viewing",
+    "title": "Coordinated Viewing",
+    "date": 1462812910572,
+    "synopsis": "We consider what we have and what we might want for coordinating between independent applications."
+  },
+  {
+    "slug": "correct-markdown",
+    "title": "Correct Markdown",
+    "date": 1522672872990,
+    "synopsis": "Markdown collects a handful of internet news group conventions as a counterpoint to the at one time simple but still unattractive html markup. Wiki markdown borrows some of these in order to render styles appropriate to its narrow anti-paper pages. This much it should do well."
+  },
+  {
+    "slug": "course-launch-workflow",
+    "title": "Course Launch Workflow",
+    "date": 1440080201620,
+    "synopsis": "There is yet to be developed a simple and tamper-free mechanism to grant students a place to write in a farm launched for that purpose."
+  },
+  {
+    "slug": "crash-restart-patterns",
+    "title": "Crash-Restart Patterns",
+    "date": 1601867424775,
+    "synopsis": "Fred Hebert writes, Over the years I found that a similar pattern makes a lot of sense for Erlang processes that need to do crash-restart patterns, with the idea of \"rolling back to a known stable state\". [https://lfi-software.slack.com/archives/CG0GVMEPJ/p1600882523023200 slack]"
+  },
+  {
+    "slug": "crazy-business",
+    "title": "Crazy Business",
+    "date": 1601241093147,
+    "synopsis": "Preloading 1173 sites."
+  },
+  {
+    "slug": "create-new-page",
+    "title": "Create New Page",
+    "date": 1554073317043,
+    "synopsis": "Here we consider when, where and how to make new pages. Pages and links go together. You can make either one first. One without the other leaves a site feeling unfinished which isn't a huge problem."
+  },
+  {
+    "slug": "creative-history-of-wiki",
+    "title": "Creative History of Wiki",
+    "date": 1497361562996,
+    "synopsis": "I wrote these notes as the camera crew was setting up. There are so many versions of the story only under that pressure could I find a fresh angle. [http://portlandcreatives.co/portfolio/ward-cunningham/ post]"
+  },
+  {
+    "slug": "creativity-before-and-after-agile",
+    "title": "Creativity Before and After Agile",
+    "date": 1586307593322,
+    "synopsis": "Organisms small and large learn by building a model of the world around them then testing that model against what they see and adjusting accordingly. We'll call this a learning loop. We identify three era in computing based on the nature of this loop and the kind of feedback learning that they support."
+  },
+  {
+    "slug": "css-cascade",
+    "title": "CSS Cascade",
+    "date": 1463751376165,
+    "synopsis": "We should divide wiki's style into well defined tiers such that every rule is motivated, well placed, and available before elements are rendered."
+  },
+  {
+    "slug": "cytoscape",
+    "title": "Cytoscape",
+    "date": 1447940633220,
+    "synopsis": "Cytoscape.js is an open-source graph theory (a.k.a. network) library written in JavaScript. You can use Cytoscape.js for graph analysis and visualisation - [http://js.cytoscape.org/ cytoscape.org]"
+  },
+  {
+    "slug": "data-in-context",
+    "title": "Data in Context",
+    "date": 1520434040848,
+    "synopsis": "We collect structural data within these pages where it can be interactively transformed and assembled into a whole destine for downstream inquiry and analysis."
+  },
+  {
+    "slug": "data-sources-cataloged",
+    "title": "Data Sources Cataloged",
+    "date": 1562512423387,
+    "synopsis": "Client-side plugins announce the availability of data by adding a class name to the enclosing div of the form 'something-source'. Here we systematically explore the source names in use in the visible federation. [https://github.com/fedwiki/plugin-search github]"
+  },
+  {
+    "slug": "data-wrapper",
+    "title": "Data Wrapper",
+    "date": 1466882201430,
+    "synopsis": "Datawrapper is a chart, graph, and map-making tool designed specifically to help journalists create clear, aesthetically appealing visuals. [https://scout.wisc.edu/archives/r47080 scout]"
+  },
+  {
+    "slug": "datalog-viewer",
+    "title": "Datalog Viewer",
+    "date": 1570985795127,
+    "synopsis": "The Datalog plugin acquires and stores data often conveniently represented as multiple lines in a timeseries chart. We have been replicating an html/plotly.js application for this purpose. Here we consider replacing these with a plugin."
+  },
+  {
+    "slug": "david-bovill",
+    "title": "David Bovill",
+    "date": 1440715552173,
+    "synopsis": "David is a prolific producer of both sites and pages."
+  },
+  {
+    "slug": "decentralized-web-summit",
+    "title": "Decentralized Web Summit",
+    "date": 1463915916971,
+    "synopsis": "This conference is the one discussed last year with [[Brewster Kahle]] at [[Chaos Communication Camp]]. It would be great to participate in some way with wiki, remotely or at the event."
+  },
+  {
+    "slug": "decisions-reach",
+    "title": "Decision's Reach",
+    "date": 1498490755787,
+    "synopsis": "We consider how in wiki the decisions we make impact others and over what distance that influence is felt."
+  },
+  {
+    "slug": "demanding-media",
+    "title": "Demanding Media",
+    "date": 1489496783544,
+    "synopsis": "We consider how to collaborate with large image, audio and video recordings. We look especially for ways that our strength, federation, brings something new to each medium."
+  },
+  {
+    "slug": "deploying-a-wiki",
+    "title": "Deploying a wiki",
+    "date": 1453039221386,
+    "synopsis": "There are lots of ways to deploy Federated Wiki. Here we are just talking about the easiest way to install the Node version to it's own, otherwise empty, Ubuntu 14.04 VPS from Digital Ocean."
+  },
+  {
+    "slug": "dig-handbook",
+    "title": "DIG Handbook",
+    "date": 1587521078754,
+    "synopsis": "We consistency check the source possible translation problems."
+  },
+  {
+    "slug": "digest-2015-07-29",
+    "title": "Digest 2015-07-29",
+    "date": 1438196879831,
+    "synopsis": "Chat log from 29th July 2015 Hangout."
+  },
+  {
+    "slug": "digression-workflow",
+    "title": "Digression Workflow",
+    "date": 1513541504866,
+    "synopsis": "We consider how new ideas emerge from others in federated hypertext. Both author and reader recall by association as they process speech acts. Research shows that ... um ... but I digress."
+  },
+  {
+    "slug": "distributed-assets",
+    "title": "Distributed Assets",
+    "date": 1562594700437,
+    "synopsis": "We'd like to share large files with the same semantics as wiki pages. We can assume that they are too large to pass through the browser's GET and PUT as synchronous operations."
+  },
+  {
+    "slug": "distributed-hash-table",
+    "title": "Distributed Hash Table",
+    "date": 1448636552934,
+    "synopsis": "A distributed hash table (DHT) is a class of a decentralized distributed system that provides a lookup service similar to a hash table. Any participating node can efficiently retrieve the value associated with a given key. [https://en.wikipedia.org/wiki/Distributed_hash_table wikipedia]"
+  },
+  {
+    "slug": "distributed-search",
+    "title": "Distributed Search",
+    "date": 1553364635379,
+    "synopsis": "Our scraping experience suggests we should distribute the function across all servers and move slowly enough that site owners can direct the spider's progress."
+  },
+  {
+    "slug": "do-we-really-need-a-community",
+    "title": "Do we really need a community?",
+    "date": 1473175540902,
+    "synopsis": "Sounds heretical. But maybe better: Does Fedwiki really need to support a community of people, or can we rely a little more on thinking about how we federate, how we move content around?"
+  },
+  {
+    "slug": "docker-all-the-things",
+    "title": "Docker All the Things",
+    "date": 1518550204577,
+    "synopsis": "As we struggle with installs we wonder if docker might help in the long run. It certainly has advantages in the short run."
+  },
+  {
+    "slug": "doit-deno",
+    "title": "Doit Deno",
+    "date": 1590942869958,
+    "synopsis": "We've adapted the venerable read-eval-print loop (REPL) to the network environment. Work in progress is kept in browser local storage. A button press then evaluates this server-side where cross-origin restrictions don't apply."
+  },
+  {
+    "slug": "dot-record-of-wiki-activity",
+    "title": "Dot Record of Wiki Activity",
+    "date": 1582133658304,
+    "synopsis": "A \"dot journal\" is a printed book with otherwise blank pages filled with dots where other journals would have line. They are more commonly called bullet journals because there are many associated productivity methodologies that involve recording bullet lists in such journals. I've been ask, could wiki provide such a record keeping mechanism that is with you everywhere?"
+  },
+  {
+    "slug": "dougs-demo-at-50",
+    "title": "Doug's Demo at 50",
+    "date": 1518886228415,
+    "synopsis": "The 9th of December 2018 will be the 50th anniversary of Doug Engelbart’s seminal ‘Mother of all Demos’. [http://doug-50.info/ site]"
+  },
+  {
+    "slug": "download-local-changes",
+    "title": "Download Local Changes",
+    "date": 1505494502348,
+    "synopsis": "Google blocked the mechanism we used to export local changes. They also suggested a better mechanism which we now use. [https://github.com/fedwiki/wiki-plugin-changes/issues/8 github]"
+  },
+  {
+    "slug": "draft-in-local-storage",
+    "title": "Draft in Local Storage",
+    "date": 1497364228154,
+    "synopsis": "We consider how we might make more use of browser local storage for a more reliable and somewhat private authoring experience."
+  },
+  {
+    "slug": "drag-to-link-graphs",
+    "title": "Drag to Link Graphs",
+    "date": 1461697242665,
+    "synopsis": "Our experience entering the [[Hatfield Clan]] has been tedious and error prone. But the manual work has brought to mind improvements to the Graph plugin that would enable multiple distributed drag and drop workflows."
+  },
+  {
+    "slug": "dream-big",
+    "title": "Dream Big",
+    "date": 1602367343498,
+    "synopsis": "We've allowed ourselves to imagine wiki with many possible features working together well. We do this to find interesting steps along the way."
+  },
+  {
+    "slug": "dreams-and-todos",
+    "title": "Dreams and ToDos",
+    "date": 1585750225043,
+    "synopsis": "We've kicked around ideas that still linger waiting for insight or energy to drive them to completion. Here they are within the lists that first tracked them or in shiny new homes where work is more easily prioritized."
+  },
+  {
+    "slug": "dynamic-diagrams-improved",
+    "title": "Dynamic Diagrams Improved",
+    "date": 1556229886577,
+    "synopsis": "With [[Dynamic Diagrams in Use]] we find and make improvements which will be remembered here."
+  },
+  {
+    "slug": "dynamic-diagrams-in-use",
+    "title": "Dynamic Diagrams in Use",
+    "date": 1559236778362,
+    "synopsis": "We'll collect notes here as we make lots of new Graphviz diagrams since it is now so easy and fun."
+  },
+  {
+    "slug": "echo-transporter",
+    "title": "Echo Transporter",
+    "date": 1488856533742,
+    "synopsis": "This transporter echos the parameters sent to it. Use this to understand what your transporter will have to work with on different computer, browsers, and dropped items."
+  },
+  {
+    "slug": "edison-wiki",
+    "title": "Edison Wiki",
+    "date": 1497907041444,
+    "synopsis": "There is lots of talk of Intel's Edison among locals here in Portland. Blain, an Intel IoT team member, jumped into an install of federated wiki on the pre-installed node.js."
+  },
+  {
+    "slug": "edit-in-flight",
+    "title": "Edit in Flight",
+    "date": 1421693490629,
+    "synopsis": "When posting edits to a server we expect the server to always be caught up. We should show a translucent spinner over items until we get an acknowledgement from the server. There are network failures that wait for a timeout to be thrown."
+  },
+  {
+    "slug": "edit-item-json",
+    "title": "Edit Item JSON",
+    "date": 1450285983754,
+    "synopsis": "We consider how we might offer plugins the option of structured user editing of item json in place of unstructured editing of the item's text field."
+  },
+  {
+    "slug": "edit-music",
+    "title": "Edit Music",
+    "date": 1448569920540,
+    "synopsis": "This d3 with audio web application visualizes and sonifies the wikipedia edit stream. The effect convinces us that something important is happening without saying what that is. [http://listen.hatnote.com/ site]"
+  },
+  {
+    "slug": "edits-in-flight",
+    "title": "Edits in Flight",
+    "date": 1419194173359,
+    "synopsis": "Editing continues while edits to previous items are traveling to and returning from the server. This state should be marked on the $item and rendered somehow with css."
+  },
+  {
+    "slug": "el-dorado-ui",
+    "title": "El Dorado UI",
+    "date": 1506707329634,
+    "synopsis": "This is a Sinatra app that provides a UI and canned queries for El Dorado, an enterprise structure warehouse. The web user can retreive results from a menu of queries or author new ad-hoc queries interactively. Results are in the form of tables or diagrams both of which can hyperlink to related queries."
+  },
+  {
+    "slug": "electron-wiki",
+    "title": "Electron Wiki",
+    "date": 1462214423083,
+    "synopsis": "Nick Niemeir has created an Electron application that bundles wiki-server with a browser window running the wiki-client giving the assembly exceptional control over its environment. [http://electron.atom.io/ site]"
+  },
+  {
+    "slug": "embedis-plugin",
+    "title": "Embedis Plugin",
+    "date": 1455639570495,
+    "synopsis": "Notes for installing Arduino/Embedis for the ESP8266 processor. Surprisingly a middle level library takes care of CORS headers so everything else is straightforward. [https://github.com/esp8266/Arduino/search?utf8=%E2%9C%93&q=Access-Control-Allow-Origin github]"
+  },
+  {
+    "slug": "end-drag-refactoring",
+    "title": "End Drag Refactoring",
+    "date": 1558370551792,
+    "synopsis": "We continue to suffer under one poor choice I made early in the project: drag refactoring. This was a design goal. I had hoped that a carelessly organized set of pages could be drag and drop refactored into a better design."
+  },
+  {
+    "slug": "ephemeral-content",
+    "title": "Ephemeral Content",
+    "date": 1592188429583,
+    "synopsis": "We suggest a new kind of content that can be created and shared within the federation with new rules for authorship and persistence. We intend this for fast distribution as one would expect in a conversation but with a well supported path to curated persistence expected of a wiki."
+  },
+  {
+    "slug": "escaping-addressing",
+    "title": "Escaping Addressing",
+    "date": 1450805689996,
+    "synopsis": "Address busses works well and are at the heart of both processor and memory design on a variety of scales. Address busses make computers a logical machine for when they are properly clocked we can reason knowing all elements have been considered. But this pattern is rare or nonexistent in nature. Let's understand why."
+  },
+  {
+    "slug": "events-on-the-wire",
+    "title": "Events on the Wire",
+    "date": 1538366024614,
+    "synopsis": "Federated wiki combines a collaborative publishing model with individual editing and refactoring convenience. Here we compare events present in our system to the taxonomy of Martin Fowler, et.al. [https://martinfowler.com/articles/201701-event-driven.html post]"
+  },
+  {
+    "slug": "everytimzonecom",
+    "title": "everytimzone.com",
+    "date": 1519486950002,
+    "synopsis": "It is devilishly difficult to reason about Time.  Here's a site to see the time instead of trying to do date math in your head. [https://everytimezone.com site]"
+  },
+  {
+    "slug": "experimental-plugin-deployment",
+    "title": "Experimental Plugin Deployment",
+    "date": 1507958436596,
+    "synopsis": "We have Plugmatic which greatly simplifies installing and upgrading published plugins. We ask here, how can we extend this convenience to new plugin development."
+  },
+  {
+    "slug": "explain-id-f--wikidomain-args",
+    "title": "Explain id, f & wikiDomain Args",
+    "date": 1534787663620,
+    "synopsis": "Wiki has many useful but rarely used features. Here we will outline interactions between these three server parameters as a test case for a better style of documentation."
+  },
+  {
+    "slug": "exploratory-parsing",
+    "title": "Exploratory Parsing",
+    "date": 1531088767615,
+    "synopsis": "See AboutUs Getting Started blog post announcing the open-sourcing of this technology. [https://github.com/WardCunningham/devblog/blob/master/_posts/2011-07-03-getting-started-exploratory-parsing.markdown github]"
+  },
+  {
+    "slug": "explore-transport-proxy",
+    "title": "Explore Transport Proxy",
+    "date": 1458516421163,
+    "synopsis": "Can we transport a page that will proxy back to the transporter for more pages?"
+  },
+  {
+    "slug": "exploring-digital-ocean",
+    "title": "Exploring Digital Ocean",
+    "date": 1437697470880,
+    "synopsis": "We're liking this provider. Also learned we have colleagues who now work there. We're here to learn about editing with long delays."
+  },
+  {
+    "slug": "exploring-underlying-principles",
+    "title": "Exploring Underlying Principles",
+    "date": 1601119664707,
+    "synopsis": "Taking a look at those Vision and Tactics that are heavily solution based. We try and expose the ideas that are surfaced in the [[Principles for Version Two]]."
+  },
+  {
+    "slug": "export-plugin",
+    "title": "Export Plugin",
+    "date": 1556404576376,
+    "synopsis": "We've found that exporting a large site is difficult through the user interface and perhaps impossible with login-to-view. A plugin that initiates a download could be required."
+  },
+  {
+    "slug": "extended-bpf",
+    "title": "Extended BPF",
+    "date": 1597261630522,
+    "synopsis": "BPF programs are a new type of software that makes a fundamental change to a 50-year old kernel model by introducing a new interface for applications to make kernel requests, alongside syscalls. [http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html post]"
+  },
+  {
+    "slug": "extract-site-to-dot",
+    "title": "Extract Site to Dot",
+    "date": 1551934725274,
+    "synopsis": "Here we start with as specific algorithm that is not large but has already defied an attempt at refactoring. We'll abstract it to pseudo-code and then suggest markup keywords that are both a simple and powerful replacement. See [[Growing Regions as Hypertext]]"
+  },
+  {
+    "slug": "extremely-modular-distributed-javascript",
+    "title": "Extremely Modular Distributed JavaScript",
+    "date": 1501727447553,
+    "synopsis": "YOUTUBE YQFPAyCgOlI"
+  },
+  {
+    "slug": "family-of-flags",
+    "title": "Family of Flags",
+    "date": 1419115162287,
+    "synopsis": "Wiki uses the favicon mechanism to label the origin in a browser tab. We call these flags and use them in many other circumstances. We generate them so that they are recognizable as distinct but still part of a family."
+  },
+  {
+    "slug": "farm-roster",
+    "title": "Farm Roster",
+    "date": 1437706106712,
+    "synopsis": "We can use the unix find command to list farm sites with non-empty pages directories. Cut extracts the domain name from the path. Sort arranges them in a canonical order."
+  },
+  {
+    "slug": "fat-future",
+    "title": "Fat Future",
+    "date": 1461851551555,
+    "synopsis": "The Future plugin offers to make a missing page. Let's pass more information from the link to the future and construct nicer looking pages."
+  },
+  {
+    "slug": "feature-plugin",
+    "title": "Feature Plugin",
+    "date": 1542121795630,
+    "synopsis": "We imagine how a plugin on an About page might set or clear optional features in an item while editing. We briefly called this \"charm\". We consider here boolean flags but could expect this to grow to scalar values but to remain well short of editing arbitrary json structures."
+  },
+  {
+    "slug": "federated-wiki-design-principles",
+    "title": "Federated Wiki Design Principles",
+    "date": 1414173411719,
+    "synopsis": "We have concentrated on a small number of idealistic principles, beliefs even, while ignoring considerable established practice. Only by such intense focus can we expect to find fresh solutions to persistent problems."
+  },
+  {
+    "slug": "federated-wiki-on-digital-ocean",
+    "title": "Federated Wiki on Digital Ocean",
+    "date": 1499705290719,
+    "synopsis": "At some point you may want to run your own Federated Wiki site, or perhaps set one up  for friends or a class. We've had good luck installing on Digital Ocean, which currently offers very cheap hosting and a much simpler setup than services such as Amazon Web Services."
+  },
+  {
+    "slug": "federating-foreign-servers",
+    "title": "Federating Foreign Servers",
+    "date": 1485371526159,
+    "synopsis": "We consider what requests a server must handle in order to participate in wiki's federation. Such a server provides pages without taking responsibility for the client-side javascript conventionally used by federated wiki."
+  },
+  {
+    "slug": "federation-analytics",
+    "title": "Federation Analytics",
+    "date": 1492438209954,
+    "synopsis": "I tried to add a plugin that would enable somehow google analytics. This work didn't lead to anything interesting. Here I rant in our chat as to why this is so. [https://riot.im/app/#/room/#fedwiki:matrix.org/$14923934661644530Pzwef:matrix.org chat]"
+  },
+  {
+    "slug": "federation-at-risk",
+    "title": "Federation at Risk",
+    "date": 1512841136761,
+    "synopsis": "We consider the risks of building federated wiki or anything else permanent on something as fragile as information."
+  },
+  {
+    "slug": "federation-friendly-outposts",
+    "title": "Federation Friendly Outposts",
+    "date": 1587783925670,
+    "synopsis": "The federation unites creators who agree to share work in progress. Privileged access to resources dictate that some work exist outside of this community. We consider here what responsibilities an outpost has to the federation and vice versa."
+  },
+  {
+    "slug": "federation-scraper",
+    "title": "Federation Scraper",
+    "date": 1585150167585,
+    "synopsis": "Here we supervise the ongoing scrape of the wiki federation."
+  },
+  {
+    "slug": "fedwiki-access-sharing-options",
+    "title": "FedWiki access sharing options",
+    "date": 1420117883823,
+    "synopsis": "So far, I've worked with a publicly accessible version of SFW hosted on my DigitalOcean account (where I'm currently writing this), as well as a localhost install on my laptop -- which has been like an Evernote replacement for me."
+  },
+  {
+    "slug": "fedwiki-authoring-tool",
+    "title": "Fedwiki Authoring Tool",
+    "date": 1448289433533,
+    "synopsis": "Starting to create a simple minimal Fedwiki-page authoring tool."
+  },
+  {
+    "slug": "fedwiki-livecode-server",
+    "title": "Fedwiki Livecode Server",
+    "date": 1438183677741,
+    "synopsis": "Alongside creating native Android and iOS [[Wiki App]] in [[LiveCode]] we will look to engage a community in creating a specialist server in [[Livecode]]."
+  },
+  {
+    "slug": "feed-the-federation",
+    "title": "Feed the Federation",
+    "date": 1506180851457,
+    "synopsis": "We consider the best way to feed live data into the federation without making a nuisance of oneself."
+  },
+  {
+    "slug": "field-guide-to-the-federation",
+    "title": "Field Guide to the Federation",
+    "date": 1465758088668,
+    "synopsis": "We show you what we find interesting in the federation and suggest how you can make yourself at home here."
+  },
+  {
+    "slug": "fight-spam",
+    "title": "Fight Spam",
+    "date": 1495125694433,
+    "synopsis": "This is not really a wiki issue, but one related to running one's own email server. Stop Sender Fraud with SPF, DKIM, and DMARC. [https://www.bettercloud.com/monitor/spf-dkim-dmarc-email-security/ post]"
+  },
+  {
+    "slug": "find-more",
+    "title": "Find More",
+    "date": 1450366047609,
+    "synopsis": "Here we push on an idea that has emerged out of  [[Sorting and Searching]] all of the things on a page. The prototype is the search link in the page footer."
+  },
+  {
+    "slug": "first-remote-registration",
+    "title": "First Remote Registration",
+    "date": 1510062803537,
+    "synopsis": "We acknowledge this as the first remotely registered site born claimed from the [[Register Plugin]] version 0.1.5."
+  },
+  {
+    "slug": "five-shot-video-template",
+    "title": "Five Shot Video Template",
+    "date": 1438358292382,
+    "synopsis": "Use this template for stories about people engaged in activities. Shoot in order five 10 second takes from the vantage point and viewing angle described."
+  },
+  {
+    "slug": "flag-gradients",
+    "title": "Flag Gradients",
+    "date": 1529378445479,
+    "synopsis": "There exist within the federation more than one flag generator and they differ like night and day."
+  },
+  {
+    "slug": "flow-network-template",
+    "title": "Flow Network Template",
+    "date": 1495210060346,
+    "synopsis": "Describe a place in the flow."
+  },
+  {
+    "slug": "flp-transporter",
+    "title": "FLP Transporter",
+    "date": 1448849560736,
+    "synopsis": "This service imports pages from the Federated Library Project, a wiki-like network of WordPress blogs. [http://hapgood.us/2015/10/27/write-for-the-federated-library-project/ post]"
+  },
+  {
+    "slug": "flutter-client",
+    "title": "Flutter Client",
+    "date": 1543010596712,
+    "synopsis": "We will explore a federated wiki client written within the flutter framework by google for android and ios. [https://flutter.io/ site]"
+  },
+  {
+    "slug": "flying-in-virtual-worlds",
+    "title": "Flying in Virtual Worlds",
+    "date": 1446399712729,
+    "synopsis": "Both Second Life and Minecraft make use of the simulation of flying. This is a good learner activity for developing skills in hand-eye-avatar coordination before attempting more complex on-ground virtual navigation."
+  },
+  {
+    "slug": "footer-item-search",
+    "title": "Footer Item Search",
+    "date": 1512060378423,
+    "synopsis": "Now a bit of terminology: \"Neighborhood search\" is the familiar search in the web page footer. For the now useful searches reached from the wiki page footer we will refer to the various choices as \"footer link search\", \"footer site search\" and \"footer item search\". Each has nice properties. [https://riot.im/app/#/room/#fedwiki:matrix.org/$15120546443979299HUevv:matrix.org chat]"
+  },
+  {
+    "slug": "fork-back-to-creation",
+    "title": "Fork Back to Creation",
+    "date": 1499266051491,
+    "synopsis": "We're irrecoverably deleting parts of pages when we fork an earlier revision from history. If we go all the way back to creation then that should mean delete the whole page."
+  },
+  {
+    "slug": "forms-and-aggregation",
+    "title": "Forms and Aggregation",
+    "date": 1488256475431,
+    "synopsis": "HTML5 offers a grab bag of features related to form based entry. Here we consider how they might be used for traditional data entry. [https://www.html5rocks.com/en/tutorials/forms/html5forms/ post]"
+  },
+  {
+    "slug": "free-energy-principle",
+    "title": "Free Energy Principle",
+    "date": 1586638865928,
+    "synopsis": "Karl Friston’s free energy principle might be the most all-encompassing idea since Charles Darwin’s theory of natural selection. But to understand it, you need to peer inside the mind of Friston himself. [https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/ wired]"
+  },
+  {
+    "slug": "friendly-security",
+    "title": "Friendly Security",
+    "date": 1471270223611,
+    "synopsis": "We explore the new security plugin api of [[Wiki - 0.10.0]] through the creation of a 'friends' module suitable for farms were the server administrator knows and is available to help every site owner should they have login trouble."
+  },
+  {
+    "slug": "ft8-buffer-stats",
+    "title": "FT8 Buffer Stats",
+    "date": 1565184123701,
+    "synopsis": "We receive decoded transmissions as they happen often multiple decodes in any 15 second slot. We save one hour of decodes to a max of 10,000 in a first-in-first-out buffer providing a moving window into ongoing radio activity. Repeating these statistical measures will expose daily and longer term trends."
+  },
+  {
+    "slug": "ft8-decodes-datalog",
+    "title": "FT8 Decodes Datalog",
+    "date": 1593702316081,
+    "synopsis": "We'll watch reported and collected decodes over time. View multiple measures over multiple days in one Plot.ly  graph. [http://ward.asia.wiki.org/assets/plugins/datalog/ft8-decodes-datalog/plot-decodes.html?keep=4 plot]"
+  },
+  {
+    "slug": "full-scrape",
+    "title": "Full Scrape",
+    "date": 1438174844935,
+    "synopsis": "We will at times defeat the incremental behavior of the  [[Ruby Sitemap Scrape]] in order to retrieve new kinds of information."
+  },
+  {
+    "slug": "full-text-search",
+    "title": "Full Text Search",
+    "date": 1580854283071,
+    "synopsis": "I've installed the new wiki version 0.21.0 on my home and work laptops and have begun the process of upgrading ubuntu, node and wiki on each of the digital ocean wiki farms I run. I want to let you know that it is fantastic. We have Joshua and Paul to thank for this, so, thank you Joshua and Paul."
+  },
+  {
+    "slug": "garden-patterns-inventory",
+    "title": "Garden Patterns Inventory",
+    "date": 1462335552831,
+    "synopsis": "We duplicate an illustration from Timeless Way of Building using Graph plugins and our graph building workflow."
+  },
+  {
+    "slug": "gardens-meet",
+    "title": "Garden's Meet",
+    "date": 1451150123786,
+    "synopsis": "How would one prepare for a conference workshop if one were asked to provide a position statement in the form of a federated wiki site? How can we develop a style for this form of engagement?"
+  },
+  {
+    "slug": "gardens-stream",
+    "title": "Garden's Stream",
+    "date": 1450798852591,
+    "synopsis": "Wiki favors tending its own rather than publishing breaking new from others. But can this chasm be crossed? We ask, what sort of stream of news might flow from a well tended garden?"
+  },
+  {
+    "slug": "geilo-winter-school-scientific-visualization-norway-jan-2016",
+    "title": "Geilo Winter School: Scientific Visualization, Norway, Jan 2016",
+    "date": 1450214688904,
+    "synopsis": "The 16th Geilo Winter School"
+  },
+  {
+    "slug": "github-repo",
+    "title": "Github Repo",
+    "date": 1439174785611,
+    "synopsis": "Here we redevelop the technique using fabricated data and step by step"
+  },
+  {
+    "slug": "goals-for-federated-wiki",
+    "title": "Goals for Federated Wiki",
+    "date": 1574723507716,
+    "synopsis": "We share an interest in the continued growth in federated wiki as an important concept and in the open codebase that demonstrates its advantages."
+  },
+  {
+    "slug": "governance",
+    "title": "Governance",
+    "date": 1448075920345,
+    "synopsis": "Why is it that in so many hierarchical institutions authority is separated from competence? Why do so many such systems continue to exist?"
+  },
+  {
+    "slug": "graph-libraries",
+    "title": "Graph Libraries",
+    "date": 1499743171927,
+    "synopsis": "These are tools and libraries that should be integrated  and sometimes built upon."
+  },
+  {
+    "slug": "graph-transporter",
+    "title": "Graph Transporter",
+    "date": 1461635244357,
+    "synopsis": "We want to transport data we find in the lineup as well as data found in links dropped upon us."
+  },
+  {
+    "slug": "graphing-the-horizon",
+    "title": "Graphing the Horizon",
+    "date": 1583553325969,
+    "synopsis": "We're thinking an innovative federation scrape will create new opportunities for graphing the emergent structure."
+  },
+  {
+    "slug": "graphology",
+    "title": "Graphology",
+    "date": 1499801118003,
+    "synopsis": "Graphology is a specification and reference implementation for a robust & multipurpose JavaScript Graph object. [https://graphology.github.io/ pages] [https://github.com/graphology/graphology github]"
+  },
+  {
+    "slug": "graphviz",
+    "title": "Graphviz",
+    "date": 1518496302312,
+    "synopsis": "Use this transporter to create a single page drawing the graph in the lineup so far."
+  },
+  {
+    "slug": "graphviz-eval-emerges",
+    "title": "Graphviz Eval Emerges",
+    "date": 1552573356415,
+    "synopsis": "There are a few places in the development where I felt I knew I was on the right track. With Eric's help I found an isolated place to write code. Here we look to github for historical snapshots where things looked especially nice."
+  },
+  {
+    "slug": "graphviz-in-el-dorado",
+    "title": "Graphviz in El Dorado",
+    "date": 1512142278368,
+    "synopsis": "I've had trouble combining clickable graphviz in complex applications. I've made it work in El Dorado which is a Sinatra app available as open source. [https://github.com/newrelic/el-dorado-ui github]"
+  },
+  {
+    "slug": "graphviz-markup-semantics",
+    "title": "Graphviz Markup Semantics",
+    "date": 1552684340691,
+    "synopsis": "We define what happens when markup keywords are encountered by the breadth-first evaluator. See [[Extract Site to Dot]] for examples, [[Graphviz Eval Emerges]] for implementation experience, [[Dynamic Diagrams in Use]] for next steps, and [[More About Algorithmic Markup]] for this page translated into advice."
+  },
+  {
+    "slug": "gray-ghost",
+    "title": "Gray Ghost",
+    "date": 1495384548099,
+    "synopsis": "A page constructed for the browser but not yet stored anywhere else is shown as a translucent page with no border."
+  },
+  {
+    "slug": "green-plugin",
+    "title": "Green Plugin",
+    "date": 1495216723470,
+    "synopsis": "A page retrieved from plugin documentation \"about\" pages show with a green border."
+  },
+  {
+    "slug": "grep-for-errors",
+    "title": "Grep For Errors",
+    "date": 1466774826734,
+    "synopsis": "We look for pages with server errors recorded in their journal. Drag this page to any site to look there."
+  },
+  {
+    "slug": "growing-regions-as-hypertext",
+    "title": "Growing Regions as Hypertext",
+    "date": 1551623504896,
+    "synopsis": "We resume our work with Cities Alive only now with a more concrete model for what the hypertext should look like. See [[Cities Alive as Hypertext]]"
+  },
+  {
+    "slug": "guiding-diagrams",
+    "title": "Guiding Diagrams",
+    "date": 1554979837916,
+    "synopsis": "We've equipped wiki with a means to draw pictures of work in progress that can guide this work to completion."
+  },
+  {
+    "slug": "hacking-online",
+    "title": "Hacking Online",
+    "date": 1524970786837,
+    "synopsis": "I like to screen share with other programmers. Timezones make this somewhat difficult to plan. Here I note upcoming times and locations."
+  },
+  {
+    "slug": "halo",
+    "title": "Halo",
+    "date": 1495378559668,
+    "synopsis": "A wiki page is rendered with a colored border when that page has been retrieved from other than the origin site. A hover over the page flag may explain details."
+  },
+  {
+    "slug": "ham-radio-operations",
+    "title": "Ham Radio Operations",
+    "date": 1566398212919,
+    "synopsis": "We've been operating ham radio station K9OX once again after maybe a decade of inactivity. [http://ft8.ward.asia.wiki.org/assets/pages/ham-radio-operations/k90x-digital-radio.jpg expand]"
+  },
+  {
+    "slug": "hamburger-menu",
+    "title": "Hamburger Menu",
+    "date": 1580387110144,
+    "synopsis": "We once had a hint of a hamburger menu in the web page footer where it was intended to offer server or browsing specific information. We'd like to see it return and suggest that its sole purpose should be to open well known plugin about pages like Recent Changes or Recently Recycled."
+  },
+  {
+    "slug": "hand-drawn-graphs",
+    "title": "Hand Drawn Graphs",
+    "date": 1455626381772,
+    "synopsis": "Here we examine the utility of hand drawn graphs in concept and wiki navigation and comprehension."
+  },
+  {
+    "slug": "hatfield-clan",
+    "title": "Hatfield Clan",
+    "date": 1462203157595,
+    "synopsis": "The Hatfields hailed from the West Virginia side of the Tug Fork of the Big Sandy River. [https://en.wikipedia.org/wiki/Hatfield%E2%80%93McCoy_feud#Hatfield_genealogy wikipedia] [https://www.geni.com/people/Ephraim-Hatfield/6000000006903592410 geni]"
+  },
+  {
+    "slug": "hatfield-mccoy-feud-graphed",
+    "title": "Hatfield-McCoy Feud Graphed",
+    "date": 1462718722110,
+    "synopsis": "We test unique features of wiki shared knowledge graphs by constructing a history of families in conflict."
+  },
+  {
+    "slug": "heap-datalog",
+    "title": "Heap Datalog",
+    "date": 1571172210459,
+    "synopsis": "We've seen server-side plugin network activity appear to run the server out of memory. So we now watch v8 heap stats more closely. See [[Unexpected Server Restarts]]"
+  },
+  {
+    "slug": "hello-echo",
+    "title": "Hello Echo",
+    "date": 1455812623315,
+    "synopsis": "The Amazon Echo is an always-on voice interface to the data center you don't understand. It sits in your living room answering questions and doing small chores while you try over and over to learn what it can do."
+  },
+  {
+    "slug": "hello-world",
+    "title": "Hello World",
+    "date": 1595780354241,
+    "synopsis": "strict digraph {rankdir=LR"
+  },
+  {
+    "slug": "hide-factories-when-read-only",
+    "title": "Hide Factories when Read-Only",
+    "date": 1580442760052,
+    "synopsis": "Jon suggests, we could do well in hiding empty factories from wiki viewers, when the checkmark is not set."
+  },
+  {
+    "slug": "hip-portland",
+    "title": "Hip Portland",
+    "date": 1532033997708,
+    "synopsis": "Where might one stay in a residential rental to enjoy the coffee shops and street life of the gentrified Portland neighborhoods."
+  },
+  {
+    "slug": "historic-custom-events",
+    "title": "Historic Custom Events",
+    "date": 1562470598976,
+    "synopsis": "We've allowed plugins to devise their own mutually acceptable signaling strategy that range from plundering the dom to streaming over websockets."
+  },
+  {
+    "slug": "historic-wiki-digested",
+    "title": "Historic Wiki Digested",
+    "date": 1583075875894,
+    "synopsis": "We imagine a world with intense interest in the original wiki now frozen as a historic artifact. What tool might they use to critically refactor this content assuming that the federated wiki replacement is the preferred target medium."
+  },
+  {
+    "slug": "historical-wiki",
+    "title": "Historical Wiki",
+    "date": 1571596981261,
+    "synopsis": "The original wiki consists of 36,000 pages authored over two decades and now frozen as a historical artifact. Considerable computing vocabulary emerged in this wiki as working developers shared original thinking about software patterns, design methods and programming practices."
+  },
+  {
+    "slug": "history-of-the-lineup",
+    "title": "History of the Lineup",
+    "date": 1597017344754,
+    "synopsis": "Pages here pile up beside each other in what we call the Lineup, federated wiki's most distinguishing feature. Here I recall antecedents and then get to discussing how I remember with some efficiency."
+  },
+  {
+    "slug": "home-away-from-home",
+    "title": "Home Away from Home",
+    "date": 1498002605110,
+    "synopsis": "We redirect visitors to alternative landing pages written in html and provided in the status/theme directory for each site in a wiki farm."
+  },
+  {
+    "slug": "hosting-private-hypertext",
+    "title": "Hosting Private Hypertext",
+    "date": 1582126854419,
+    "synopsis": "We consider how unpublished hypertext can be privately hosted for personal use within the context of federated wiki where dynamic \"collaborative\" link resolution creates new opportunities for distribution."
+  },
+  {
+    "slug": "how-i-post-images",
+    "title": "How I Post Images",
+    "date": 1590442837582,
+    "synopsis": "Wiki has an image problem. Modern web practice runs counter to our ideal semantics so we live with awkward compromise. As an advocate of that semantic let me explain how I post images."
+  },
+  {
+    "slug": "how-scrape-works",
+    "title": "How Scrape Works",
+    "date": 1512282753585,
+    "synopsis": "The scrape runs every six hours on a schedule that shifts with daylight savings time. The scrape is built from scripts that manipulates files in directories. Some files are rolled up from similarly named files in subdirectories. [https://github.com/wardcunningham/search github]"
+  },
+  {
+    "slug": "how-systems-fail",
+    "title": "How Systems Fail",
+    "date": 1533953693101,
+    "synopsis": "How Complex Systems Fail"
+  },
+  {
+    "slug": "how-to-deno",
+    "title": "How To Deno",
+    "date": 1584292628598,
+    "synopsis": "Here we learn our way around the deno documentation. When finding something turns out to be difficult, we save a link. When things seem pretty obvious, we rearrange to reflect our new understanding."
+  },
+  {
+    "slug": "how-we-connect-data",
+    "title": "How We Connect Data",
+    "date": 1473686033332,
+    "synopsis": "We've adopted a laissez-faire attitude about communication between plugins. But could the node stream protocol be our unix pipe equivalent?"
+  },
+  {
+    "slug": "how-we-find-data",
+    "title": "How We Find Data",
+    "date": 1428525579408,
+    "synopsis": "Pages from many sites can find each other when they arrive together in a browser and at that moment connect  data to computations and computations to visualizations. Here we explain how that happens."
+  },
+  {
+    "slug": "human-performance-in-systems",
+    "title": "Human Performance in Systems",
+    "date": 1524775215754,
+    "synopsis": "How Your Systems Keep Running Day After Day. John Allspaw at Velocity 2017."
+  },
+  {
+    "slug": "hyperlapse",
+    "title": "Hyperlapse",
+    "date": 1432129765142,
+    "synopsis": "First-person Hyperlapse Videos (Technical) by Johannes Kopf, et. al. Timelapse stabilization from moving point of view. [http://research.microsoft.com/en-us/um/redmond/projects/hyperlapse/ page]"
+  },
+  {
+    "slug": "identity-in-ssb-and-wiki",
+    "title": "Identity in SSB and Wiki",
+    "date": 1588260060262,
+    "synopsis": "Having read up a bit on SSB I suspect resolving our respective interpretation of identity is the place where good choices will be most rewarded. An established identity confers rights in two ways."
+  },
+  {
+    "slug": "ifttt",
+    "title": "IFTTT",
+    "date": 1547427787548,
+    "synopsis": "[https://ifttt.com IFTTT], previously known as If This Then That, is a service that automates and integrates several web applications and Internet of Things devices."
+  },
+  {
+    "slug": "image-assets",
+    "title": "Image Assets",
+    "date": 1516555188322,
+    "synopsis": "We url-encode images dropped on the factory plugin. This captures the sharing dynamics expected of the federation but it doesn't match with current asset practices."
+  },
+  {
+    "slug": "image-effects-with-css",
+    "title": "Image Effects with CSS",
+    "date": 1480169000736,
+    "synopsis": "Using one or more newer CSS properties (background-blend-mode, mix-blend-mode, or filter) gives us a surprising amount of possibilities to manipulate a single source image."
+  },
+  {
+    "slug": "image-transporter",
+    "title": "Image Transporter",
+    "date": 1495900565792,
+    "synopsis": "This service creates wiki pages with images in several forms without loading image data within the page. Use this for large or detailed images that will be stored remotely."
+  },
+  {
+    "slug": "implementing-service-logic",
+    "title": "Implementing Service Logic",
+    "date": 1560130186746,
+    "synopsis": "We're developing the run-time background service composition machinery called [[Service Logic]]."
+  },
+  {
+    "slug": "import-annotations",
+    "title": "Import Annotations",
+    "date": 1414117770261,
+    "synopsis": "When import scripts are long, complex or rerun often we benefit from recording within imported pages details of the import process."
+  },
+  {
+    "slug": "import-documents",
+    "title": "Import Documents",
+    "date": 1421896517883,
+    "synopsis": "Federated wiki is just one more document format that hopes to play well with others and bring something new to the party."
+  },
+  {
+    "slug": "import-quotation-and-reference",
+    "title": "Import, Quotation and Reference",
+    "date": 1512400666099,
+    "synopsis": "We consider how wiki pages relate to other works and how how such information can be composed into a useful historical record. We borrow biological terms for aspects of this problem."
+  },
+  {
+    "slug": "incremental-paragraphs",
+    "title": "Incremental Paragraphs",
+    "date": 1420512381493,
+    "synopsis": "A complete thought is more important than a complete sentence. Write to be read in progress. Expect your work to be consumed and discarded before it is finished."
+  },
+  {
+    "slug": "information-lifecycle",
+    "title": "Information Lifecycle",
+    "date": 1475092550351,
+    "synopsis": "Mike Caulfied assembled this sequence of simulations to illustrate how ideas spread through a federation. This is the fifth part of a larger presentation, Federated Education: New Directions in Digital Collaboration (2014). [http://hapgood.us/2014/11/06/federated-education-new-directions-in-digital-collaboration/ webpage]"
+  },
+  {
+    "slug": "install-node-on-raspberry-pi",
+    "title": "Install Node on Raspberry Pi",
+    "date": 1437952877706,
+    "synopsis": "Solution found on <a href=\"http://joshondesign.com/2013/10/23/noderpi\">Josh on Design</a>. The following instructions work with the new Raspian from 28th May 2015. These instructions are for node v0.10 and above and assume a fresh instal.<p>"
+  },
+  {
+    "slug": "internal-link-style-guide",
+    "title": "Internal Link Style Guide",
+    "date": 1513540799113,
+    "synopsis": "Double-square-brackets makes a word or phrase into a hyperlink. This works best if the link is surrounded by words or placed in a context that makes it clear to a reader when thy might benefit from a shift of context."
+  },
+  {
+    "slug": "interpreting-visual-gestures",
+    "title": "Interpreting Visual Gestures",
+    "date": 1473867685655,
+    "synopsis": "If you grab a point in a graph and drag it, what are you trying to change? I posit, the engineer wants to change the model while the scientist wants to change the view. A plot library catering to one or the other will thus work differently."
+  },
+  {
+    "slug": "item-distribution",
+    "title": "Item Distribution",
+    "date": 1547871445467,
+    "synopsis": "We wonder how widely specific items are distributed throughout the federation. So we compute it from our scrape site history. See [[Search Index Downloads]]"
+  },
+  {
+    "slug": "item-history",
+    "title": "Item History",
+    "date": 1512434098406,
+    "synopsis": "An item's history can be viewed in the context of all actions by shift-hovering over the Journal. This has utility in the presence of refactoring but works better with shorter pages. Here we consider how we might bring actions closer to the items they have constructed."
+  },
+  {
+    "slug": "javascript-modules",
+    "title": "Javascript Modules",
+    "date": 1523218696980,
+    "synopsis": "In the most ubiquitous programming ecosystem, modules have been shoehorned in where they were originally lacking.  As of early 2018, nodejs gradually builds toward ECMAScript Modules.  Guidance for transition from CommonJS to ESM: [https://medium.com/@giltayar/native-es-modules-in-nodejs-status-and-future-directions-part-i-ee5ea3001f71 link]"
+  },
+  {
+    "slug": "javascript-sitemap-scrape",
+    "title": "Javascript Sitemap Scrape",
+    "date": 1572380354917,
+    "synopsis": "This client-side scraper sees the federation from a privileged position inside firewalls. This was built as a proof of concept for a federation wide recent changes that would be tied to infinite scrolling by the user."
+  },
+  {
+    "slug": "javascript-slide-presentation",
+    "title": "Javascript Slide presentation",
+    "date": 1451697648041,
+    "synopsis": "The text above is a [[markdown]] document, and it can be rendered to a [[reveal.js]] slice presentation with the following [[pandoc]] command:"
+  },
+  {
+    "slug": "jeremiah-hatfield",
+    "title": "Jeremiah Hatfield",
+    "date": 1461955273730,
+    "synopsis": "Union Anna & ES --> HERE"
+  },
+  {
+    "slug": "joint-cognitive-whiteboard",
+    "title": "Joint Cognitive Whiteboard",
+    "date": 1561649015586,
+    "synopsis": "Yesterday I learned something new to me about joint cognition and socio-technical systems. A group of software engineers gathered around a whiteboard are a joint cognitive system. The scrawls on the board are spatial cues for building a shared model of a complex system."
+  },
+  {
+    "slug": "journal-checker",
+    "title": "Journal Checker",
+    "date": 1581395439515,
+    "synopsis": "We ask two questions: can a story be recreated from the journal, and if not, why not."
+  },
+  {
+    "slug": "journal-optimization",
+    "title": "Journal Optimization",
+    "date": 1510328385629,
+    "synopsis": "The journal is like a computer program. It is a sequence of instructions that constructs a result. As such, it would be fruitful to consider journal compression as a variation of peephole optimization."
+  },
+  {
+    "slug": "json-plugin",
+    "title": "JSON Plugin",
+    "date": 1542122437534,
+    "synopsis": "We read and write the json 'resource' subtree within the JSON item on this page."
+  },
+  {
+    "slug": "json-schema",
+    "title": "JSON Schema",
+    "date": 1543250525122,
+    "synopsis": "We define the schema for federated wiki pages to the depth that we know it. We use a BNF-like notation to suggest JSON elements. Any ambiguity will be resolved by examining the example. We close with a brief reflection on the successes of the format."
+  },
+  {
+    "slug": "k2gt-efficient-operation",
+    "title": "K2GT Efficient Operation",
+    "date": 1564669994723,
+    "synopsis": "We see a single station dominating our connection diagram and investigate his operating practice."
+  },
+  {
+    "slug": "knowledge-graphing",
+    "title": "Knowledge Graphing",
+    "date": 1556720335346,
+    "synopsis": "We desire to describe and manipulate graphs within wiki for purposes other than exploring wiki itself. [https://github.com/fedwiki/wiki/issues/63 github]"
+  },
+  {
+    "slug": "landing-page-registration",
+    "title": "Landing Page Registration",
+    "date": 1574049679904,
+    "synopsis": "We return to registering members of a community and provisioning wiki sites for their collaboration. This time we may make it simple enough to work."
+  },
+  {
+    "slug": "late-night-with-ward--tim",
+    "title": "Late Night with Ward & Tim",
+    "date": 1584028330398,
+    "synopsis": "Tim Tischler has clued me in to the evolution in incident review. I've been trying to relate this work, especially David Wood's [[Graceful Extensibility]] to our best work in agile and its roots in my own experience. Here I typed to Tim when I woke up thinking about this problem in the middle of the night March 10th."
+  },
+  {
+    "slug": "latent-editor-actions",
+    "title": "Latent Editor Actions",
+    "date": 1419264934614,
+    "synopsis": "We've revised the paragraph editing logic to be more economical in how and when it sends update actions to a wiki server. This shows as simpler sequences in the page journal and hopefully fewer lost paragraphs while editing over slow connections. [https://github.com/fedwiki/wiki-client/pull/75 github]"
+  },
+  {
+    "slug": "latitude-for-deviance",
+    "title": "Latitude for Deviance",
+    "date": 1604160919408,
+    "synopsis": "We seek a perspective that appreciates the potential for humans to communicate and balance that with the natural limits of internet software."
+  },
+  {
+    "slug": "laws-of-mixed-reality",
+    "title": "Laws of Mixed Reality",
+    "date": 1562347433574,
+    "synopsis": "The Laws provide a foundation for identifying preferable outcomes that should be consider in the creation of new products, services and business models. [https://www.geekwire.com/2016/guest-post-laws-mixed-reality-mixed-reality-without-rose-colored-glasses/ post]"
+  },
+  {
+    "slug": "link-symmetry",
+    "title": "Link Symmetry",
+    "date": 1442013986544,
+    "synopsis": "A symmetrical link joins two or more places without preference for one over the other. The hypertext link provided by the anchor tag in html is notoriously non-symmetrical. Here we consider alternatives not based on the html anchor."
+  },
+  {
+    "slug": "link-to-neighbors",
+    "title": "Link to Neighbors",
+    "date": 1507217333894,
+    "synopsis": "We consider fine points on the behavior of [[Collaborative Link]] first discussed in chat. [https://matrix.to/#/!ORfrUEFeWFcHAMLFLr:matrix.org/$14966668964452467FFNDZ:matrix.org post]"
+  },
+  {
+    "slug": "link-word",
+    "title": "Link Word",
+    "date": 1509399767436,
+    "synopsis": "Wiki has a distinct markup for links that go to pages outside the wiki. Here we suggest a style for using that markup that suites both writer and reader."
+  },
+  {
+    "slug": "list-all-plugins",
+    "title": "List All Plugins",
+    "date": 1422029921025,
+    "synopsis": "Jon and I have been discussing extending the Factory menu with a list of all plugins. That conversation begot this coding experiment. [https://github.com/fedwiki/wiki-client/issues/84#issuecomment-69947256 issue]"
+  },
+  {
+    "slug": "literary-machines",
+    "title": "Literary Machines",
+    "date": 1458132024040,
+    "synopsis": "From [[Explore Transport Proxy]]. See [https://en.wikipedia.org/wiki/Literary_Machines wikipedia]"
+  },
+  {
+    "slug": "login-to-view",
+    "title": "Login to View",
+    "date": 1536449771853,
+    "synopsis": "We imagine controlling visibility of wiki pages on a site or farm similar to operating a server on a private LAN but using distinguished logins rather than network access."
+  },
+  {
+    "slug": "lorempixel",
+    "title": "Lorempixel",
+    "date": 1468351235021,
+    "synopsis": "Placeholder Images for every case. Web design or print. It's simple and absolutely free. Just put the custom url in your code"
+  },
+  {
+    "slug": "louisa-parsons-hopkins",
+    "title": "Louisa Parsons Hopkins",
+    "date": 1433788177686,
+    "synopsis": "This is a Wikipedia Hackathon Pod Project."
+  },
+  {
+    "slug": "making-growing-regions-wiki",
+    "title": "Making Growing Regions Wiki",
+    "date": 1580447545844,
+    "synopsis": "This site is derived from the book. We explain some specialized pages we use here."
+  },
+  {
+    "slug": "making-of-all-eyes-on-saturn",
+    "title": "Making of All Eyes on Saturn",
+    "date": 1505490252231,
+    "synopsis": "I watched the video feed from JPL as the Cassini spacecraft burned in Saturn's atmosphere. I took a few screen shots and felt compelled to share them. This took some work."
+  },
+  {
+    "slug": "making-the-welcome-page",
+    "title": "Making the Welcome Page",
+    "date": 1516574651962,
+    "synopsis": "We reserve a space among the assets for a custom welcome page which will exist outside the normal look and feel of federated wiki."
+  },
+  {
+    "slug": "managing-custom-events",
+    "title": "Managing Custom Events",
+    "date": 1562471364502,
+    "synopsis": "We consider how custom events and their users should be identified and maintained in the presence of dynamic reconfiguration."
+  },
+  {
+    "slug": "managing-the-factory-menu",
+    "title": "Managing the Factory Menu",
+    "date": 1441646572368,
+    "synopsis": "The Factory plugin offers a menu constructed by the server from information each plugin provides. We consider how the menu might complement or interoperate with an expanding [[Plugin Catalog]]."
+  },
+  {
+    "slug": "map-me",
+    "title": "Map Me",
+    "date": 1466875099685,
+    "synopsis": "Maps can serve multiple purposes; one can use maps to chart the top mountain biking trails in America, keep track of upcoming events, or help plan a family trip. [https://scout.wisc.edu/archives/r47076 scout]"
+  },
+  {
+    "slug": "maps-and-places",
+    "title": "Maps and Places",
+    "date": 1469019352492,
+    "synopsis": "We've begun some work on the long neglected map plugin. Here we consider how maps might interact with the rest of the lineup, neighborhood and federation."
+  },
+  {
+    "slug": "markdown-test",
+    "title": "Markdown Test",
+    "date": 1439119339117,
+    "synopsis": "Mike renders some dialect of markdown and compares it to wiki flavored markdown. Here we explore how we should handle blockquote. We're close to coding. [https://github.com/fedwiki/wiki-plugin-markdown/issues/14 github]"
+  },
+  {
+    "slug": "mccoy-clan",
+    "title": "McCoy Clan",
+    "date": 1461650008707,
+    "synopsis": "The McCoys hailed from the Kentucky side of the Tug Fork of the Big Sandy River."
+  },
+  {
+    "slug": "mcmenamins-of-eugene",
+    "title": "McMenamins of Eugene",
+    "date": 1533155775184,
+    "synopsis": "We suggest pubs mostly as a demonstration of the Bikeshare plugin applied to Eugene."
+  },
+  {
+    "slug": "mediawiki-and-cors",
+    "title": "Mediawiki and CORS",
+    "date": 1434977988533,
+    "synopsis": "[[Mediawiki]] sites such as [[Wikipedia]] look like they are able to work with cross-origin resource sharing ([[CORS]])."
+  },
+  {
+    "slug": "meet-by-the-full-moon",
+    "title": "Meet by the Full Moon",
+    "date": 1440617504555,
+    "synopsis": "We've suggested that a world-wide meetup conveign under the full moon. Procession will favor different locations on different months. Here we announce a schedule."
+  },
+  {
+    "slug": "meta-sites-and-pages",
+    "title": "Meta Sites and Pages",
+    "date": 1593205816057,
+    "synopsis": "My 1994 web presence was hosted by first httpd and soon after the legendary apache. Wiki was about 300 lines of perl registered as CGI, short for common gateway interface. [https://en.wikipedia.org/wiki/Common_Gateway_Interface wikipedia]"
+  },
+  {
+    "slug": "microformat-plugin",
+    "title": "Microformat Plugin",
+    "date": 1590069102337,
+    "synopsis": "These minimal patterns of HTML are used for marking up entities that range from fundamental to domain-specific information, such as people, organizations, events, and locations. Microformats use supporting vocabularies to describe objects and name-value pairs to assign values to their properties. [https://developer.mozilla.org/en-US/docs/Web/HTML/microformats mozilla]"
+  },
+  {
+    "slug": "micropub",
+    "title": "Micropub",
+    "date": 1498434827934,
+    "synopsis": "We'll accept posts here from Micropub clients. First we will piggyback on the RSS plugin but ultimately probably make an IndieWeb plugin that enables multiple microformats."
+  },
+  {
+    "slug": "microtalk-server",
+    "title": "Microtalk Server",
+    "date": 1499183509443,
+    "synopsis": "We create a small express server that can evaluate microtalk server-side."
+  },
+  {
+    "slug": "mikes-asset-shortcut",
+    "title": "Mike's Asset Shortcut",
+    "date": 1590076725068,
+    "synopsis": "Mike Hales sent me a generated json file as part of our desire to support the [[Murmurations JSON Generator]]. Here I publish his file in a way he can fork to his site without writing any markup."
+  },
+  {
+    "slug": "minimum-specs-for-entry-level-editor",
+    "title": "Minimum Specs for Entry Level Editor",
+    "date": 1438229189949,
+    "synopsis": "We hear repeatedly that fedwiki is confusing to beginners. One solution might be a simple entry-level editor (or editor theme). Can we take that response seriously while not destroying the larger vision? This is personal take on what a minimum functional theme would have to have."
+  },
+  {
+    "slug": "missing-neighbors",
+    "title": "Missing Neighbors",
+    "date": 1459461234781,
+    "synopsis": "An author writes within a neighborhood that might be larger than the reader's. We ask, how might we query a graph database like neo4j in order to detect missing links and where they might be located in the federation."
+  },
+  {
+    "slug": "mixed-content",
+    "title": "Mixed Content",
+    "date": 1495816475450,
+    "synopsis": "Wiki extends its twenty year old namesake by providing an unbounded complement of markups of which only a few offer specific syntax for formatting text. The remaining markups configure plugins to show or do work we usually associate with applications."
+  },
+  {
+    "slug": "mobile-activity-feed",
+    "title": "Mobile Activity Feed",
+    "date": 1585841884454,
+    "synopsis": "Here we suggest a mobile-first application that might drive our client-side to be more mobile friendly. We had considered a vertical lineup before but that was really bringing existing thinking to a new format. Think bigger."
+  },
+  {
+    "slug": "mobile-gestures-for-wiki",
+    "title": "Mobile Gestures For Wiki",
+    "date": 1486575095741,
+    "synopsis": "The mobile gestures should be defined properly following this grid (those are examples of UX specs, open to discussion of course)."
+  },
+  {
+    "slug": "modular-authentication",
+    "title": "Modular Authentication",
+    "date": 1480499589915,
+    "synopsis": "With wiki sites being owned by individuals there is only a single question that concerns us, \"Are you the site owner?\""
+  },
+  {
+    "slug": "modular-client",
+    "title": "Modular Client",
+    "date": 1593205426554,
+    "synopsis": "We explore how wiki-client can be modularized such that we can guess what one place a feature is implemented and we would be right."
+  },
+  {
+    "slug": "more-about-algorithmic-markup",
+    "title": "More About Algorithmic Markup",
+    "date": 1553785120440,
+    "synopsis": "The Graphviz plugin accepts an unusual dialect of markup which is really a computer algorithm for visiting pages and drawing what it finds. We'll explain this in simple terms that should get one going quickly."
+  },
+  {
+    "slug": "more-about-slides",
+    "title": "More About Slides",
+    "date": 1512615545139,
+    "synopsis": "Our presentation from [[Testing Slide Plugin]] continues here."
+  },
+  {
+    "slug": "morse-code-bar-graph",
+    "title": "Morse Code Bar Graph",
+    "date": 1505312549672,
+    "synopsis": "I worked through the whole alphabet just for fun after adding the MorseTeacher plugin to the ninth floor in the start.fed.wiki game. The last letter, e, floated around in a second row bumping into whatever letter was tallest in the top row. It still worked, but looked very broken."
+  },
+  {
+    "slug": "morse-code-with-punctuation",
+    "title": "Morse Code with Punctuation",
+    "date": 1505313047173,
+    "synopsis": "We reconsider the [[Morse Code Bar Graph]] pixel calculations assuming we add some punctuation to the alphabet."
+  },
+  {
+    "slug": "move-to-a-better-web",
+    "title": "Move to a Better Web",
+    "date": 1523829966808,
+    "synopsis": "The Transport plugin automates import of web content into federated wiki where some responsibility for the result rests with the transporer's author. We would like to improve this process but have to ask first, what exactly are we trying to do?"
+  },
+  {
+    "slug": "moving-folders-across-servers",
+    "title": "Moving Folders Across Servers",
+    "date": 1450537287042,
+    "synopsis": "Here we look at different ways to move whole wiki sites between servers."
+  },
+  {
+    "slug": "multiway-trees",
+    "title": "Multiway Trees",
+    "date": 1450116534621,
+    "synopsis": "Tree structures lend themselves to external searching, if we choose an appropriate representation for grouped nodes. From Knuth volume 3, section 6.2.4."
+  },
+  {
+    "slug": "murmurations-json-generator",
+    "title": "Murmurations JSON Generator",
+    "date": 1590075471984,
+    "synopsis": "Mike Hales introduced us to the Murmurations network infrastructure which has similarities with microformats but may be much simpler than making a [[Microformat Plugin]]."
+  },
+  {
+    "slug": "nameless-wiki",
+    "title": "Nameless Wiki",
+    "date": 1460934290782,
+    "synopsis": "Nameless sites chooses to not depend on DNS but rather trusts that content of value will flow faster than physical addresses are lost."
+  },
+  {
+    "slug": "names-of-things",
+    "title": "Names of Things",
+    "date": 1434987578404,
+    "synopsis": "We throw around a lot of terms when we talk about federated wiki that come from a variety of sources. Here we look at the sources and mention the most common names they provide."
+  },
+  {
+    "slug": "neo4j",
+    "title": "Neo4J",
+    "date": 1454816332768,
+    "synopsis": "Neo4j is an open-source graph database implemented in Java and accessible from software written in other languages using the Cypher query language through a transactional HTTP endpoint. [https://en.wikipedia.org/wiki/Neo4j wikipedia] [http://neo4j.com/ site]"
+  },
+  {
+    "slug": "neo4j-optimization",
+    "title": "Neo4J Optimization",
+    "date": 1454823083254,
+    "synopsis": "Having had the good fortune of meeting Michael Hunger at OOP Munich, I now explore his first suggested optimizations. See [[Neo4J]]"
+  },
+  {
+    "slug": "neo4j-production",
+    "title": "Neo4J Production",
+    "date": 1453992659377,
+    "synopsis": "We're publishing federation graph data as [[Neo4J]] bulk load dataset and as a server-side plugin that runs useful queries against an instance hosted at bay.wiki.org."
+  },
+  {
+    "slug": "neo4j-resources",
+    "title": "Neo4J Resources",
+    "date": 1487744733920,
+    "synopsis": "This graph database has worked well enough that we want to be good at applying it. There are documents that might help."
+  },
+  {
+    "slug": "network-explorers-toolkit",
+    "title": "Network Explorer's Toolkit",
+    "date": 1580133119065,
+    "synopsis": "We're seeing a lot of interesting new technology that might just all work together. Let me fantasize about how a few of my favorites might connect."
+  },
+  {
+    "slug": "new-plugins",
+    "title": "New Plugins",
+    "date": 1556720465034,
+    "synopsis": "We develop and deploy plugins here that might not be well enough thought out for general use. The pages here might be the only documentation."
+  },
+  {
+    "slug": "new-relic-browser",
+    "title": "New Relic Browser",
+    "date": 1492438983095,
+    "synopsis": "New Relic instruments digital properties with agents that collect and report measurements to be viewed in aggregate or detail from their website. New Relic Browser is their client monitoring product. [https://newrelic.com/browser-monitoring page]"
+  },
+  {
+    "slug": "new-site-starter-kit",
+    "title": "New Site Starter Kit",
+    "date": 1466872995876,
+    "synopsis": "What have we done and what more can we do to help new users understand the configurations, practices and opportunities in this wiki."
+  },
+  {
+    "slug": "newly-found-sites",
+    "title": "Newly Found Sites",
+    "date": 1440687609635,
+    "synopsis": "We now automatically add new sites to the list of sites we watch. This has been developed as a separate pass mostly as a coding convenience. Here we consider the impact this has on reporting and content availability."
+  },
+  {
+    "slug": "node-placement-in-graphs",
+    "title": "Node Placement in Graphs",
+    "date": 1462200947003,
+    "synopsis": "Our initial Graph plugin node placement algorithm shows that for small graphs placement can usefully reflect order in markup."
+  },
+  {
+    "slug": "nodes-mistakes",
+    "title": "Node's Mistakes",
+    "date": 1592339226040,
+    "synopsis": "Node.js creator Ryan Dahl voiced some deep misgivings about his server-side JavaScript runtime engine at the EU JS conference earlier this week in Germany. [https://thenewstack.io/node-js-creator-blasts-node-js-offers-a-secure-typescript-based-alternative/ post]"
+  },
+  {
+    "slug": "nonuniform-signal-resampled",
+    "title": "Nonuniform Signal Resampled",
+    "date": 1473871095543,
+    "synopsis": "A colleague reported high jitter when sampling fuel flow by counting pump cycles. I suggested reconstructing the signal before resampling at the desired rate. [https://en.wikipedia.org/wiki/Nonuniform_sampling wikipedia]"
+  },
+  {
+    "slug": "nsd-editor-restored",
+    "title": "NSD Editor Restored",
+    "date": 1355092209622,
+    "synopsis": "As javascript extends the browser's ability to browse, I have another go at customized navigation through a program text, not for editing, but for understanding a historical artifact, in this case, my own. [http://c2.com/nsd/ website] [https://github.com/WardCunningham/nsd github]"
+  },
+  {
+    "slug": "occasion-aka-dual-writing",
+    "title": "Occasion, aka \"Dual Writing\"",
+    "date": 1583098129167,
+    "synopsis": "The \"atomic\" aspect of ACID DB transactions which makes writing records be an actual occasion (rather than an event that isn't an actual occasion, aka \"dual writing\"), situated within processing command and events in system."
+  },
+  {
+    "slug": "offer-to-the-dkr-implemeters",
+    "title": "Offer to the DKR Implemeters",
+    "date": 1567525847439,
+    "synopsis": "I've offered to combine work I've done and presented in the context of [[Explore DDD 2017]] to the Doug@50 implementers."
+  },
+  {
+    "slug": "on-visibility-and-notification",
+    "title": "On Visibility and Notification",
+    "date": 1530281126052,
+    "synopsis": "We note that distributed notification systems are an optimization of search when applied to content that is already fully visible. See [[Wikimention]]"
+  },
+  {
+    "slug": "online-help",
+    "title": "Online Help",
+    "date": 1420378998768,
+    "synopsis": "We're rewriting our online help. New help pages might end up here. For now we will just test ideas for how we could use this space most effectively."
+  },
+  {
+    "slug": "ontology-v-stigmergy",
+    "title": "Ontology v. Stigmergy",
+    "date": 1500383124929,
+    "synopsis": "By day I struggle to bring order to increasing complex and disorganized information while on nights and weekends I let [[Collaborative Link]]s do this work for me."
+  },
+  {
+    "slug": "open-junta",
+    "title": "Open Junta",
+    "date": 1459195863315,
+    "synopsis": "I'm thinking of adding some sort of junta mechanism to federated wiki in the style of the os replacement mechanism on the xerox alto."
+  },
+  {
+    "slug": "open-membership-in-a-club",
+    "title": "Open Membership in a Club",
+    "date": 1498412645549,
+    "synopsis": "I'm thinking about a new plugin, Club, that would be a Roster that anyone can join. [https://riot.im/app/#/room/#fedwiki:matrix.org/$1497016284842413CFLsy:matrix.org matrix]"
+  },
+  {
+    "slug": "openapi-specification",
+    "title": "OpenAPI Specification",
+    "date": 1523745805479,
+    "synopsis": "The OpenAPI Specification, originally known as the Swagger Specification, is a specification for machine-readable interface files for describing, producing, consuming, and visualizing RESTful Web services - [https://en.wikipedia.org/wiki/OpenAPI_Specification wikipedia]"
+  },
+  {
+    "slug": "optimizing-wards-queries",
+    "title": "Optimizing Ward's Queries",
+    "date": 1454579551446,
+    "synopsis": "Ward scrapes on a private server and then builds on a digital ocean server that also supports the experimental plugins."
+  },
+  {
+    "slug": "organizing-large-communities",
+    "title": "Organizing Large Communities",
+    "date": 1533850807796,
+    "synopsis": "We have described the user experience we expect from large and diverse communities as a \"chorus\" of voices. Here we consider how the hosts of such communities could be organized so as to enable but not constrain collaboration."
+  },
+  {
+    "slug": "outpost-thinking",
+    "title": "Outpost Thinking",
+    "date": 1593621087363,
+    "synopsis": "We built the federation based on the promiscuous sharing of simple things with the hope that this would lead the community to save indefinitely things worth saving. Within a year we had moved from ruby to node without leaving ruby sites behind. Now, in the federation's ninth year, we consider how this process might be further distributed."
+  },
+  {
+    "slug": "over-the-horizon-later",
+    "title": "Over the Horizon Later",
+    "date": 1582398005651,
+    "synopsis": "We've created and run a federation wide scrape without instrumentation to tell us what it is doing. We've run some preliminary tallies and now repeat them to understand what the program has done overnight."
+  },
+  {
+    "slug": "ownership-metaphor",
+    "title": "Ownership Metaphor",
+    "date": 1490021581406,
+    "synopsis": "This wiki deviates from most others in that each participant in a collaboration is expected to own their own working space. We will compare this metaphorical ownership with other things we own as a way of illuminating the unusual opportunities and common confusions herein."
+  },
+  {
+    "slug": "packaging-litelement",
+    "title": "Packaging LitElement",
+    "date": 1601220841147,
+    "synopsis": "After constructing some helpful knowledge around custom elements and other modern browser tech through many different experiments, our interest returns to the Polymer project's LitElement. The Flaws of Web Components characterizes the challenges. It also suggests that LitElement and some other options help with some of the limits. [https://www.thinktecture.com/en/web-components/flaws/ article]"
+  },
+  {
+    "slug": "part-ii-chapt-ii-sect-ii",
+    "title": "Part II Chapt II Sect II",
+    "date": 1583097826076,
+    "synopsis": "This account of 'presentational immediacy' presupposes two metaphysical assumptions:"
+  },
+  {
+    "slug": "peace-health-rides",
+    "title": "Peace Health Rides",
+    "date": 1532440912750,
+    "synopsis": "PeaceHealth Rides is a network of bike share stations, where users can pick up and drop off publicly available bicycles for one-way trips across the city. These bikes are smart and sharp, with GPS tracking and built-in safety features. [https://peacehealthrides.com/ site]"
+  },
+  {
+    "slug": "peacehealth-rides",
+    "title": "PeaceHealth Rides",
+    "date": 1568925117282,
+    "synopsis": "See [[Peace Health Rides]]"
+  },
+  {
+    "slug": "personalization",
+    "title": "Personalization",
+    "date": 1450556980065,
+    "synopsis": "Let's lead new site owners to a personalization page where they can configure a new site within bounds that preserve the federated wiki look and feel."
+  },
+  {
+    "slug": "pheromone-of-salvation",
+    "title": "Pheromone of Salvation",
+    "date": 1438792916583,
+    "synopsis": "Mathematical models of natural selection have evolved in the decades I've been reading science, especially models of altruistic behavior as will be required if we are to leave a habitable planet to our grandchildren. What would have to be true of wiki if it were to be important in this cause?"
+  },
+  {
+    "slug": "ping-home-servers",
+    "title": "Ping Home Servers",
+    "date": 1559360040725,
+    "synopsis": "We host several experimental services some without backup power that require restarts after utility interruptions. [http:/assets/plugins/datalog/plot-curl.html?slug=ping-home-servers&chunk=month&keep=3 plot]"
+  },
+  {
+    "slug": "ping-service",
+    "title": "Ping Service",
+    "date": 1557241995096,
+    "synopsis": "We've used Pingdom to alert outages and track uptime until they abandoned their free tier. Let's have a server-side plugin do this for us. See [[Service Blocks]]"
+  },
+  {
+    "slug": "ping-wiki-servers",
+    "title": "Ping Wiki Servers",
+    "date": 1594783485978,
+    "synopsis": "We host several wiki farms some with active users. Each has a primary address that when it is working we assume all users are served. [http:/assets/plugins/datalog/plot-curl.html?slug=ping-wiki-servers&chunk=month&keep=3 plot]"
+  },
+  {
+    "slug": "pitchers-in-wiki",
+    "title": "Pitchers in Wiki",
+    "date": 1504568651594,
+    "synopsis": "We can now store pitchers and other large assets and serve them from a wiki site."
+  },
+  {
+    "slug": "plotly-plugin",
+    "title": "Plotly Plugin",
+    "date": 1549682362347,
+    "synopsis": "The javascript reimplementation of the venerable Plotly charting library provides a highly functional wrapper around d3 and svg. Most notable is its ability to gracefully browse tens of thousands of samples. We also admire its flicker-free incremental live updates. [http://found.ward.bay.wiki.org/assets/plugins/datalog/plot-datalog.html?slug=esp8266-datalog&chunk=day&keep=3 example]"
+  },
+  {
+    "slug": "plugin-catalog",
+    "title": "Plugin Catalog",
+    "date": 1506793243186,
+    "synopsis": "Let's make plugins more useful, more used, and more plentiful as a consequence. Thoughts articulated here have lead to our current admin tooling."
+  },
+  {
+    "slug": "plugin-factory",
+    "title": "Plugin Factory",
+    "date": 1487597985841,
+    "synopsis": "The add button inserts a Factory item which can then replace itself with an item of the user's choice. Here we consider how that mechanism can be enhanced to support many more plugin kinds with much more widely varied initialization needs."
+  },
+  {
+    "slug": "plugins-installed-here",
+    "title": "Plugins Installed Here",
+    "date": 1422030191062,
+    "synopsis": "These are plugins installed on the server where you started browsing. You may not see a list here unless that server installed the Plugins plugin. This page started its life on a server where this works. Try visiting there to see how it works."
+  },
+  {
+    "slug": "pluto-image-of-the-year",
+    "title": "Pluto, Image of the Year",
+    "date": 1467588875282,
+    "synopsis": "Wikimedia users were invited to vote for their favorite images featured on Commons (FP) during the year 2015, to produce a single Picture of the Year. [https://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2015 wikipedia]"
+  },
+  {
+    "slug": "pod-charter",
+    "title": "Pod Charter",
+    "date": 1433772024915,
+    "synopsis": "Pod charter for the Louisa Parsons Hopkins project:"
+  },
+  {
+    "slug": "pop-up-community",
+    "title": "Pop-Up Community",
+    "date": 1478359321018,
+    "synopsis": "We consider the fastest way to get a wiki community going over local wifi and then leave them with something they can share. We anticipate zero-conf, ipfs, electron and thumb drives as enabling technology."
+  },
+  {
+    "slug": "portland-confluences",
+    "title": "Portland Confluences",
+    "date": 1469060253019,
+    "synopsis": "A confluence is where integer latitude and longitude lines cross. They are more interesting than the north pole and many many time closer. [http://confluence.org/ site]"
+  },
+  {
+    "slug": "powdery-mildew",
+    "title": "Powdery Mildew",
+    "date": 1558807191741,
+    "synopsis": "Powdery mildew is a fungal disease that affects a wide range of plants. Powdery mildew diseases are caused by many different species of fungi in the order Erysiphales, with Podosphaera xanthii being the most commonly reported cause. [https://en.wikipedia.org/wiki/Powdery_mildew wikipedia]"
+  },
+  {
+    "slug": "preview-next-diagram",
+    "title": "Preview Next Diagram",
+    "date": 1553569521777,
+    "synopsis": "Diagram the current page and two pages looking forward. One page, labeled Next: will be identified as the next in the story arc. See [[Agile]], [[Hero's Journey]]"
+  },
+  {
+    "slug": "principles-for-version-two",
+    "title": "Principles for Version Two",
+    "date": 1602799588037,
+    "synopsis": "Six years ago we summarized for the ACM's forward looking conference, Splash, the design principles that had guided our work up to that point. These still hold today. Here we consider what we have learned since and suggest what might guide a rewrite."
+  },
+  {
+    "slug": "print-local-changes",
+    "title": "Print Local Changes",
+    "date": 1582084831846,
+    "synopsis": "Bruno Postel suggests, \"I'm thinking of 'use cases'. One of the people who helped me with the html file is taking-on turning some buildings at his church into a community centre - if he has a ten page printed document of just the relevant patterns, this could form the basis of discussion with the other people he has to work with, who would likely be very unwilling to access a wiki.\""
+  },
+  {
+    "slug": "print-plugin",
+    "title": "Print Plugin",
+    "date": 1511477594066,
+    "synopsis": "We test a plugin that can find and print many pages from the neighborhood. We test the idea by using a search term as markup. The print button will print all found pages in the order shown. We'll print pages that mention json."
+  },
+  {
+    "slug": "private-pods",
+    "title": "Private Pods",
+    "date": 1512480453602,
+    "synopsis": "Imagine influential authors writing freely together in private with the understanding that they are free to remake any part of their collective work as their own citing only the pod, not the individual authors who once shared in private. How would this work?"
+  },
+  {
+    "slug": "production-tools",
+    "title": "Production Tools",
+    "date": 1552106434045,
+    "synopsis": "Wiki text is so simple we don't imagine any trouble getting it into book form. Still better start now so there are no surprises. [https://github.com/WardCunningham/dayton-experiment/commits/master github]"
+  },
+  {
+    "slug": "promise-pages-for-links",
+    "title": "Promise Pages for Links",
+    "date": 1553610454236,
+    "synopsis": "Browsing works as well as it does because the browser overlaps many requests. This turns out to be especially true for the dynamic diagrams recently added via algorithmic markup in Graphviz plugin. Our goal has always been to explore a region of the wiki by following all of the links on a page at once. We've now enabled this mechanism with a deceptively small code change."
+  },
+  {
+    "slug": "proper-title-case",
+    "title": "Proper Title Case",
+    "date": 1558202597440,
+    "synopsis": "Wiki links are not required to exactly match the case of page titles that they cite. Instead we reduce the link to a slug, retrieve the page, and then render the page with the proper title case as recorded in the page json."
+  },
+  {
+    "slug": "provenance-at-creation",
+    "title": "Provenance at Creation",
+    "date": 1458920179845,
+    "synopsis": "Wiki pages created from other sources by mechanical means should have a journal that starts with a Create action describing the source, means and results of the conversion."
+  },
+  {
+    "slug": "radar-chart",
+    "title": "Radar Chart",
+    "date": 1485138862623,
+    "synopsis": "This chart has been configured to aid [[Testing Tab]] data fetched from Wikipedia Commons."
+  },
+  {
+    "slug": "radios-social-network",
+    "title": "Radio's Social Network",
+    "date": 1564678435174,
+    "synopsis": "We look at recent radio traffic and draw associations based on who has confirmed contacts. [http://ward.asia.wiki.org/assets/pages/radios-social-network/view.html enlarge] [https://github.com/WardCunningham/ft8-network github]"
+  },
+  {
+    "slug": "rationality",
+    "title": "Rationality",
+    "date": 1495326153403,
+    "synopsis": "The question which logic and mindset is at work when we act, has been central to Western intellectual culture. We strangely defer to this as \"rationality\". But \"rational\" and \"irrational\" are  meaningless with respect to our subjective goals, and even more with respect to human interaction in complex, adaptive socio-ecological systems."
+  },
+  {
+    "slug": "reading-livecode",
+    "title": "Reading LiveCode",
+    "date": 1450631841681,
+    "synopsis": "We look at source code for a [[Transport Plugin]] service that converts an Audioboom url to a wiki page with five items of four types and a complete journal. [https://github.com/opn/audioboom_transport/blob/d1784bbd34b7e40a5f33f933928e0220fb24445e/audioboom.lc github]"
+  },
+  {
+    "slug": "recent-activity-report",
+    "title": "Recent Activity Report",
+    "date": 1455113995601,
+    "synopsis": "We report editing activity our regular scrape has noticed throughout the week. The report is expressed as a page from a foreign server that contains some statistics and a Roster of changed sites."
+  },
+  {
+    "slug": "recent-changes",
+    "title": "Recent Changes",
+    "date": 1555197228643,
+    "synopsis": "List neighborhood pages with those most recently changed pages listed first."
+  },
+  {
+    "slug": "recent-farm-activity",
+    "title": "Recent Farm Activity",
+    "date": 1527524139504,
+    "synopsis": "Before there was the [[Weekly Roster]] an hourly server cron job reported, \"Sites hosted by this farm with activity in the last 10 days.\" [https://github.com/WardCunningham/farm-scripts/blob/master/build.rb github]"
+  },
+  {
+    "slug": "recent-ward-on-wiki",
+    "title": "Recent Ward on Wiki",
+    "date": 1495458159554,
+    "synopsis": "Follow my writing on all aspects of wiki including history and influences. Here we use a curated list of sites to guide this list of changes."
+  },
+  {
+    "slug": "recorded-action-errors",
+    "title": "Recorded Action Errors",
+    "date": 1466775307512,
+    "synopsis": "The client recovers from server errors by annotating the action with an \"error\" field and saving the edit in browser local storage. Here is how developers can see the details."
+  },
+  {
+    "slug": "reduce-revisited",
+    "title": "Reduce Revisited",
+    "date": 1437928420998,
+    "synopsis": "The Reduce plugin reflects to find links to pages with calculations that it can perform in sequence. This is a powerful idea but the implementation suggests we can improve speed, power and usability. [https://github.com/fedwiki/wiki-plugin-reduce/issues/7#issuecomment-125006350 github]"
+  },
+  {
+    "slug": "regexp-metacharacters",
+    "title": "RegExp Metacharacters",
+    "date": 1552437070400,
+    "synopsis": "We use the javascript implementation of RegExp to evaluate regular expressions. Most letters stand for themselves when matching but there are exceptions. Here is a list we have adapted from \"Learn RegEx\". [https://github.com/ziishaned/learn-regex#1-basic-matchers site]"
+  },
+  {
+    "slug": "region-rosters",
+    "title": "Region Rosters",
+    "date": 1589414224550,
+    "synopsis": "Region crawling [[Configuration]]"
+  },
+  {
+    "slug": "region-scraping-and-indexing",
+    "title": "Region Scraping and Indexing",
+    "date": 1585756295563,
+    "synopsis": "Wiki offers local and global versions of search. Global becomes more difficult as our federation grows. We explore possible proliferation of indexes over large regions that would benefit from incremental specialization possible with [[Outpost Thinking]]."
+  },
+  {
+    "slug": "register-plugin",
+    "title": "Register Plugin",
+    "date": 1598119237200,
+    "synopsis": "We consider adding incrementally more control over the creation of subdomains within a wiki farm. A Register plugin would be offered on a claimed site that would manufacture and possibly pre-claim subdomain sites."
+  },
+  {
+    "slug": "registration-workflows",
+    "title": "Registration Workflows",
+    "date": 1510063762299,
+    "synopsis": "Here we think through how one could host a wiki farm for themselves and friends without opening hosting for the world. [https://riot.im/app/#/room/#fedwiki:matrix.org/$15098118261302156xrASH:matrix.org riot]"
+  },
+  {
+    "slug": "relations-described",
+    "title": "Relations Described",
+    "date": 1446923533892,
+    "synopsis": "Wiki has a structure that supports its loosely collaborating authors and readers. We now consider how we might exploit that structure while more rigorously documenting complex relationships. [https://github.com/fedwiki/wiki/issues/63 github]"
+  },
+  {
+    "slug": "reloading-from-backup",
+    "title": "Reloading from Backup",
+    "date": 1528581905498,
+    "synopsis": "Anyone can make a backup of any site by retrieving the system/export.json from the site."
+  },
+  {
+    "slug": "reloading-offsite-backup",
+    "title": "Reloading Offsite Backup",
+    "date": 1528582829293,
+    "synopsis": "We keep wiki server backups on an older but stable and secure linux machine as rolling tgz archives from .wiki in digital ocean. We've retrieved all available copies of a lost page from these as a directory full of export files."
+  },
+  {
+    "slug": "relocating-forage",
+    "title": "Relocating Forage",
+    "date": 1419170961849,
+    "synopsis": "I moved one subdomain to another server with scp and some new A records."
+  },
+  {
+    "slug": "removing-unused-sites",
+    "title": "Removing Unused Sites",
+    "date": 1487453293156,
+    "synopsis": "We are quick to make a new site. These collect. Here are some commands handy for removing them."
+  },
+  {
+    "slug": "rename-pages",
+    "title": "Rename Pages",
+    "date": 1604103580583,
+    "synopsis": "Sometime you get the name wrong. The name is important. We need a rename that  is convenient, safe and useful in both local and distributed cases."
+  },
+  {
+    "slug": "render-and-follow-links",
+    "title": "Render and Follow Links",
+    "date": 1446859481767,
+    "synopsis": "Federated wiki collects context for links based on sites mentioned on the page. This context is consulted when a link is clicked."
+  },
+  {
+    "slug": "residents-plugin",
+    "title": "Residents Plugin",
+    "date": 1504379511478,
+    "synopsis": "We consider what we might expect of a plugin implementation of Recent Farm Activity. Mostly it would know what sites reside in a farm."
+  },
+  {
+    "slug": "restful-plugins",
+    "title": "Restful Plugins",
+    "date": 1453673262742,
+    "synopsis": "We explore using rest calls rather than websocket to communicate with server-side plugins."
+  },
+  {
+    "slug": "restricting-wiki-farm-growth",
+    "title": "Restricting Wiki Farm Growth",
+    "date": 1573355438257,
+    "synopsis": "As part of returning to provisioning wiki sites as part of registering members of a community, we look at stopping the creation of new wiki on first access.  [https://github.com/fedwiki/wiki/tree/restrict-new-wiki github]"
+  },
+  {
+    "slug": "review-of-student-video",
+    "title": "Review of Student Video",
+    "date": 1438354164767,
+    "synopsis": "Andrew Lih asked first year journalism students to shoot and edit short video stories using the [[BBC Five Shot]] formula. Here he reviews their work."
+  },
+  {
+    "slug": "rewrite-help",
+    "title": "Rewrite Help",
+    "date": 1499140397333,
+    "synopsis": "We include How to Wiki on the welcome page of every site. This should be our best ready help but it is old and often fails to offer the best advice. We'll work on this one page a day."
+  },
+  {
+    "slug": "robust-and-compositional-verification-of-object-capability-patterns",
+    "title": "Robust and Compositional Verification of Object Capability Patterns",
+    "date": 1559754007762,
+    "synopsis": "Mike Stay: \t"
+  },
+  {
+    "slug": "roster-clubs",
+    "title": "Roster Clubs",
+    "date": 1421807761127,
+    "synopsis": "Read the roster from a google spreadsheet instead of from a roster in wiki. [http://fed.wiki.org/report.html report] [https://gist.github.com/WardCunningham/91e994bdb749a52ece7d gist]"
+  },
+  {
+    "slug": "roster-madness",
+    "title": "Roster Madness",
+    "date": 1565894954475,
+    "synopsis": "Regarding Rosters as a roster-source, these become async sources when they transclude markup by fetching page json and interpreting it recursively within."
+  },
+  {
+    "slug": "roster-madness-a",
+    "title": "Roster Madness A",
+    "date": 1565894703577,
+    "synopsis": "We transclude this roster and one it transcludes as a demonstration of something that resolves asynchronously."
+  },
+  {
+    "slug": "roster-madness-b",
+    "title": "Roster Madness B",
+    "date": 1565894606668,
+    "synopsis": "We transclude this roster as a demonstration of something that resolves asynchronously."
+  },
+  {
+    "slug": "roster-madness-listener",
+    "title": "Roster Madness Listener",
+    "date": 1565894393177,
+    "synopsis": "Here we configure an Activity Plugin to consume roster-source info from Rosters above and to our left. [https://github.com/fedwiki/wiki-plugin-activity/blob/master/client/activity.coffee github]"
+  },
+  {
+    "slug": "rosters",
+    "title": "Rosters",
+    "date": 1435282720574,
+    "synopsis": "A roster is any list of sites assembled for the purpose of sharing. We describe common mechanisms for assembling and managing rosters."
+  },
+  {
+    "slug": "round-trip-import",
+    "title": "Round Trip Import",
+    "date": 1435529522090,
+    "synopsis": "We consider how collaboration tools with deeply different internal structure might interoperate by mutual structure-saving imports. Our test case is conversion between hierarchal outlines and flat wiki pages. [http://liveblog.co/users/davewiner/2015/06/28/youHaveYourPlaceIHaveMineAndTheyMix.html liveblog]"
+  },
+  {
+    "slug": "ruby-export-scrape",
+    "title": "Ruby Export Scrape",
+    "date": 1437752460472,
+    "synopsis": "This ruby program fetched exports and saved them intact for later analysis. It has served the unintended purpose of offsite backup in an emergency. [https://gist.github.com/WardCunningham/9792cb44076a5ca60c29 gist]"
+  },
+  {
+    "slug": "ruby-sitemap-scrape",
+    "title": "Ruby Sitemap Scrape",
+    "date": 1508210439181,
+    "synopsis": "This is a rewrite of the first ruby scraper that saves text files useful for searching instead of whole sites in export format. It incrementally refetches pages that have changed based on dates in the sitemaps. [https://github.com/WardCunningham/search github]"
+  },
+  {
+    "slug": "rules-in-use",
+    "title": "Rules-in-Use",
+    "date": 1448075879813,
+    "synopsis": "We'll need some terms and definitions to help with the discussion of governance."
+  },
+  {
+    "slug": "safe-and-familiar-welcome",
+    "title": "Safe and Familiar Welcome",
+    "date": 1580449442717,
+    "synopsis": "We could provide an \"index.html\" style template in the server that would present a more familiar welcome page before easing visitors into the new world of federated wiki."
+  },
+  {
+    "slug": "salem-confluence",
+    "title": "Salem Confluence",
+    "date": 1467766205836,
+    "synopsis": "This confluence is on or near the Interstate-5 southbound exit ramp to Salem Parkway at the north end of Salem, Oregon, the state capital. I was not the first to vist this location and had no interest in documenting a second or third report."
+  },
+  {
+    "slug": "sand-lake-geocache",
+    "title": "Sand Lake Geocache",
+    "date": 1467770115586,
+    "synopsis": "Off-highway vehicles roam the dunes of the Sand Lake Recreation Area under jurisdiction of the Hebo Ranger District USFS. We've buried this geocache among them. You will need a properly equipped vehicle to get to it. Bring a shovel. February 24, 2001. [http://c2.com/~ward/geo/SandLake/ page]"
+  },
+  {
+    "slug": "saved-search-result",
+    "title": "Saved Search Result",
+    "date": 1491487934091,
+    "synopsis": "We want to render search results in something that looks like a roster except that each flag links to a specific title."
+  },
+  {
+    "slug": "scaling-svg-images",
+    "title": "Scaling SVG Images",
+    "date": 1463017522545,
+    "synopsis": "SVG images are not like raster images - they can scale to any size. this means the way scaling works is different."
+  },
+  {
+    "slug": "school",
+    "title": "School",
+    "date": 1437852651305,
+    "synopsis": "Describing Luke's democratic school education"
+  },
+  {
+    "slug": "scratch-images",
+    "title": "Scratch Images",
+    "date": 1590430103271,
+    "synopsis": "A page with 1 items."
+  },
+  {
+    "slug": "search-engines",
+    "title": "Search Engines",
+    "date": 1450274402176,
+    "synopsis": "This year, for the first time, we have enough activity in the federation to make scraping a sound search strategy."
+  },
+  {
+    "slug": "search-for-about-pages",
+    "title": "Search for About Pages",
+    "date": 1487615832047,
+    "synopsis": "The About pages packaged with installed plugins are served from the origin as normal content yet they are invisible to search. Here we consider what we might do to resolve this omission and the benefits that then accrue."
+  },
+  {
+    "slug": "search-for-search",
+    "title": "Search for 'search'",
+    "synopsis": "String 'search' found on 29 of 401 pages from 1 sites."
+  },
+  {
+    "slug": "search-for-thompson",
+    "title": "Search for 'Thompson'",
+    "date": 1586811284751,
+    "synopsis": "In a brief call with Frode Hegland I described how wiki has evolved to meet the needs of specific communities and used Thompson Morrisons work as an example. I declined writing about this but found related posts while looking for other background. I forked the search result, already a bibliography of sorts, and send it to Frode with a few explanatory edits."
+  },
+  {
+    "slug": "search-index",
+    "title": "Search Index",
+    "date": 1450030581675,
+    "synopsis": "We consider how we might index and query multiple sites within a distributed search database routinely hosted in federated wiki page server/editors."
+  },
+  {
+    "slug": "search-index-downloads",
+    "title": "Search Index Downloads",
+    "date": 1589988067908,
+    "synopsis": "We make available the search index as downloadable files in several formats including json objects designed for network graphing."
+  },
+  {
+    "slug": "search-labels",
+    "title": "Search Labels",
+    "date": 1553437840968,
+    "synopsis": "Recently David Ing suggested that we have too many ways to search or at least too many ways labeled \"search\". Let's attack this problem by growing our labels from a single verb, search, to short phrases. [https://matrix.to/#/!ORfrUEFeWFcHAMLFLr:matrix.org/$1553398247594835foxaY:matrix.org?via=matrix.org&via=matrix.allmende.io&via=tomesh.net riot]"
+  },
+  {
+    "slug": "search-optimized",
+    "title": "Search Optimized",
+    "date": 1474673763852,
+    "synopsis": "I've been writing here long enough to find myself searching for pages I'd written years ago. It is getting easier because I've adopted techniques that make the hunt more effective."
+  },
+  {
+    "slug": "search-over-the-horizon",
+    "title": "Search over the Horizon",
+    "date": 1592762435476,
+    "synopsis": "We're exploring how a more data centric federated wiki server might work. We'd like this to be driven by technological innovation and improved applications we already have."
+  },
+  {
+    "slug": "search-plugin",
+    "title": "Search Plugin",
+    "date": 1512180308481,
+    "synopsis": "The search plugin contains a query as its text, performs that query on emit, and reports results in page as flags ordered by the titles that have them."
+  },
+  {
+    "slug": "search-thoughts",
+    "title": "Search Thoughts",
+    "date": 1449239608966,
+    "synopsis": "This page is some initial thoughts and experiments with searching the Federated Wiki sites. What is id doing on Decentralised Academy site?"
+  },
+  {
+    "slug": "selective-key-injection",
+    "title": "Selective Key Injection",
+    "date": 1510582980602,
+    "synopsis": "We consider how a transporter could provide services to site owners within one farm but not others. We assume an administrator with privileged access to both transporter and farm and suitable protection from man-in-the-middle attacks at all levels."
+  },
+  {
+    "slug": "selective-scrape-pages",
+    "title": "Selective Scrape Pages",
+    "date": 1571610970707,
+    "synopsis": "We add restrictions to [[Scrape Pages]] so that it runs faster and finds more relevant content. We've added a json output for downstream visualization and an example node app that reads it. [https://github.com/WardCunningham/assets/tree/master/pages/selective-scrape-pages github]"
+  },
+  {
+    "slug": "sensor-server-wind-damage",
+    "title": "Sensor Server Wind Damage",
+    "date": 1600999028978,
+    "synopsis": "The high hot winds of September, 2020, blew trees down and launched wild fires that raised the Portland smoke danger to extreme for a week. It also broke my moisture sensor which had been serving me for a decade."
+  },
+  {
+    "slug": "server-startup",
+    "title": "Server Startup",
+    "date": 1551278479660,
+    "synopsis": "We run a few servers in screen jobs. We restart these after power failures."
+  },
+  {
+    "slug": "serverless-microservices",
+    "title": "Serverless Microservices",
+    "date": 1449070145677,
+    "synopsis": "Using microservices on AWS. Is this to wiki's advantage? Can we exploit it without becoming it? See [[Computational Habitat]]"
+  },
+  {
+    "slug": "service-blocks",
+    "title": "Service Blocks",
+    "date": 1553122939724,
+    "synopsis": "We would like to generalize the Datalog plugin with block-based programming that will recognize or generate events and then invoke diverse activity based on what happens. The block model provides a \"toolbox\" of operations subject to assembly constraints promising no syntax errors ever."
+  },
+  {
+    "slug": "service-logic",
+    "title": "Service Logic",
+    "date": 1560356387119,
+    "synopsis": "We consider how server-side plugins can assemble and maintain coordinated services under the guidance of transient client-side plugin configurations. See [[Alert Prototype]]"
+  },
+  {
+    "slug": "serving-executables",
+    "title": "Serving Executables",
+    "date": 1593205623721,
+    "synopsis": "We've taken a step back from the increasing complexity driven by our early experiments in [[Outpost Thinking]]. We set the client aside for a moment and ask if we can hack an existing deno server to run executable helpers as if they were CGI scripts. [https://github.com/joshuabenuck/seran-sudoku github]"
+  },
+  {
+    "slug": "servo-developer-preview",
+    "title": "Servo Developer Preview",
+    "date": 1467429007588,
+    "synopsis": "Servo is a modern, high-performance browser engine being developed for application and embedded use."
+  },
+  {
+    "slug": "setting-up-systemd",
+    "title": "Setting up systemd",
+    "date": 1538331272754,
+    "synopsis": "We use systemd to start wiki on crash or reboot."
+  },
+  {
+    "slug": "shell-privilege",
+    "title": "Shell Privilege",
+    "date": 1464054985865,
+    "synopsis": "How can I share the power I have over my digital work? I test this by considering what controls I must apply to make the Shell plugin safe for distribution."
+  },
+  {
+    "slug": "signature-plugin",
+    "title": "Signature Plugin",
+    "date": 1519154485138,
+    "synopsis": "We will try out the plugin here. For the moment we are interested mostly in workflow enabled by wiki with only a nod to digital signatures."
+  },
+  {
+    "slug": "simple-login-alternative",
+    "title": "Simple Login Alternative",
+    "date": 1447500530287,
+    "synopsis": "This page records an earlier discussion on simplifying authentication. It points to one possible future direction."
+  },
+  {
+    "slug": "site-network-diagram",
+    "title": "Site Network Diagram",
+    "date": 1467051015908,
+    "synopsis": "One large diagram shows all visible sites with arcs connect sites that share some reference to each other. Find a link to the full diagram in the caption below."
+  },
+  {
+    "slug": "sitemap-failures",
+    "title": "Sitemap Failures",
+    "date": 1474255403470,
+    "synopsis": "We notice that scrapes take longer and longer. A pet theory is that sitemap fetches are timing out. We've changed the curl -m time limit from 10 to 5 seconds. Now we wonder what effect that will have."
+  },
+  {
+    "slug": "sitemap-scrape-improvements",
+    "title": "Sitemap Scrape Improvements",
+    "date": 1512359402733,
+    "synopsis": "The [[Ruby Sitemap Scrape]] provides the first full text search of the visible federation. We've learned a lot by building this ourselves from grep-like utilities. Here we list todos that have surfaced and been completed."
+  },
+  {
+    "slug": "sitemap-scrape-statistics",
+    "title": "Sitemap Scrape Statistics",
+    "date": 1465073172963,
+    "synopsis": "We collect various counts while scraping sitemaps and report them as a text file. Here we plot the most recent counts available."
+  },
+  {
+    "slug": "sites-claimed",
+    "title": "Sites Claimed",
+    "date": 1467608673398,
+    "synopsis": "We've made it unexpectedly easy to make and claim a site. We have no terms of service, but for claimed sites we have an email so we could alert users of changes such as migration from persona."
+  },
+  {
+    "slug": "sites-for-friends",
+    "title": "Sites for Friends",
+    "date": 1471195053092,
+    "synopsis": "We consider how we might provide just sufficient security for a small community of friends to form quickly, enjoy ownership, invite others and recover from mistakes."
+  },
+  {
+    "slug": "small-steps",
+    "title": "Small Steps",
+    "date": 1467721110768,
+    "synopsis": "This is [[work-in-progress]]. We outline below some steps that help bring us closer to the goal of creating a new form of decentralised conversation:"
+  },
+  {
+    "slug": "social-library",
+    "title": "Social Library",
+    "date": 1510314605367,
+    "synopsis": "This entry primarily refers to the use of the word 'library' as an abstract noun, like the word network. This does not exclude the term library also referring to a tangible place."
+  },
+  {
+    "slug": "solid-programmers",
+    "title": "Solid Programmers",
+    "date": 1516066429771,
+    "synopsis": "I often draw symbols like these in 2d with circles, squares, trapezoids shaded in gradient gray."
+  },
+  {
+    "slug": "solve-for-initial-conditions",
+    "title": "Solve for Initial Conditions",
+    "date": 1482337289806,
+    "synopsis": "The g9 library will adjust algorithmic drawings such that any element can be moved. When someone interacts with the graphics, for example by trying to drag an element to a new position, g9 optimizes over the space of possible values for your data to find a set of values that comes closest to creating the change. From MIT. [http://omrelli.ug/g9/gallery/ post]"
+  },
+  {
+    "slug": "sorting-and-searching",
+    "title": "Sorting and Searching",
+    "date": 1438233625866,
+    "synopsis": "We have many kinds of things and they can move about. How will we ever find them, make sense of them, see what is missing, wonder at our accomplishment?"
+  },
+  {
+    "slug": "soundcloud-plugin",
+    "title": "SoundCloud Plugin",
+    "date": 1517168172799,
+    "synopsis": "We start with the mkplugin script and attempt to write a plugin in 5 minutes while screen sharing. [https://gist.github.com/WardCunningham/fced775fcedcee133b32 gist]"
+  },
+  {
+    "slug": "soviet-control-panels",
+    "title": "Soviet Control Panels",
+    "date": 1516555921391,
+    "synopsis": "A collection of Soviet control rooms, power stations, control towers etc. Posted mainly for aesthetic reasons."
+  },
+  {
+    "slug": "sowing-apparatus",
+    "title": "Sowing Apparatus",
+    "date": 1513747181251,
+    "synopsis": "How to connect [[Apparatus]] and wiki?  I find myself stalled in this question.  Here, I write to think as a first tiny step.  Can I build some momentum?"
+  },
+  {
+    "slug": "speed-read",
+    "title": "Speed Read",
+    "date": 1524583288559,
+    "synopsis": "Like search, speed read provides an alternate view of a neighborhood. Unlike search, speed read does not assume you are looking for something in particular."
+  },
+  {
+    "slug": "spike-outline-plugin",
+    "title": "Spike Outline Plugin",
+    "date": 1434118692925,
+    "synopsis": "This test plugin has a manually inserted outline structure retrieved from Dave's site. [http://liveblog.co/users/davewiner/2015/05/13/appleWatchNotes.json json] [https://github.com/WardCunningham/wiki-plugin-outline github]"
+  },
+  {
+    "slug": "spray-dots",
+    "title": "Spray Dots",
+    "date": 1440208913715,
+    "synopsis": "We explore painting things that move with dots that follow. We use placement and motion in the plane to represent abstract concepts rather than precise motion in the domain."
+  },
+  {
+    "slug": "start-or-stop-the-scrape",
+    "title": "Start or Stop the Scrape",
+    "date": 1601240942506,
+    "synopsis": "An inital scrape can take the better part of a day.  Press 'start' to begin.  Shift-'start' to do one cycle at a time."
+  },
+  {
+    "slug": "start-playing-wiki",
+    "title": "Start Playing Wiki",
+    "date": 1503166606466,
+    "synopsis": "Wiki is a hypertext. When you click a link you will go to that page. Here we have arranged the pages like rooms in an adventure game. There are things you can do here but you can just zoom through without doing any of them. Then maybe you will play again and do some things. Play it lots of times. You will get good at it."
+  },
+  {
+    "slug": "static-types-for-parsers",
+    "title": "Static Types for Parsers",
+    "date": 1585852657587,
+    "synopsis": "All of our Seran outpost experiments teach about the tools and libraries preferred by deno. Here I report some ups and downs writing a parser in typescript and then not typescript and then in typescript again."
+  },
+  {
+    "slug": "stepping-the-async-scrape",
+    "title": "Stepping the Async Scrape",
+    "date": 1590187244245,
+    "synopsis": "We've designed a scrape that runs with some parallelism captured with liberal use of async and await. Now we are thinking we can single-step this long running computation but have to think through what that even means."
+  },
+  {
+    "slug": "story-maps",
+    "title": "Story Maps",
+    "date": 1466881864632,
+    "synopsis": "A Story Map Journal contains entries, or sections, that users simply scroll through. Each section in a Map Journal has an associated map, image, video or web page. [https://storymaps.arcgis.com/en/app-list/map-journal/ page]"
+  },
+  {
+    "slug": "stravinskys-player-piano",
+    "title": "Stravinsky's Player Piano",
+    "date": 1419350154384,
+    "synopsis": "Stravinsky, like many artists of his time, saw in mechanical reproduction of performance a way to ensure fidelity to the original artistic vision. Hedy's Folly records his initial reaction to the player piano (and later, the gramaphone):"
+  },
+  {
+    "slug": "sudokant",
+    "title": "Sudokant",
+    "date": 1592338090551,
+    "synopsis": "The sudoku servant server helps you solve sudoku puzzles by showing choices satisfying two simple rules: at-most-one and at-least-one "
+  },
+  {
+    "slug": "sudoku-helper",
+    "title": "Sudoku Helper",
+    "date": 1593394446821,
+    "synopsis": "We've used sample applications to drive our work. For this sprint we chose an existing perl script with a colorful history: the sudoku servant. See [[Sudokant]]"
+  },
+  {
+    "slug": "sunday-may-26-2019",
+    "title": "Sunday, May 26, 2019",
+    "date": 1557279865276,
+    "synopsis": "Please join me for a Memorial Day party. We’ve reserved the back room"
+  },
+  {
+    "slug": "sunday-parkways",
+    "title": "Sunday Parkways",
+    "date": 1466957474254,
+    "synopsis": "On June 26th, thousands of smiling faces will gather in North Portland to bike, walk, and roll across the double loop 9.5 mile scenic route that glides along the Willamette Boulevard and over to Peninsula Rose Garden, Arbor Lodge, Kenton, and McCoy Parks. [https://www.portlandoregon.gov/transportation/67622 post]"
+  },
+  {
+    "slug": "svg-in-img-tag",
+    "title": "SVG in IMG Tag",
+    "date": 1461479183155,
+    "synopsis": "We've made progress manipulating svg with jquery, particularly getting it to parse svg from javascript strings."
+  },
+  {
+    "slug": "sweet-little-language",
+    "title": "Sweet Little Language",
+    "date": 1589908140883,
+    "synopsis": "I'm designing a little language that can run in a web page."
+  },
+  {
+    "slug": "tab-data",
+    "title": "Tab Data",
+    "date": 1485360501897,
+    "synopsis": "I spiked an implementation of a tabular data fetcher aimed at the Tab format in Wikimedia Commons. [https://github.com/WardCunningham/wiki-plugin-tab github]"
+  },
+  {
+    "slug": "table-of-contents",
+    "title": "Table of Contents",
+    "date": 1552052702078,
+    "synopsis": "We save this drawing here where it doesn't actually work because we don't want to overwrite these experiments with automatic translations, yet."
+  },
+  {
+    "slug": "test-pages",
+    "title": "Test Pages",
+    "date": 1428191481410,
+    "synopsis": "I try modifications to this wiki with pages that exploit those modifications."
+  },
+  {
+    "slug": "test-subdomains",
+    "title": "Test Subdomains",
+    "date": 1478467657459,
+    "synopsis": "The entire domain name localtest.me and all wildcard entries point to 127.0.0.1. So without any changes to your host file you can immediately start testing with a local URL. [http://readme.localtest.me site]"
+  },
+  {
+    "slug": "testing-chess-plugin",
+    "title": "Testing Chess Plugin",
+    "date": 1488149043349,
+    "synopsis": "We render all chess pieces present in the markup. [https://github.com/WardCunningham/wiki-plugin-chess/commit/6dc4490d9b482a465ca4615f746f2b69fd14e0b0 github]"
+  },
+  {
+    "slug": "testing-click-for-markers",
+    "title": "Testing Click for Markers",
+    "date": 1467917832977,
+    "synopsis": "We make a map at default location, then add markers and see that they stick."
+  },
+  {
+    "slug": "testing-cypher-plugin",
+    "title": "Testing Cypher Plugin",
+    "date": 1453992550363,
+    "synopsis": "The combination of LINKS and KNOWS fishes out the participants in a wiki conversation. [https://github.com/WardCunningham/wiki-plugin-cypher/blob/master/server/server.coffee#L14-L26 github]"
+  },
+  {
+    "slug": "testing-graph-plugin",
+    "title": "Testing Graph Plugin",
+    "date": 1461650082642,
+    "synopsis": "Here is a graph of page titles that includes this page. This would be good for pattern languages that want to identify preceding and following patterns."
+  },
+  {
+    "slug": "testing-map-defaults",
+    "title": "Testing Map Defaults",
+    "date": 1467697489460,
+    "synopsis": "We still inherit defaults from the item and the plugin."
+  },
+  {
+    "slug": "testing-map-enhancements",
+    "title": "Testing Map Enhancements",
+    "date": 1467871665365,
+    "synopsis": "We're working on a better markup and some interesting item to item communication."
+  },
+  {
+    "slug": "testing-map-keywords",
+    "title": "Testing Map Keywords",
+    "date": 1467696080469,
+    "synopsis": "We add LINEUP and BOUNDARY keywords to the parser."
+  },
+  {
+    "slug": "testing-map-sans-data",
+    "title": "Testing Map Sans Data",
+    "date": 1467696187653,
+    "synopsis": "We should be upward compatible with old maps."
+  },
+  {
+    "slug": "testing-microtalk",
+    "title": "Testing Microtalk",
+    "date": 1499180330093,
+    "synopsis": "We try a few examples of microtalk, a subset of lambdatalk, a dialect of lisp."
+  },
+  {
+    "slug": "testing-plugmatic-plugin",
+    "title": "Testing Plugmatic Plugin",
+    "date": 1489166555546,
+    "synopsis": "Now we try inquiry about a specific inventory."
+  },
+  {
+    "slug": "testing-search-discovery",
+    "title": "Testing Search Discovery",
+    "date": 1438869921344,
+    "synopsis": "Will the scraper find this site? I hope so."
+  },
+  {
+    "slug": "testing-slide-plugin",
+    "title": "Testing Slide Plugin",
+    "date": 1512614476786,
+    "synopsis": "This is our first step into presentation software in wiki."
+  },
+  {
+    "slug": "testing-slide-with-background",
+    "title": "Testing Slide with Background",
+    "date": 1492903693025,
+    "synopsis": "We'd like to enhance the presentation value of sides with background imagery artfully blurred so as to not interfere with the text. We can blur our postcard sized images but the compression artifacts stand out. Better to apply the blur at screen resolution with css3."
+  },
+  {
+    "slug": "texteditor-improved",
+    "title": "TextEditor Improved",
+    "date": 1419212635993,
+    "synopsis": "We need to consolidate actions, especially on paragraph split and join. This requires more complex state flow. As long as we're in this code maybe we can do a few more nice things."
+  },
+  {
+    "slug": "the-burn-geocache",
+    "title": "The Burn Geocache",
+    "date": 1467769007534,
+    "synopsis": "Huge forest fires once ravaged Oregon's coastal mountains. Citizens replanted the burnt hillsides to form what is now Tillamook State Forest, the site of this, my first geocache. January 7, 2001. [http://c2.com/~ward/geo/TheBurn/ page]"
+  },
+  {
+    "slug": "thinking-of-presentations",
+    "title": "Thinking of Presentations",
+    "date": 1459699663581,
+    "synopsis": "What plugins would we need to make and perform presentations with federated wiki?"
+  },
+  {
+    "slug": "thompsons-anchors-visualized",
+    "title": "Thompson's Anchors Visualized",
+    "date": 1545780519666,
+    "synopsis": "We construct a diagram seeded with [[Thompson's Anchors]] used five or more times. [https://raw.githubusercontent.com/WardCunningham/thompson-anchors/master/map.svg?sanitize=true enlarge]"
+  },
+  {
+    "slug": "thought-soup",
+    "title": "Thought Soup",
+    "date": 1420295843598,
+    "synopsis": "We reflect on this happening using the metaphorical model of soup as in primordial soup or even stone soup."
+  },
+  {
+    "slug": "three-layer-storage",
+    "title": "Three Layer Storage",
+    "date": 1558370718079,
+    "synopsis": "I have improved some code paths in pageHandler but there are many opportunities for simplification remaining. I have worked slowly here because many cases have order sensitivities due to the compounding of function."
+  },
+  {
+    "slug": "three-ways-we-must-think",
+    "title": "Three Ways We Must Think",
+    "date": 1486741878984,
+    "synopsis": "Alan Kay explains, In order to be completely enfranchised in the 21st century, it will be very important for children to get fluent in the three central forms of thinking that are now in use: \"stories,\" \"logical arguments,\" and \"systems dynamics.\" [http://worrydream.com/refs/Kay%20-%20Powerful%20Ideas%20Need%20Love%20Too.html page]"
+  },
+  {
+    "slug": "timer-logic",
+    "title": "Timer Logic",
+    "date": 1567464564476,
+    "synopsis": "We'd like to manage timers server-side with convenient and fool proof client-side controls. [https://github.com/WardCunningham/wiki-plugin-datalog/commits/master github]"
+  },
+  {
+    "slug": "tips-for-deleting-sites",
+    "title": "Tips For Deleting Sites",
+    "date": 1573365032568,
+    "synopsis": "Our create on first access can lead to may junk sites. Here we look for safe strategies for removing them."
+  },
+  {
+    "slug": "tips-for-modeling",
+    "title": "Tips for Modeling",
+    "date": 1508596029950,
+    "synopsis": "We suggest an incremental approach where new sources are added to a daily build and explored with ad-hoc queries before choosing a more permanent representation as nodes and relations."
+  },
+  {
+    "slug": "tips-from-biology",
+    "title": "Tips from Biology",
+    "date": 1603142692437,
+    "synopsis": "We have always been inspired by genetics and population dynamics but know that these mechanisms alone fall short of full explanations of life. Here we catalog subjects from which we can borrow more."
+  },
+  {
+    "slug": "tips-from-erlang",
+    "title": "Tips from Erlang",
+    "date": 1603034694138,
+    "synopsis": "We've sought advice from Fred Heberts which we collect here without too much concern for provenance."
+  },
+  {
+    "slug": "title-network-browser",
+    "title": "Title Network Browser",
+    "date": 1444489936217,
+    "synopsis": "From one starting point this web application displays reachable titles following links forward or backwards two hops. Find a link to this interactive tool in the caption to the right."
+  },
+  {
+    "slug": "title-space-in-file-browsing",
+    "title": "Title Space in File Browsing",
+    "date": 1585769863920,
+    "synopsis": "We thought our deno based wiki server would be good for exposing aspects of resources not easily moved. We picked the host computer's file system as something interesting that we might want to browse."
+  },
+  {
+    "slug": "top-maintenance-priorities",
+    "title": "Top Maintenance Priorities",
+    "date": 1604103541393,
+    "synopsis": "We expect the various features of wiki to work in support of common workflows. We've endured inconvenience in cases where these features are incomplete or unreliable."
+  },
+  {
+    "slug": "topic-based-subsets",
+    "title": "Topic Based Subsets",
+    "date": 1425058955281,
+    "synopsis": "We pick topics that have been of lasting interest and subset them into their own federated wiki sites. These sites are the culmination of a project to  [[Subset Wiki]]."
+  },
+  {
+    "slug": "topicquests-nodes",
+    "title": "TopicQuests Nodes",
+    "date": 1519104779812,
+    "synopsis": "TopicQuests LiteWeight experimental hypertext. [http://context.asia.wiki.org/plugin/json/topicquests-nodes data]"
+  },
+  {
+    "slug": "touch-support",
+    "title": "Touch Support",
+    "date": 1486575137375,
+    "synopsis": "Browsing with touch is awkward at best. Editing is nearly impossible. We've adopted some compatibility plugin that trades one set of confusions for another. We have to take touch events into our own hands."
+  },
+  {
+    "slug": "transformation-visualizer",
+    "title": "Transformation Visualizer",
+    "date": 1545538578380,
+    "synopsis": "We consider how an advanced handheld and networked device could connect people, place and method in purposeful collaboration. See [[Flutter Client]]"
+  },
+  {
+    "slug": "transient-identity",
+    "title": "Transient Identity",
+    "date": 1438183575495,
+    "synopsis": "I'm trying to imagine the use case @opn is exploring. I think it works like this:"
+  },
+  {
+    "slug": "transport-forms",
+    "title": "Transport Forms",
+    "date": 1505054600251,
+    "synopsis": "We've borrowed most of the transporter logic and added it to one special case of the Html plugin: submitting forms."
+  },
+  {
+    "slug": "transport-infrastructure",
+    "title": "Transport Infrastructure",
+    "date": 1451526015557,
+    "synopsis": "We imagine how a component like we see in Transporters could become a casual ecosystem of open computational behavior."
+  },
+  {
+    "slug": "transport-plugin",
+    "title": "Transport Plugin",
+    "date": 1471462494545,
+    "synopsis": "The Transport Plugin is the name given to the plugin idea initially described here:"
+  },
+  {
+    "slug": "transported-graphviz",
+    "title": "Transported Graphviz",
+    "date": 1506875596005,
+    "synopsis": "This graph represents the merge of all graph-source to the left of the transport page."
+  },
+  {
+    "slug": "transported-image",
+    "title": "Transported Image",
+    "date": 1444598183006,
+    "synopsis": "Drag and drop this image into the desired page."
+  },
+  {
+    "slug": "transporter",
+    "title": "Transporter",
+    "date": 1460931359631,
+    "synopsis": "Here we describe the present state and future directions of the Transporter concept."
+  },
+  {
+    "slug": "transporter-roster",
+    "title": "Transporter Roster",
+    "date": 1483391140811,
+    "synopsis": "Transporters are public services that transform available content into federated wiki pages."
+  },
+  {
+    "slug": "transporting-hypertext",
+    "title": "Transporting Hypertext",
+    "date": 1461532371950,
+    "synopsis": "We ask, how might we merge the interface features of the Transport plugin with persistent foreign servers that could support continued on-demand transclusions of large hypertexts."
+  },
+  {
+    "slug": "trending-conversations",
+    "title": "Trending Conversations",
+    "date": 1419319741490,
+    "synopsis": "We've written a script that refreshes a static html page with links to the trending conversations. This version doesn't depend on you loading up your neighborhood to see our whole community. [http://fed.wiki.org/trending.html webpage]"
+  },
+  {
+    "slug": "tufte-css",
+    "title": "Tufte CSS",
+    "date": 1440488152837,
+    "synopsis": "A beautiful CSS template for text based on the work of Edward Tufte. [http://www.daveliepmann.com/tufte-css/ web]"
+  },
+  {
+    "slug": "turtle-spirals",
+    "title": "Turtle Spirals",
+    "date": 1586874791442,
+    "synopsis": "This javascript snippet and the installed turtle items are the results of an experiment with [[Outpost Thinking]]."
+  },
+  {
+    "slug": "tweets-in-natural-order",
+    "title": "Tweets in Natural Order",
+    "date": 1536806941223,
+    "synopsis": "Twitter's algorithm confounds and annoys. But their search, when asked politely, will give you what you expect. Try this link. [https://twitter.com/search?f=tweets&q=filter%3Afollows%20-filter%3Areplies&src=typd twitter]"
+  },
+  {
+    "slug": "two-constituencies",
+    "title": "Two Constituencies",
+    "date": 1438923000577,
+    "synopsis": "There are two constituencies for products: the aspirin crowd and the coffee crowd. The metaphor contrasts need with desire. Lasting products meet needs."
+  },
+  {
+    "slug": "udp-reporting-and-requests",
+    "title": "UDP Reporting and Requests",
+    "date": 1564615648094,
+    "synopsis": "The WSJT-X ham radio digital signaling application will report decoding status and accept requests by UDP datagrams. Here we explore how to avail ourselves of that service. [https://en.wikipedia.org/wiki/User_Datagram_Protocol wikipedia]"
+  },
+  {
+    "slug": "unexpected-server-restarts",
+    "title": "Unexpected Server Restarts",
+    "date": 1574101432646,
+    "synopsis": "Our WSJT plugin maintains a one-hour buffer and reports statistics on its contents when asked by a Datalog. We see the buffer inexplicably empties about once a day."
+  },
+  {
+    "slug": "unicode-titles",
+    "title": "Unicode Titles",
+    "date": 1512675694542,
+    "synopsis": "The full unicode title is present in the json and can be reproduced in the link. A server could index pages by full title and offer to retrieve them with something like a url friendly version of base64 passed as a query parameter on page fetch."
+  },
+  {
+    "slug": "uptime-table",
+    "title": "Uptime Table",
+    "date": 1557244829082,
+    "synopsis": "We're collecting availability stats from recorded exit status provided by a Datalog plugin curl extension. Here we report these as uptime percentages in tabular form."
+  },
+  {
+    "slug": "urls-not-idempotent",
+    "title": "URLs not Idempotent",
+    "date": 1419442548755,
+    "synopsis": "[[Recent Changes]] has a single URL but its content varies according to how much of the network is loaded by other pages mentioned in the URL. The amount of network that will be loaded also depends on what is on Tim's Welcome Visitors page. If Tim changes that page then Recent Changes will be different."
+  },
+  {
+    "slug": "us-womens-weekly-earnings",
+    "title": "US Women's Weekly Earnings",
+    "date": 1484177898637,
+    "synopsis": "We test with US Women's weekly earnings. [https://commons.wikimedia.org/wiki/Data:Bls.gov/US_Women%27s_weekly_earnings_as_a_percent_of_men%27s_by_age,_annual_averages.tab commons]"
+  },
+  {
+    "slug": "user-mode-preeminence",
+    "title": "User-mode Preeminence",
+    "date": 1507126935375,
+    "synopsis": "At the moment Fedwiki is constructed in the interest of the writer, we may even say the advanced writer. Let's call this mode of experience the Author Mode."
+  },
+  {
+    "slug": "utopia-studios-04",
+    "title": "Utopia Studios: 04",
+    "date": 1450620744990,
+    "synopsis": "Music, mobile interface, and multi-channel sound for the #BuildingUtopia project."
+  },
+  {
+    "slug": "video-reporter-producer",
+    "title": "Video Reporter Producer",
+    "date": 1438352778201,
+    "synopsis": "We consider how wiki could capture, produce and then deliver compelling video stories. We will imagine an end-to-end workflow based on one industry pattern for news stories about people doing things. We're confident many other kinds of stories could be configured into video pattern languages on wiki pages."
+  },
+  {
+    "slug": "viewing-graphviz-with-javascript",
+    "title": "Viewing Graphviz with Javascript",
+    "date": 1556720440159,
+    "synopsis": "I'd like to view a graphviz file in wiki. I can process it on the server but it seems difficult to get any rich format to display on the screen. Of course I want links so this makes image formats a non-starter. What's with svg anyway?"
+  },
+  {
+    "slug": "visitor-as-schema",
+    "title": "Visitor as Schema",
+    "date": 1552319824072,
+    "synopsis": "Small discovery of the day: Algorithmic markup in one plugin interprets the meaning of the remainder of the page which should be designed with this cooperation in mind."
+  },
+  {
+    "slug": "visualizing-high-order-graphs",
+    "title": "Visualizing High-Order Graphs",
+    "date": 1554979753806,
+    "synopsis": "How might we draw meaningful diagrams of wiki that don't turn quickly into a fuzzball of links?"
+  },
+  {
+    "slug": "wants-and-needs",
+    "title": "Wants and Needs",
+    "date": 1429802001703,
+    "synopsis": "These are ideas that we've thought about over and over but not done yet. Soon. See also [[Finished Work]]."
+  },
+  {
+    "slug": "ward-cunningham",
+    "title": "Ward Cunningham",
+    "date": 1524970673240,
+    "synopsis": "I have lots of ambition for federated wiki which I have explored at times and deferred to more mundane needs other times. Here I can describe ideas without declaring them as accepted direction."
+  },
+  {
+    "slug": "ward-on-wiki",
+    "title": "Ward on Wiki",
+    "date": 1495596159873,
+    "synopsis": "These sites address specific aspects of wiki often written for different audiences. We start with the most general or introductory and progress to the more detailed, speculative, or historical."
+  },
+  {
+    "slug": "wards-home-page",
+    "title": "Ward's Home Page",
+    "date": 1467960830181,
+    "synopsis": "I've lived my whole life in Indiana and Oregon. When maps became available online I sought to use them to document all of my homes. I called it my \"home page\" as a joke since that usually refers to a home in cyberspace. [http://c2.com/~ward/home/ site]"
+  },
+  {
+    "slug": "weak-wholeness",
+    "title": "Weak Wholeness",
+    "date": 1524303269211,
+    "synopsis": "We consider visible and hidden links that make pages whole. Of special concern is where technology strengthens the whole or destroys it by accident."
+  },
+  {
+    "slug": "web-bluetooth",
+    "title": "Web Bluetooth",
+    "date": 1473904470572,
+    "synopsis": "Chrome 53 has an Origin Trial for Bluetooth, which means that websites can opt-in to use this feature and automatically enable Web Bluetooth for all their visitors. It is the first time such technology enabling IoT directly from the web is deployed in the wild. [https://medium.com/@urish/is-now-a-good-time-to-start-using-web-bluetooth-hint-yes-yes-it-is-99e998d7b9f6#.u9l7mnyww post]"
+  },
+  {
+    "slug": "weeds-in-the-farm",
+    "title": "Weeds in the Farm",
+    "date": 1450557412168,
+    "synopsis": "I've run the fed.wiki.org farm for three years. I've seen weeds sprout. I've weeded on occasion. I've not been stung but then I don't represent a public institution."
+  },
+  {
+    "slug": "weekly-roster",
+    "title": "Weekly Roster",
+    "date": 1527432157937,
+    "synopsis": "We list sites in the visible federation active in a week of six hour period. Click » to add these to your neighborhood then see [[Recent Changes]] for details. Time in UTC."
+  },
+  {
+    "slug": "welcome-visitors",
+    "title": "Welcome Visitors",
+    "date": 1600539098830,
+    "synopsis": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+  },
+  {
+    "slug": "wendy-rose",
+    "title": "Wendy Rose",
+    "date": 1474723286561,
+    "synopsis": "This stainless steel sculpture is shown in work clothes proudly donning a red glass polka dot scarf. [http://www.cityofvancouver.us/ourcity/page/wendy-rose page]"
+  },
+  {
+    "slug": "when-replicators-unite",
+    "title": "When Replicators Unite",
+    "date": 1433166596530,
+    "synopsis": "Major Evolutionary Transitions in Individuality ... characterized by individuals that could previously replicate independently,"
+  },
+  {
+    "slug": "when-their-time-is-right",
+    "title": "When Their Time Is Right",
+    "date": 1470584190133,
+    "synopsis": "Much of what lives and survives is about timing, not essence. How do we care for ideas who's timing is wrong? How do we judge the right time for an idea?"
+  },
+  {
+    "slug": "where-colleagues-live",
+    "title": "Where Colleagues Live",
+    "date": 1486396685148,
+    "synopsis": "Here I identify residence locations for a colleague planning a trip to Portland. His specific request was advice on hip places to book a b&b and enjoy our bike culture. See [[Hip Portland]]"
+  },
+  {
+    "slug": "where-pages-live",
+    "title": "Where Pages Live",
+    "date": 1420345697537,
+    "synopsis": "We describe where the json representing a wiki page can be stored and how pages move between these stores."
+  },
+  {
+    "slug": "white-origin",
+    "title": "White Origin",
+    "date": 1495210144608,
+    "synopsis": "A page from the origin shows with a white background and no border."
+  },
+  {
+    "slug": "why-write-books",
+    "title": "Why Write Books",
+    "date": 1551141810167,
+    "synopsis": "We've run into some coding difficulties deep in the core of wiki while exploring an improved [[Print Plugin]]. The questions escalate to those of representing dynamic behavior in a static medium. Here we explore how wiki should cooperate with ebooks and print on demand."
+  },
+  {
+    "slug": "wiki---012",
+    "title": "Wiki - 0.12",
+    "date": 1504524788527,
+    "synopsis": "Wiki v0.12 sees the introduction of ability to delete pages, together with a 'recycle bin' which will not only contain deleted pages but also pages that have been forked over. Also added is an assets directory."
+  },
+  {
+    "slug": "wiki-admin",
+    "title": "Wiki Admin",
+    "date": 1489368430288,
+    "synopsis": "We consider how a production server could be managed with Shell plugin markup. Only a logged in administrator can run these scripts. See also [[Config Notes]]"
+  },
+  {
+    "slug": "wiki-and-open-data",
+    "title": "Wiki and Open Data",
+    "date": 1522820419800,
+    "synopsis": "I found inspiration in learning about open data published by City of Boulder, County of Boulder, and State of Colorado.  Could this drive creation of El Dorado in wiki?"
+  },
+  {
+    "slug": "wiki-app-stack",
+    "title": "Wiki App Stack",
+    "date": 1513346360746,
+    "synopsis": "Here we recall from memory the organization of wiki as a collaborative application platform."
+  },
+  {
+    "slug": "wiki-as-platform",
+    "title": "Wiki as Platform",
+    "date": 1468080755487,
+    "synopsis": "I am a continual proponent of the wiki style, where structure in the work emerges unmanaged by assumptions of programmers. This is the exact opposite of the sinister \"algorithm\" that now rules popular social software. I've now pushed this style into a computational realm where collaborators can do computing as well as talk about the computing they do. Every result ends up a story."
+  },
+  {
+    "slug": "wiki-browses-bikeshares",
+    "title": "Wiki Browses Bikeshares",
+    "date": 1533156977310,
+    "synopsis": "Wiki assembles pages from various sites into a Lineup within which useful computations can take place. Here we use maps and bikeshare online data to illustrate how this works."
+  },
+  {
+    "slug": "wiki-config-and-wikidomains",
+    "title": "Wiki Config and wikiDomains",
+    "date": 1575228706181,
+    "synopsis": "While exploring wiki and kubernetes, your author discovered his own incorrect assumptions about the behavior of wikiDomains configuration. Here we describe what we were expecting—expressed as a goal for improved configuration code. We also consider changing cli.coffee and farm.coffee from coffee-script to es6 javascript."
+  },
+  {
+    "slug": "wiki-design-principles",
+    "title": "Wiki Design Principles",
+    "date": 1419347864000,
+    "synopsis": "Wiki has turned out to be much more than I'd imagined! That is not to say that I didn't imagine a lot. These are the design principles I sought to satisfy with the first release of Wiki. -- [[Ward Cunningham]]"
+  },
+  {
+    "slug": "wiki-edit-command-line",
+    "title": "Wiki Edit Command Line",
+    "date": 1504464751077,
+    "synopsis": "We consider manual curation of pages containing automatically updated items to be a best practice. Perhaps we could support this with a command-line interface."
+  },
+  {
+    "slug": "wiki-events",
+    "title": "Wiki Events",
+    "date": 1562425549838,
+    "synopsis": "Describes the different event sources, producers, and clients used in wiki."
+  },
+  {
+    "slug": "wiki-nature-for-vr",
+    "title": "Wiki Nature for VR",
+    "date": 1562347524815,
+    "synopsis": "Wiki added casual utility to hypertext. Can it do the same for virtual reality? What if everyone has a couple of viewers laying around. What might I post on wiki that would lead you to pick a viewer up?"
+  },
+  {
+    "slug": "wiki-on-ipfs",
+    "title": "Wiki on IPFS",
+    "date": 1459176668167,
+    "synopsis": "We imagine how wiki client code might maintain its permanent state in IPFS. We suggest an integration with the journal as currently implemented."
+  },
+  {
+    "slug": "wiki-relocation",
+    "title": "Wiki Relocation",
+    "date": 1487453022924,
+    "synopsis": "Here I record and perhaps refine the steps required to relocate a wiki. The wiki pages themselves should move easily. But the external configuration adjustments will involve many steps."
+  },
+  {
+    "slug": "wikimedia-research",
+    "title": "Wikimedia Research",
+    "date": 1518103669659,
+    "synopsis": "Wikimedia Research is a team of scientists and engineers using data to understand and empower millions of readers and contributors who interact with Wikipedia and its sister projects on a daily basis. [https://research.wikimedia.org/ site]"
+  },
+  {
+    "slug": "wikimention",
+    "title": "Wikimention",
+    "date": 1599190182236,
+    "synopsis": "Previously we have contemplated the need for [[complementary notice on fork]]. Here, I start to think through how such a mechanism might work. I draw inspiration from [https://indiewebcamp.com/webmention Webmention]."
+  },
+  {
+    "slug": "wikipedia-links",
+    "title": "Wikipedia Links",
+    "date": 1457363373009,
+    "synopsis": "I propose here a change or addition to Fedwiki to make the integration with [[Wikipedia]] (and [[Other MediaWikis]]), more seamless."
+  },
+  {
+    "slug": "wikipedia-page-previews",
+    "title": "Wikipedia Page Previews",
+    "date": 1524583721624,
+    "synopsis": "Navigating through Wikipedia articles on desktop just got a lot easier. Page previews solves the core problem of readers needing to go back and forth between articles or open multiple tabs to gain an understanding of a word or concept within the context of the subject they are reading.[https://blog.wikimedia.org/2018/04/17/wikipedia-page-previews/ wikipedia]"
+  },
+  {
+    "slug": "wikiplace-second-pilot",
+    "title": "WikiPLACE Second Pilot",
+    "date": 1388982505734,
+    "synopsis": "WikiPLACE is a simple urban scenario-modeling system with the ease of use of a web -based wiki, combined with the power of numerical calculations. It uses the new \"Federated Wiki\" system now in development by wiki inventor Ward Cunningham."
+  },
+  {
+    "slug": "wikis-most-replicated",
+    "title": "Wiki's Most Replicated",
+    "date": 1560029662787,
+    "synopsis": "I've suggested that a certain writing style favors replication. Can we learn something about style by study of replications we find by search? Not yet. But maybe."
+  },
+  {
+    "slug": "wind-river-confluence",
+    "title": "Wind River Confluence",
+    "date": 1597370747203,
+    "synopsis": "This confluence is in the Wind River section of the Gifford Pinchot National Forest. It is sixteen miles southeast of Mount Saint Helens, famous for the 1980 eruption the resulted in nearly 150 square miles of forest blown over or left dead and standing and a column of ash that drifted downwind over eastern Washington and beyond. September 23, 2000. [http://c2.com/ward/confluence/n46w122 site]"
+  },
+  {
+    "slug": "wither-the-gray-web",
+    "title": "Wither the Gray Web",
+    "date": 1521035197336,
+    "synopsis": "In the beginning html was described in a ten page document and the sites so rendered appeared with gray background in the browsers of the day. No longer."
+  },
+  {
+    "slug": "without-a-king",
+    "title": "Without a King?",
+    "date": 1474300236049,
+    "synopsis": "This radiolab.org podcast becomes a discussion of how to freeze search results or any other generated output of lasting value."
+  },
+  {
+    "slug": "work-in-progress",
+    "title": "Work in Progress",
+    "date": 1588540059774,
+    "synopsis": "These are projects we've actually started coding. Sometimes they turn out to have dependencies we hadn't anticipated which makes them linger on."
+  },
+  {
+    "slug": "worked-progressed",
+    "title": "Worked Progressed",
+    "date": 1565892411876,
+    "synopsis": "These projects got some attention and either stalled or reached sufficient completion to slip off of our radar."
+  },
+  {
+    "slug": "world-time-forecast",
+    "title": "World Time Forecast",
+    "date": 1521631887441,
+    "synopsis": "We imagine a slide rule useful for scheduling and awaiting events where offsets that change with seasons and prefered times of participants are taken into account."
+  },
+  {
+    "slug": "yellow-local",
+    "title": "Yellow Local",
+    "date": 1495210757340,
+    "synopsis": "A page found in the browser's local storage shows with a yellow border."
+  },
+  {
+    "slug": "zero-steps-to-claim",
+    "title": "Zero-Steps to Claim",
+    "date": 1448891062256,
+    "synopsis": "A new site could be \"born claimed\". The server could generate a suitable credential and share it with the first visitor's browser. This initiates the \"claim\" process. Let's call this the zero-steps to claim solution. We here consider how it could then be supplemented with more traditional account management and login mechanisms."
+  },
+  {
+    "slug": "rename-ghost-pages",
+    "title": "Rename Ghost Pages",
+    "date": 1604104435075,
+    "synopsis": "We've resisted renaming pages because it introduces so many complexities with respect to persistent and shared resources. Ghost pages are immune to these issues and will offer solutions to some of the most demanding cases."
+  },
+  {
+    "slug": "tips-from-education",
+    "title": "Tips from Education",
+    "date": 1604161116482,
+    "synopsis": "Thompson Morrison and I have been pushing on reimagining education and engineering. Here we learn from his success."
+  }
+]
