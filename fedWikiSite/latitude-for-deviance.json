@@ -72,6 +72,11 @@
       "text": "Persistence. The author's and the communities long term interests do not have to align to be welcome."
     },
     {
+      "type": "paragraph",
+      "id": "e04c6700cf6cede2",
+      "text": "Purity. The nature of the lower layers should not be overcome or otherwise polluted for some lessor purpose above."
+    },
+    {
       "type": "markdown",
       "id": "38b4a7afa30322f5",
       "text": "# Strategy"
@@ -90,6 +95,11 @@
       "type": "paragraph",
       "id": "c93b32e91d519147",
       "text": "[[Tips from Biology]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3d260ac9c552613e",
+      "text": "[[Tips from Education]]"
     }
   ],
   "journal": [
@@ -415,6 +425,38 @@
         "text": "# Strategy"
       },
       "date": 1603034385375
+    },
+    {
+      "type": "add",
+      "id": "3d260ac9c552613e",
+      "item": {
+        "type": "paragraph",
+        "id": "3d260ac9c552613e",
+        "text": "[[Tips from Education]]"
+      },
+      "after": "c93b32e91d519147",
+      "date": 1604160919408
+    },
+    {
+      "type": "add",
+      "id": "e04c6700cf6cede2",
+      "item": {
+        "type": "paragraph",
+        "id": "e04c6700cf6cede2",
+        "text": "Purity. The nature of the lower layers should not be overcome for some lessor purpose above."
+      },
+      "after": "d0d46e8b6128ca05",
+      "date": 1604259954519
+    },
+    {
+      "type": "edit",
+      "id": "e04c6700cf6cede2",
+      "item": {
+        "type": "paragraph",
+        "id": "e04c6700cf6cede2",
+        "text": "Purity. The nature of the lower layers should not be overcome or otherwise polluted for some lessor purpose above."
+      },
+      "date": 1604260114624
     }
   ]
 }
