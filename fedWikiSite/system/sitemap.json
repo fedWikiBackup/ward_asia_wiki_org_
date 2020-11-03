@@ -1316,7 +1316,7 @@
   {
     "slug": "image-assets",
     "title": "Image Assets",
-    "date": 1516555188322,
+    "date": 1604364866819,
     "synopsis": "We url-encode images dropped on the factory plugin. This captures the sharing dynamics expected of the federation but it doesn't match with current asset practices."
   },
   {
@@ -3297,5 +3297,11 @@
     "title": "Tips from Education",
     "date": 1604161116482,
     "synopsis": "Thompson Morrison and I have been pushing on reimagining education and engineering. Here we learn from his success."
+  },
+  {
+    "slug": "computational-photography",
+    "title": "Computational Photography",
+    "date": 1587165630961,
+    "synopsis": "This is my brief and incomplete history of digital and computational photography. Peyman Milanfar, Principal Scientist / Director, Computational Imaging at Google Research."
   }
 ]
