@@ -188,7 +188,7 @@
     {
       "type": "paragraph",
       "id": "9e798c9a88368fbf",
-      "text": "See [[Pitchers in Wiki]], [[Soviet Control Panels]]"
+      "text": "See [[Pitchers in Wiki]], [[Soviet Control Panels]], [[Computational Photography]]"
     }
   ],
   "journal": [
@@ -1516,6 +1516,16 @@
         "text": "OpenSeadragon.\nAn open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile.\n[https://openseadragon.github.io/ site]"
       },
       "date": 1516555188322
+    },
+    {
+      "type": "edit",
+      "id": "9e798c9a88368fbf",
+      "item": {
+        "type": "paragraph",
+        "id": "9e798c9a88368fbf",
+        "text": "See [[Pitchers in Wiki]], [[Soviet Control Panels]], [[Computational Photography]]"
+      },
+      "date": 1604364866819
     }
   ]
 }
