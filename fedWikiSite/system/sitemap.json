@@ -414,6 +414,12 @@
     "synopsis": "We consider wiki as an opportunistic symbiotic organism existing in and responding to the habitat provided by the evolving internet."
   },
   {
+    "slug": "computational-photography",
+    "title": "Computational Photography",
+    "date": 1587165630961,
+    "synopsis": "This is my brief and incomplete history of digital and computational photography. Peyman Milanfar, Principal Scientist / Director, Computational Imaging at Google Research."
+  },
+  {
     "slug": "condensed-journal",
     "title": "Condensed Journal",
     "date": 1463282436009,
@@ -2190,6 +2196,12 @@
     "synopsis": "We are quick to make a new site. These collect. Here are some commands handy for removing them."
   },
   {
+    "slug": "rename-ghost-pages",
+    "title": "Rename Ghost Pages",
+    "date": 1604104435075,
+    "synopsis": "We've resisted renaming pages because it introduces so many complexities with respect to persistent and shared resources. Ghost pages are immune to these issues and will offer solutions to some of the most demanding cases."
+  },
+  {
     "slug": "rename-pages",
     "title": "Rename Pages",
     "date": 1604103580583,
@@ -2825,6 +2837,12 @@
     "synopsis": "We have always been inspired by genetics and population dynamics but know that these mechanisms alone fall short of full explanations of life. Here we catalog subjects from which we can borrow more."
   },
   {
+    "slug": "tips-from-education",
+    "title": "Tips from Education",
+    "date": 1604161116482,
+    "synopsis": "Thompson Morrison and I have been pushing on reimagining education and engineering. Here we learn from his success."
+  },
+  {
     "slug": "tips-from-erlang",
     "title": "Tips from Erlang",
     "date": 1603034694138,
@@ -3285,23 +3303,5 @@
     "title": "Zero-Steps to Claim",
     "date": 1448891062256,
     "synopsis": "A new site could be \"born claimed\". The server could generate a suitable credential and share it with the first visitor's browser. This initiates the \"claim\" process. Let's call this the zero-steps to claim solution. We here consider how it could then be supplemented with more traditional account management and login mechanisms."
-  },
-  {
-    "slug": "rename-ghost-pages",
-    "title": "Rename Ghost Pages",
-    "date": 1604104435075,
-    "synopsis": "We've resisted renaming pages because it introduces so many complexities with respect to persistent and shared resources. Ghost pages are immune to these issues and will offer solutions to some of the most demanding cases."
-  },
-  {
-    "slug": "tips-from-education",
-    "title": "Tips from Education",
-    "date": 1604161116482,
-    "synopsis": "Thompson Morrison and I have been pushing on reimagining education and engineering. Here we learn from his success."
-  },
-  {
-    "slug": "computational-photography",
-    "title": "Computational Photography",
-    "date": 1587165630961,
-    "synopsis": "This is my brief and incomplete history of digital and computational photography. Peyman Milanfar, Principal Scientist / Director, Computational Imaging at Google Research."
   }
 ]
