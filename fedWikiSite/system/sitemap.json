@@ -662,7 +662,7 @@
   {
     "slug": "dream-big",
     "title": "Dream Big",
-    "date": 1602367343498,
+    "date": 1604626358863,
     "synopsis": "We've allowed ourselves to imagine wiki with many possible features working together well. We do this to find interesting steps along the way."
   },
   {
@@ -3303,5 +3303,11 @@
     "title": "Zero-Steps to Claim",
     "date": 1448891062256,
     "synopsis": "A new site could be \"born claimed\". The server could generate a suitable credential and share it with the first visitor's browser. This initiates the \"claim\" process. Let's call this the zero-steps to claim solution. We here consider how it could then be supplemented with more traditional account management and login mechanisms."
+  },
+  {
+    "slug": "wiki-find-page",
+    "title": "Wiki Find Page",
+    "date": 1604627368534,
+    "synopsis": "Here we simulate the remodeled Find Page from the original wiki except we find federated versions. [http://wiki.c2.com/?FindPage wiki]"
   }
 ]
