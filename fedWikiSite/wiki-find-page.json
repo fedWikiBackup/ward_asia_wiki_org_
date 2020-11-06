@@ -7,14 +7,9 @@
       "text": "Here we simulate the remodeled Find Page from the original wiki except we find federated versions. [http://wiki.c2.com/?FindPage wiki]"
     },
     {
-      "type": "assets",
-      "id": "0401fcb6c224c722",
-      "text": "pages/wiki-find-page"
-    },
-    {
       "type": "frame",
       "id": "298554a7668c8715",
-      "text": "http://ward.asia.wiki.org/assets/pages/wiki-find-page/wiki-find-page.html\nHEIGHT 300"
+      "text": "http://ward.asia.wiki.org/assets/pages/wiki-find-page/wiki-find-page.html\nHEIGHT 500"
     }
   ],
   "journal": [
@@ -164,6 +159,31 @@
         "text": "http://ward.asia.wiki.org/assets/pages/wiki-find-page/wiki-find-page.html\nHEIGHT 300"
       },
       "date": 1604637343498
+    },
+    {
+      "id": "0401fcb6c224c722",
+      "type": "move",
+      "order": [
+        "db203a6fa7886eb2",
+        "298554a7668c8715",
+        "0401fcb6c224c722"
+      ],
+      "date": 1604697936089
+    },
+    {
+      "type": "remove",
+      "id": "0401fcb6c224c722",
+      "date": 1604697964419
+    },
+    {
+      "type": "edit",
+      "id": "298554a7668c8715",
+      "item": {
+        "type": "frame",
+        "id": "298554a7668c8715",
+        "text": "http://ward.asia.wiki.org/assets/pages/wiki-find-page/wiki-find-page.html\nHEIGHT 500"
+      },
+      "date": 1604697973028
     }
   ]
 }
