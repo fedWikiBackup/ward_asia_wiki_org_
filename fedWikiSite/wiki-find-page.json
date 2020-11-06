@@ -14,7 +14,7 @@
     {
       "type": "frame",
       "id": "298554a7668c8715",
-      "text": "http://ward.asia.wiki.org/assets/pages/wiki-find-page/wiki-find-page.html"
+      "text": "http://ward.asia.wiki.org/assets/pages/wiki-find-page/wiki-find-page.html\nHEIGHT 300"
     }
   ],
   "journal": [
@@ -124,6 +124,46 @@
         "text": "Here we simulate the remodeled Find Page from the original wiki except we find federated versions. [http://wiki.c2.com/?FindPage wiki]"
       },
       "date": 1604627368534
+    },
+    {
+      "type": "edit",
+      "id": "298554a7668c8715",
+      "item": {
+        "type": "frame",
+        "id": "298554a7668c8715",
+        "text": "http://ward.asia.wiki.org/assets/pages/wiki-find-page/wiki-find-page.html\nHEIGHT 800"
+      },
+      "date": 1604636714059
+    },
+    {
+      "type": "edit",
+      "id": "298554a7668c8715",
+      "item": {
+        "type": "frame",
+        "id": "298554a7668c8715",
+        "text": "http://ward.asia.wiki.org/assets/pages/wiki-find-page/wiki-find-page.html\nHEIGHT 100"
+      },
+      "date": 1604636902252
+    },
+    {
+      "type": "edit",
+      "id": "298554a7668c8715",
+      "item": {
+        "type": "frame",
+        "id": "298554a7668c8715",
+        "text": "http://ward.asia.wiki.org/assets/pages/wiki-find-page/wiki-find-page.html\nHEIGHT 200"
+      },
+      "date": 1604636923417
+    },
+    {
+      "type": "edit",
+      "id": "298554a7668c8715",
+      "item": {
+        "type": "frame",
+        "id": "298554a7668c8715",
+        "text": "http://ward.asia.wiki.org/assets/pages/wiki-find-page/wiki-find-page.html\nHEIGHT 300"
+      },
+      "date": 1604637343498
     }
   ]
 }
