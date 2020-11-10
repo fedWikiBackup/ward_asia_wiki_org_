@@ -12,6 +12,11 @@
       "text": "See [[Federation Friendly Outposts]]"
     },
     {
+      "type": "graphviz",
+      "id": "00bc60f3ff9698b1",
+      "text": "digraph {\n  rankdir=LR\n  node [shape=box style=filled fillcolor=bisque]\n  \"Outpost\\nThinking\"\n\n  node [fillcolor=white]  \n  \"JSON\\nSchema\" -> \"Federating\\nForeign\\nServers\" -> \"Federation\\nFriendly\\nOutposts\" -> \"Outpost\\nThinking\"\n\n  \"Javascript\\nModules\" -> \"Node's\\nMistakes\" -> \"Outpost\\nThinking\"\n}"
+    },
+    {
       "type": "paragraph",
       "id": "b65d6a3d4a26f902",
       "text": "We've been itching to embrace the ES6 module structures and maybe leave jQuery and CoffeeScript behind in the process. When node inventor Ryan Dahl announced that he was taking a similar fresh look at server-side javascript runtimes, of course we were interested."
@@ -20,11 +25,6 @@
       "type": "paragraph",
       "id": "8e807989f2a9052c",
       "text": "See [[Node's Mistakes]]"
-    },
-    {
-      "type": "graphviz",
-      "id": "00bc60f3ff9698b1",
-      "text": "digraph {\n  rankdir=LR\n  node [shape=box style=filled fillcolor=bisque]\n  \"Outpost\\nThinking\"\n\n  node [fillcolor=white]  \n  \"JSON\\nSchema\" -> \"Federating\\nForeign\\nServers\" -> \"Federation\\nFriendly\\nOutposts\" -> \"Outpost\\nThinking\"\n\n  \"Javascript\\nModules\" -> \"Node's\\nMistakes\" -> \"Outpost\\nThinking\"\n}"
     },
     {
       "type": "paragraph",
@@ -892,6 +892,25 @@
     {
       "type": "fork",
       "date": 1595187204563
+    },
+    {
+      "id": "00bc60f3ff9698b1",
+      "type": "move",
+      "order": [
+        "bf856dc49b5344d5",
+        "758c33e5e69b47ed",
+        "00bc60f3ff9698b1",
+        "b65d6a3d4a26f902",
+        "8e807989f2a9052c",
+        "39426d7393908c14",
+        "6824842945f0fe07",
+        "825acb3a3ebeec0b",
+        "c9a5331c0545e381",
+        "dfb78275c34d747d",
+        "67d7c83674c9549b",
+        "266a3788ee885765"
+      ],
+      "date": 1604968313698
     }
   ]
 }
