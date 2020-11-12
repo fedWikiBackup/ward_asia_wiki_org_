@@ -3203,6 +3203,12 @@
     "synopsis": "Describes the different event sources, producers, and clients used in wiki."
   },
   {
+    "slug": "wiki-find-page",
+    "title": "Wiki Find Page",
+    "date": 1604697973028,
+    "synopsis": "Here we simulate the remodeled Find Page from the original wiki except we find federated versions. [http://wiki.c2.com/?FindPage wiki]"
+  },
+  {
     "slug": "wiki-nature-for-vr",
     "title": "Wiki Nature for VR",
     "date": 1562347524815,
@@ -3303,11 +3309,5 @@
     "title": "Zero-Steps to Claim",
     "date": 1448891062256,
     "synopsis": "A new site could be \"born claimed\". The server could generate a suitable credential and share it with the first visitor's browser. This initiates the \"claim\" process. Let's call this the zero-steps to claim solution. We here consider how it could then be supplemented with more traditional account management and login mechanisms."
-  },
-  {
-    "slug": "wiki-find-page",
-    "title": "Wiki Find Page",
-    "date": 1604697973028,
-    "synopsis": "Here we simulate the remodeled Find Page from the original wiki except we find federated versions. [http://wiki.c2.com/?FindPage wiki]"
   }
 ]
