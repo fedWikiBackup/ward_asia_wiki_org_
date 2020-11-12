@@ -3309,5 +3309,11 @@
     "title": "Zero-Steps to Claim",
     "date": 1448891062256,
     "synopsis": "A new site could be \"born claimed\". The server could generate a suitable credential and share it with the first visitor's browser. This initiates the \"claim\" process. Let's call this the zero-steps to claim solution. We here consider how it could then be supplemented with more traditional account management and login mechanisms."
+  },
+  {
+    "slug": "dns-check",
+    "title": "DNS Check",
+    "date": 1605211190064,
+    "synopsis": "My DNS config has gotten sufficiently complicated that I won't move things around without some double check on my work. This ruby program has worked well."
   }
 ]
