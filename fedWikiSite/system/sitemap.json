@@ -3313,7 +3313,7 @@
   {
     "slug": "dns-check",
     "title": "DNS Check",
-    "date": 1605211190064,
+    "date": 1605211375138,
     "synopsis": "My DNS config has gotten sufficiently complicated that I won't move things around without some double check on my work. This ruby program has worked well."
   }
 ]
