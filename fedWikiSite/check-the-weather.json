@@ -14,7 +14,7 @@
     {
       "type": "paragraph",
       "id": "87bef9d6604334f7",
-      "text": "I check my own backyard sensors to see what has happened overnight. [http://c2.com/~ward/arduino/SensorServer/recent.cgi?code=a2012 rain] [http://c2.com/~ward/arduino/SensorServer/recent.cgi?code=c63411 cold] [http://c2.com/~ward/arduino/SensorServer/ other]"
+      "text": "I check my own backyard sensors to see what has happened overnight. [http://c2.com/ward/arduino/SensorServer/recent.cgi?code=outside&hours=48&smooth=0.0 outdoor] [http://c2.com/~ward/arduino/SensorServer/ other]"
     },
     {
       "type": "paragraph",
@@ -427,6 +427,16 @@
         "text": "US ground level air quality recording particulates from smoke and other sources. [https://fire.airnow.gov/ map]"
       },
       "date": 1599572682452
+    },
+    {
+      "type": "edit",
+      "id": "87bef9d6604334f7",
+      "item": {
+        "type": "paragraph",
+        "id": "87bef9d6604334f7",
+        "text": "I check my own backyard sensors to see what has happened overnight. [http://c2.com/ward/arduino/SensorServer/recent.cgi?code=outside&hours=48&smooth=0.0 outdoor] [http://c2.com/~ward/arduino/SensorServer/ other]"
+      },
+      "date": 1605394840419
     }
   ]
 }
