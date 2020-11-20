@@ -45,6 +45,21 @@
       "type": "paragraph",
       "id": "4dc9732c4624be9b",
       "text": "We ask of our cell, how does an Item represent persistent but still malleable agenda, how is this shared, and what is the extent in space and time of its influence?"
+    },
+    {
+      "type": "pagefold",
+      "id": "4755caf64e1a1fde",
+      "text": "."
+    },
+    {
+      "type": "markdown",
+      "id": "30e5ce40a49a775b",
+      "text": "-  In physics, the laws define the system.\n-  In biology, the system defines the laws.\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "984ae35924db28de",
+      "text": "Three laws of biology. [https://link.springer.com/article/10.1007/s11270-008-9925-3 springer]"
     }
   ],
   "journal": [
@@ -377,6 +392,95 @@
         "text": "We ask of our cell, how does an Item represent persistent but still malleable agenda, how is this shared, and what is the extent in space and time of its influence?"
       },
       "date": 1603142692437
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "4755caf64e1a1fde",
+        "text": "."
+      },
+      "id": "4755caf64e1a1fde",
+      "type": "add",
+      "after": "4dc9732c4624be9b",
+      "date": 1605884009001,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1605884062489
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "30e5ce40a49a775b"
+      },
+      "id": "30e5ce40a49a775b",
+      "type": "add",
+      "after": "4755caf64e1a1fde",
+      "date": 1605884065898
+    },
+    {
+      "type": "edit",
+      "id": "30e5ce40a49a775b",
+      "item": {
+        "type": "markdown",
+        "id": "30e5ce40a49a775b",
+        "text": "-  In physics, the laws define the system.\n-  In biology, the system defines the laws.\n"
+      },
+      "date": 1605884079455
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "984ae35924db28de"
+      },
+      "id": "984ae35924db28de",
+      "type": "add",
+      "after": "30e5ce40a49a775b",
+      "date": 1605884134456
+    },
+    {
+      "type": "edit",
+      "id": "984ae35924db28de",
+      "item": {
+        "type": "paragraph",
+        "id": "984ae35924db28de",
+        "text": "Three laws of biology and a plea for sustainability. [https://link.springer.com/article/10.1007/s11270-008-9925-3 springer]"
+      },
+      "date": 1605884163371
+    },
+    {
+      "type": "edit",
+      "id": "984ae35924db28de",
+      "item": {
+        "type": "paragraph",
+        "id": "984ae35924db28de",
+        "text": "Three biological laws and a plea for sustainability. [https://link.springer.com/article/10.1007/s11270-008-9925-3 springer]"
+      },
+      "date": 1605884190989
+    },
+    {
+      "type": "edit",
+      "id": "984ae35924db28de",
+      "item": {
+        "type": "paragraph",
+        "id": "984ae35924db28de",
+        "text": "Three laws of biology & a plea for sustainability. [https://link.springer.com/article/10.1007/s11270-008-9925-3 springer]"
+      },
+      "date": 1605884222658
+    },
+    {
+      "type": "edit",
+      "id": "984ae35924db28de",
+      "item": {
+        "type": "paragraph",
+        "id": "984ae35924db28de",
+        "text": "Three laws of biology. [https://link.springer.com/article/10.1007/s11270-008-9925-3 springer]"
+      },
+      "date": 1605884259503
     }
   ]
 }
