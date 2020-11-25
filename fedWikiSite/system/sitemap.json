@@ -3315,5 +3315,11 @@
     "title": "DNS Check",
     "date": 1605211375138,
     "synopsis": "My DNS config has gotten sufficiently complicated that I won't move things around without some double check on my work. This ruby program has worked well."
+  },
+  {
+    "slug": "computational-plasticity",
+    "title": "Computational Plasticity",
+    "date": 1606325103942,
+    "synopsis": "We wonder, how can a computation operate usefully in a broad range of applications? We have some simple examples. Here we try to imagine more."
   }
 ]
