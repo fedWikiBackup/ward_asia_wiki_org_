@@ -2030,7 +2030,7 @@
   {
     "slug": "principles-for-version-two",
     "title": "Principles for Version Two",
-    "date": 1602799588037,
+    "date": 1606499548455,
     "synopsis": "Six years ago we summarized for the ACM's forward looking conference, Splash, the design principles that had guided our work up to that point. These still hold today. Here we consider what we have learned since and suggest what might guide a rewrite."
   },
   {
@@ -3321,5 +3321,11 @@
     "title": "Computational Plasticity",
     "date": 1606325103942,
     "synopsis": "We wonder, how can a computation operate usefully in a broad range of applications? We have some simple examples. Here we try to imagine more."
+  },
+  {
+    "slug": "enabling-activity",
+    "title": "Enabling Activity",
+    "date": 1606499958622,
+    "synopsis": "We speak of freezing and thawing the activity of plugins that draw information from their surroundings."
   }
 ]
