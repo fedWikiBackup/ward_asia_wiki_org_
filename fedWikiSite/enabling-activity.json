@@ -1,0 +1,81 @@
+{
+  "title": "Enabling Activity",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a8974cae09be1505",
+      "text": "We speak of freezing and thawing the activity of plugins that draw information from their surroundings."
+    },
+    {
+      "type": "paragraph",
+      "id": "6ef39b34035fa643",
+      "text": "We imagine plugins born active and reaching out into their environment up and to the left for sources they understand. Sources supplement. Without sources they carry on as best they can."
+    },
+    {
+      "type": "paragraph",
+      "id": "ef8c950f90a04df7",
+      "text": "Similarly pages are born of the current state of the federation but make no further effort to reflect changes. Twins reflect the state of a site when first visited but they to do not update."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Enabling Activity",
+        "story": []
+      },
+      "date": 1606499555751
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a8974cae09be1505"
+      },
+      "id": "a8974cae09be1505",
+      "type": "add",
+      "date": 1606499557686
+    },
+    {
+      "type": "edit",
+      "id": "a8974cae09be1505",
+      "item": {
+        "type": "paragraph",
+        "id": "a8974cae09be1505",
+        "text": "We speak of freezing and thawing the activity of plugins that draw information from their surroundings."
+      },
+      "date": 1606499627637
+    },
+    {
+      "type": "add",
+      "id": "6ef39b34035fa643",
+      "item": {
+        "type": "paragraph",
+        "id": "6ef39b34035fa643",
+        "text": "We imagine plugins born active and reaching out into their environment up and to the left for sources they understand. Without sources they carry on as best they can."
+      },
+      "after": "a8974cae09be1505",
+      "date": 1606499736043
+    },
+    {
+      "type": "edit",
+      "id": "6ef39b34035fa643",
+      "item": {
+        "type": "paragraph",
+        "id": "6ef39b34035fa643",
+        "text": "We imagine plugins born active and reaching out into their environment up and to the left for sources they understand. Sources supplement. Without sources they carry on as best they can."
+      },
+      "date": 1606499751127
+    },
+    {
+      "type": "add",
+      "id": "ef8c950f90a04df7",
+      "item": {
+        "type": "paragraph",
+        "id": "ef8c950f90a04df7",
+        "text": "Similarly pages are born of the current state of the federation but make no further effort to reflect changes. Twins reflect the state of a site when first visited but they to do not update."
+      },
+      "after": "6ef39b34035fa643",
+      "date": 1606499958622
+    }
+  ]
+}
