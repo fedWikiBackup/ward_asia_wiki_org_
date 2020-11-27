@@ -155,6 +155,11 @@
       "type": "paragraph",
       "id": "a6d4e25c43e04301",
       "text": "[[Illusion of Liveness]]. Inquiry into mechanisms to enable authors to edit without having to also manage a server."
+    },
+    {
+      "type": "paragraph",
+      "id": "39d20cd58a27ac4d",
+      "text": "[[Enabling Activity]] and suspending it when we want things to hold still."
     }
   ],
   "journal": [
@@ -994,6 +999,17 @@
       },
       "after": "3169d2643fe1e940",
       "date": 1602799588037
+    },
+    {
+      "type": "add",
+      "id": "39d20cd58a27ac4d",
+      "item": {
+        "type": "paragraph",
+        "id": "39d20cd58a27ac4d",
+        "text": "[[Enabling Activity]] and suspending it when we want things to hold still."
+      },
+      "after": "a6d4e25c43e04301",
+      "date": 1606499548455
     }
   ]
 }
