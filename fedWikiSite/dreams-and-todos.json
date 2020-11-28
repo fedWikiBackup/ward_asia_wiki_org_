@@ -40,11 +40,6 @@
       "type": "paragraph",
       "id": "0987907d5fd84944",
       "text": "[[Check the Weather]] before riding to work."
-    },
-    {
-      "type": "paragraph",
-      "id": "2007f92f2163fcf1",
-      "text": "[[Tweets in Natural Order]] read twice a day."
     }
   ],
   "journal": [
@@ -482,6 +477,11 @@
       },
       "after": "0ebcadd624da196d",
       "date": 1585750225043
+    },
+    {
+      "type": "remove",
+      "id": "2007f92f2163fcf1",
+      "date": 1606596697168
     }
   ]
 }
