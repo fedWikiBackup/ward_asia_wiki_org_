@@ -420,6 +420,12 @@
     "synopsis": "This is my brief and incomplete history of digital and computational photography. Peyman Milanfar, Principal Scientist / Director, Computational Imaging at Google Research."
   },
   {
+    "slug": "computational-plasticity",
+    "title": "Computational Plasticity",
+    "date": 1606325103942,
+    "synopsis": "We wonder, how can a computation operate usefully in a broad range of applications? We have some simple examples. Here we try to imagine more."
+  },
+  {
     "slug": "condensed-journal",
     "title": "Condensed Journal",
     "date": 1463282436009,
@@ -612,6 +618,12 @@
     "synopsis": "Our scraping experience suggests we should distribute the function across all servers and move slowly enough that site owners can direct the spider's progress."
   },
   {
+    "slug": "dns-check",
+    "title": "DNS Check",
+    "date": 1605211375138,
+    "synopsis": "My DNS config has gotten sufficiently complicated that I won't move things around without some double check on my work. This ruby program has worked well."
+  },
+  {
     "slug": "do-we-really-need-a-community",
     "title": "Do we really need a community?",
     "date": 1473175540902,
@@ -736,6 +748,12 @@
     "title": "Embedis Plugin",
     "date": 1455639570495,
     "synopsis": "Notes for installing Arduino/Embedis for the ESP8266 processor. Surprisingly a middle level library takes care of CORS headers so everything else is straightforward. [https://github.com/esp8266/Arduino/search?utf8=%E2%9C%93&q=Access-Control-Allow-Origin github]"
+  },
+  {
+    "slug": "enabling-activity",
+    "title": "Enabling Activity",
+    "date": 1606501901950,
+    "synopsis": "We speak of freezing and thawing the activity of plugins that draw information from their surroundings."
   },
   {
     "slug": "end-drag-refactoring",
@@ -3309,23 +3327,5 @@
     "title": "Zero-Steps to Claim",
     "date": 1448891062256,
     "synopsis": "A new site could be \"born claimed\". The server could generate a suitable credential and share it with the first visitor's browser. This initiates the \"claim\" process. Let's call this the zero-steps to claim solution. We here consider how it could then be supplemented with more traditional account management and login mechanisms."
-  },
-  {
-    "slug": "dns-check",
-    "title": "DNS Check",
-    "date": 1605211375138,
-    "synopsis": "My DNS config has gotten sufficiently complicated that I won't move things around without some double check on my work. This ruby program has worked well."
-  },
-  {
-    "slug": "computational-plasticity",
-    "title": "Computational Plasticity",
-    "date": 1606325103942,
-    "synopsis": "We wonder, how can a computation operate usefully in a broad range of applications? We have some simple examples. Here we try to imagine more."
-  },
-  {
-    "slug": "enabling-activity",
-    "title": "Enabling Activity",
-    "date": 1606501901950,
-    "synopsis": "We speak of freezing and thawing the activity of plugins that draw information from their surroundings."
   }
 ]
