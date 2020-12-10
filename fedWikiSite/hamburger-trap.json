@@ -105,6 +105,11 @@
       "type": "markdown",
       "id": "e1198a16bc625310",
       "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master ???\n- [x] wiki-plugin-calendar On branch data-ize\n- [x] wiki-plugin-changes On branch ward/synopsis\n- [x] wiki-plugin-club On branch master ???\n- [x] wiki-plugin-creole On branch master -- discard\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [x] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+    },
+    {
+      "type": "paragraph",
+      "id": "625cbae04a620c13",
+      "text": "I have source for wiki-plugin-present in order and start thinking about how the hamburger page can be improved. I don't like any of my ideas so far. I must be tired."
     }
   ],
   "journal": [
@@ -849,6 +854,26 @@
         "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master ???\n- [x] wiki-plugin-calendar On branch data-ize\n- [x] wiki-plugin-changes On branch ward/synopsis\n- [x] wiki-plugin-club On branch master ???\n- [x] wiki-plugin-creole On branch master -- discard\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [x] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
       },
       "date": 1607578644335
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "625cbae04a620c13"
+      },
+      "id": "625cbae04a620c13",
+      "type": "add",
+      "after": "e1198a16bc625310",
+      "date": 1607580618114
+    },
+    {
+      "type": "edit",
+      "id": "625cbae04a620c13",
+      "item": {
+        "type": "paragraph",
+        "id": "625cbae04a620c13",
+        "text": "I have source for wiki-plugin-present in order and start thinking about how the hamburger page can be improved. I don't like any of my ideas so far. I must be tired."
+      },
+      "date": 1607580707121
     }
   ]
 }
