@@ -3333,5 +3333,11 @@
     "title": "Hamburger Trap",
     "date": 1607580707121,
     "synopsis": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu. Markup could say NORMAL."
+  },
+  {
+    "slug": "how-wiki-works",
+    "title": "How Wiki Works",
+    "date": 1607619315547,
+    "synopsis": "When federated wiki started in 2011 it used jquery-ajar to POST to ruby-sinatra on the server. JSON format was already popular in 2011 so we went with the flow."
   }
 ]
