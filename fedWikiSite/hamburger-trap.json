@@ -1,0 +1,145 @@
+{
+  "title": "Hamburger Trap",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "316c9d905c3dd522",
+      "text": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu."
+    },
+    {
+      "type": "paragraph",
+      "id": "95aa5f34926d9e24",
+      "text": "I had trouble finding out where this page is stored since the source didn't appear to have the page. [https://github.com/WardCunningham/wiki-plugin-present/tree/master/pages github]"
+    },
+    {
+      "type": "code",
+      "id": "e12acc249f70befc",
+      "text": "Searching 83 files for \"☰\" (regex, case sensitive)\n\n/Users/ward/FedWiki/wiki-client/lib/legacy.coffee:\n  315        )\n  316  \n  317:   $(\"<span>&nbsp; ☰ </span>\")\n  318      .css({\"cursor\":\"pointer\"})\n  319      .appendTo('footer')\n\n1 match in 1 file\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "4d5a9ccb8e5dab24",
+      "text": "Git blame shows this feature went in last year. [https://github.com/fedwiki/wiki-client/commit/280680f0473bca6d84c74e70506dbef3bdf35d2c github]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Hamburger Trap",
+        "story": []
+      },
+      "date": 1607567139601
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "316c9d905c3dd522"
+      },
+      "id": "316c9d905c3dd522",
+      "type": "add",
+      "date": 1607567141585
+    },
+    {
+      "type": "edit",
+      "id": "316c9d905c3dd522",
+      "item": {
+        "type": "paragraph",
+        "id": "316c9d905c3dd522",
+        "text": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu."
+      },
+      "date": 1607567261006
+    },
+    {
+      "type": "add",
+      "id": "95aa5f34926d9e24",
+      "item": {
+        "type": "paragraph",
+        "id": "95aa5f34926d9e24",
+        "text": "I had trouble finding out where this page is stored since cloning the source didn't appear to have the page."
+      },
+      "after": "316c9d905c3dd522",
+      "date": 1607567336124
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e12acc249f70befc"
+      },
+      "id": "e12acc249f70befc",
+      "type": "add",
+      "after": "95aa5f34926d9e24",
+      "date": 1607567338109
+    },
+    {
+      "type": "edit",
+      "id": "e12acc249f70befc",
+      "item": {
+        "type": "code",
+        "id": "e12acc249f70befc",
+        "text": "Searching 83 files for \"☰\" (regex, case sensitive)\n\n/Users/ward/FedWiki/wiki-client/lib/legacy.coffee:\n  315        )\n  316  \n  317:   $(\"<span>&nbsp; ☰ </span>\")\n  318      .css({\"cursor\":\"pointer\"})\n  319      .appendTo('footer')\n\n1 match in 1 file\n"
+      },
+      "date": 1607567343414
+    },
+    {
+      "type": "edit",
+      "id": "95aa5f34926d9e24",
+      "item": {
+        "type": "paragraph",
+        "id": "95aa5f34926d9e24",
+        "text": "I had trouble finding out where this page is stored since cloning the source didn't appear to have the page. [https://github.com/WardCunningham/wiki-plugin-present/tree/master/pages github]"
+      },
+      "date": 1607567442797
+    },
+    {
+      "type": "edit",
+      "id": "95aa5f34926d9e24",
+      "item": {
+        "type": "paragraph",
+        "id": "95aa5f34926d9e24",
+        "text": "I had trouble finding out where this page is stored since the source didn't appear to have the page. [https://github.com/WardCunningham/wiki-plugin-present/tree/master/pages github]"
+      },
+      "date": 1607567471480
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4d5a9ccb8e5dab24"
+      },
+      "id": "4d5a9ccb8e5dab24",
+      "type": "add",
+      "after": "e12acc249f70befc",
+      "date": 1607567875527
+    },
+    {
+      "type": "edit",
+      "id": "4d5a9ccb8e5dab24",
+      "item": {
+        "type": "paragraph",
+        "id": "4d5a9ccb8e5dab24",
+        "text": "Git blame shows this feature went in "
+      },
+      "date": 1607567909600
+    },
+    {
+      "type": "edit",
+      "id": "4d5a9ccb8e5dab24",
+      "item": {
+        "type": "paragraph",
+        "id": "4d5a9ccb8e5dab24",
+        "text": "Git blame shows this feature went in March, 2019. [https://github.com/fedwiki/wiki-client/commit/280680f0473bca6d84c74e70506dbef3bdf35d2c github]"
+      },
+      "date": 1607567981873
+    },
+    {
+      "type": "edit",
+      "id": "4d5a9ccb8e5dab24",
+      "item": {
+        "type": "paragraph",
+        "id": "4d5a9ccb8e5dab24",
+        "text": "Git blame shows this feature went in last year. [https://github.com/fedwiki/wiki-client/commit/280680f0473bca6d84c74e70506dbef3bdf35d2c github]"
+      },
+      "date": 1607567996409
+    }
+  ]
+}
