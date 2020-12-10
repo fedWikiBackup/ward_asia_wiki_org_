@@ -104,7 +104,7 @@
     {
       "type": "markdown",
       "id": "e1198a16bc625310",
-      "text": "- [ ] wiki-plugin-activity On branch ward/synopsis\n- [ ] wiki-plugin-alert On branch ward/form-edit\n- [ ] wiki-plugin-assets On branch nrn/copy-from-remote\n- [ ] wiki-plugin-bat On branch master\n- [ ] wiki-plugin-calendar On branch data-ize\n- [ ] wiki-plugin-changes On branch ward/synopsis\n- [ ] wiki-plugin-club On branch master\n- [ ] wiki-plugin-creole On branch master\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master ???\n- [x] wiki-plugin-calendar On branch data-ize\n- [x] wiki-plugin-changes On branch ward/synopsis\n- [x] wiki-plugin-club On branch master ???\n- [x] wiki-plugin-creole On branch master -- discard\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [x] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
     }
   ],
   "journal": [
@@ -710,6 +710,145 @@
         "text": "But that doesn't tell me the state of the repo. I make a todo list instead."
       },
       "date": 1607575679023
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [ ] wiki-plugin-alert On branch ward/form-edit\n- [ ] wiki-plugin-assets On branch nrn/copy-from-remote\n- [ ] wiki-plugin-bat On branch master\n- [ ] wiki-plugin-calendar On branch data-ize\n- [ ] wiki-plugin-changes On branch ward/synopsis\n- [ ] wiki-plugin-club On branch master\n- [ ] wiki-plugin-creole On branch master\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607576715411,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1607576739686
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [ ] wiki-plugin-assets On branch nrn/copy-from-remote\n- [ ] wiki-plugin-bat On branch master\n- [ ] wiki-plugin-calendar On branch data-ize\n- [ ] wiki-plugin-changes On branch ward/synopsis\n- [ ] wiki-plugin-club On branch master\n- [ ] wiki-plugin-creole On branch master\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607576817599
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [ ] wiki-plugin-bat On branch master\n- [ ] wiki-plugin-calendar On branch data-ize\n- [ ] wiki-plugin-changes On branch ward/synopsis\n- [ ] wiki-plugin-club On branch master\n- [ ] wiki-plugin-creole On branch master\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607576964676
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master\n- [ ] wiki-plugin-calendar On branch data-ize\n- [ ] wiki-plugin-changes On branch ward/synopsis\n- [ ] wiki-plugin-club On branch master\n- [ ] wiki-plugin-creole On branch master\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607577520224
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master\n- [x] wiki-plugin-calendar On branch data-ize\n- [ ] wiki-plugin-changes On branch ward/synopsis\n- [ ] wiki-plugin-club On branch master\n- [ ] wiki-plugin-creole On branch master\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607577930871
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master ???\n- [x] wiki-plugin-calendar On branch data-ize\n- [ ] wiki-plugin-changes On branch ward/synopsis\n- [ ] wiki-plugin-club On branch master\n- [ ] wiki-plugin-creole On branch master\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607578007009
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master ???\n- [x] wiki-plugin-calendar On branch data-ize\n- [x] wiki-plugin-changes On branch ward/synopsis\n- [ ] wiki-plugin-club On branch master\n- [ ] wiki-plugin-creole On branch master\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607578088742
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master ???\n- [x] wiki-plugin-calendar On branch data-ize\n- [x] wiki-plugin-changes On branch ward/synopsis\n- [ ] wiki-plugin-club On branch master ???\n- [ ] wiki-plugin-creole On branch master\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607578178539
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master ???\n- [x] wiki-plugin-calendar On branch data-ize\n- [x] wiki-plugin-changes On branch ward/synopsis\n- [x] wiki-plugin-club On branch master ???\n- [ ] wiki-plugin-creole On branch master\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607578182569
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master ???\n- [x] wiki-plugin-calendar On branch data-ize\n- [x] wiki-plugin-changes On branch ward/synopsis\n- [x] wiki-plugin-club On branch master ???\n- [ ] wiki-plugin-creole On branch master ???\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607578442316
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master ???\n- [x] wiki-plugin-calendar On branch data-ize\n- [x] wiki-plugin-changes On branch ward/synopsis\n- [x] wiki-plugin-club On branch master ???\n- [ ] wiki-plugin-creole On branch master -- discard\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607578489722
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master ???\n- [x] wiki-plugin-calendar On branch data-ize\n- [x] wiki-plugin-changes On branch ward/synopsis\n- [x] wiki-plugin-club On branch master ???\n- [x] wiki-plugin-creole On branch master -- discard\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607578492647
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [x] wiki-plugin-activity On branch ward/synopsis\n- [x] wiki-plugin-alert On branch ward/form-edit\n- [x] wiki-plugin-assets On branch nrn/copy-from-remote\n- [x] wiki-plugin-bat On branch master ???\n- [x] wiki-plugin-calendar On branch data-ize\n- [x] wiki-plugin-changes On branch ward/synopsis\n- [x] wiki-plugin-club On branch master ???\n- [x] wiki-plugin-creole On branch master -- discard\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [x] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607578644335
     }
   ]
 }
