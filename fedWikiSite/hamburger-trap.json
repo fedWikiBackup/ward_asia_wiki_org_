@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "316c9d905c3dd522",
-      "text": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu."
+      "text": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu. Markup could be NORMAL."
     },
     {
       "type": "paragraph",
@@ -20,6 +20,36 @@
       "type": "paragraph",
       "id": "4d5a9ccb8e5dab24",
       "text": "Git blame shows this feature went in last year. [https://github.com/fedwiki/wiki-client/commit/280680f0473bca6d84c74e70506dbef3bdf35d2c github]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a2ed0e9108c03f02",
+      "text": "I look at the constructed catalog and find the Peer Activity entry a bit unusual as it is not in the Factory menu."
+    },
+    {
+      "type": "code",
+      "id": "0cd3a6d9b19dff40",
+      "text": "copy(window.catalog)"
+    },
+    {
+      "type": "code",
+      "id": "60c3ff48d0932e1d",
+      "text": "  {\n    \"name\": \"Plugmatic\",\n    \"title\": \"Plugmatic Plugin\",\n    \"category\": \"other\"\n  },\n  {\n    \"pages\": [\n      \"Peer Activity\"\n    ]\n  },\n  {\n    \"name\": \"Recycler\",\n    \"title\": \"Recycler Plugin\",\n    \"pages\": [\n      \"Recycled Pages\"\n    ]\n  },\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "5d8c02cbe84482c7",
+      "text": "This doesn't agree with factory.json."
+    },
+    {
+      "type": "code",
+      "id": "50d0ecb456c44a27",
+      "text": "{\n  \"name\": \"Present\",\n  \"title\": \"Present Plugin\",\n  \"category\": \"other\"\n}\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "bf5645383dc6022d",
+      "text": "Uh oh. Npm serves 1.0.0 while GitHub has 0.1.7."
     }
   ],
   "journal": [
@@ -140,6 +170,190 @@
         "text": "Git blame shows this feature went in last year. [https://github.com/fedwiki/wiki-client/commit/280680f0473bca6d84c74e70506dbef3bdf35d2c github]"
       },
       "date": 1607567996409
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "60c3ff48d0932e1d"
+      },
+      "id": "60c3ff48d0932e1d",
+      "type": "add",
+      "after": "4d5a9ccb8e5dab24",
+      "date": 1607571478271
+    },
+    {
+      "type": "edit",
+      "id": "60c3ff48d0932e1d",
+      "item": {
+        "type": "code",
+        "id": "60c3ff48d0932e1d",
+        "text": "(36) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]\n0: {name: \"Activity\", title: \"Activity Plugin\", pages: Array(1)}\n1: {name: \"Assets\", title: \"Assets Plugin\", category: \"other\"}\n2: {name: \"Audio\", title: \"Audio\", category: \"format\"}\n3: {name: \"Bikeshare\", title: \"Bikeshare Data Feed\", category: \"data\"}\n4: {name: \"Calculator\", title: \"Running Sums for Expenses\", category: \"data\"}\n5: {name: \"Calendar\", title: \"Calendar Plugin\", category: \"data\"}\n6: {name: \"Changes\", title: \"View Changes in Browser Local Storage\", pages: Array(1)}\n7: {name: \"Chess\", title: \"Chess Plugin\", category: \"other\"}\n8: {name: \"Code\", title: \"Pretty-printed code\", category: \"format\"}\n9: {name: \"Datalog\", title: \"Datalog Plugin\", category: \"other\"}\n10: {name: \"FiveStar\", title: \"Five star rating editor\", category: \"data\"}\n11: {name: \"Frame\", title: \"Frame Plugin\", category: \"other\"}\n12: {name: \"Graph\", title: \"Graph Plugin\", category: \"data\"}\n13: {name: \"Graphviz\", title: \"Dot Formatted Diagram\", category: \"format\", pages: Array(1)}\n14: {name: \"Grep\", title: \"Grep Plugin\", category: \"data\"}\n15: {name: \"HTML\", title: \"Sanitized HTML\", category: \"format\", pages: Array(1)}\n16: {name: \"JSON\", title: \"JSON Plugin\", category: \"other\"}\n17: {name: \"Map\", title: \"Street Map\", category: \"data\"}\n18: {name: \"Markdown\", title: \"Markdown Plugin\", category: \"format\"}\n19: {name: \"MathJax\", title: \"TeX Formatted Equations\", category: \"format\"}\n20: {name: \"Metamodel\", title: \"Metamodel Plugin\", category: \"other\"}\n21: {name: \"Method\", title: \"Computational Method\", category: \"data\"}\n22: {name: \"MorseTeacher\", title: \"MorseTeacher Plugin\", category: \"data|format|other\"}\n23: {name: \"PageFold\", title: \"Named Separator for Structured Pages\", category: \"format\"}\n24: {name: \"Plugmatic\", title: \"Plugmatic Plugin\", category: \"other\"}\n25: {pages: Array(1)}\n26: {name: \"Recycler\", title: \"Recycler Plugin\", pages: Array(1)}\n27: {name: \"Register\", title: \"Register Plugin\", category: \"other\"}"
+      },
+      "date": 1607571483124
+    },
+    {
+      "type": "edit",
+      "id": "60c3ff48d0932e1d",
+      "item": {
+        "type": "code",
+        "id": "60c3ff48d0932e1d",
+        "text": "  {\n    \"name\": \"Plugmatic\",\n    \"title\": \"Plugmatic Plugin\",\n    \"category\": \"other\"\n  },\n  {\n    \"pages\": [\n      \"Peer Activity\"\n    ]\n  },\n  {\n    \"name\": \"Recycler\",\n    \"title\": \"Recycler Plugin\",\n    \"pages\": [\n      \"Recycled Pages\"\n    ]\n  },\n"
+      },
+      "date": 1607571613439
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0cd3a6d9b19dff40"
+      },
+      "id": "0cd3a6d9b19dff40",
+      "type": "add",
+      "after": "60c3ff48d0932e1d",
+      "date": 1607571650364
+    },
+    {
+      "type": "edit",
+      "id": "0cd3a6d9b19dff40",
+      "item": {
+        "type": "code",
+        "id": "0cd3a6d9b19dff40",
+        "text": "copy(JSON.stringify(catalog,null,2))"
+      },
+      "date": 1607571655755
+    },
+    {
+      "id": "0cd3a6d9b19dff40",
+      "type": "move",
+      "order": [
+        "316c9d905c3dd522",
+        "95aa5f34926d9e24",
+        "e12acc249f70befc",
+        "4d5a9ccb8e5dab24",
+        "0cd3a6d9b19dff40",
+        "60c3ff48d0932e1d"
+      ],
+      "date": 1607571660194
+    },
+    {
+      "type": "edit",
+      "id": "0cd3a6d9b19dff40",
+      "item": {
+        "type": "code",
+        "id": "0cd3a6d9b19dff40",
+        "text": "copy(window.catalog)"
+      },
+      "date": 1607571743824
+    },
+    {
+      "type": "add",
+      "id": "a2ed0e9108c03f02",
+      "item": {
+        "type": "paragraph",
+        "id": "a2ed0e9108c03f02",
+        "text": "I look at the catalog and find the Peer Activity a bit unusual."
+      },
+      "after": "4d5a9ccb8e5dab24",
+      "date": 1607571884884
+    },
+    {
+      "type": "edit",
+      "id": "a2ed0e9108c03f02",
+      "item": {
+        "type": "paragraph",
+        "id": "a2ed0e9108c03f02",
+        "text": "I look at the constructed catalog and find the Peer Activity entry a bit unusual as it is not in the Factory menu."
+      },
+      "date": 1607571968539
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5d8c02cbe84482c7"
+      },
+      "id": "5d8c02cbe84482c7",
+      "type": "add",
+      "after": "60c3ff48d0932e1d",
+      "date": 1607572077474
+    },
+    {
+      "type": "edit",
+      "id": "5d8c02cbe84482c7",
+      "item": {
+        "type": "paragraph",
+        "id": "5d8c02cbe84482c7",
+        "text": "This doesn't agree with factory.json."
+      },
+      "date": 1607572100312
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "50d0ecb456c44a27"
+      },
+      "id": "50d0ecb456c44a27",
+      "type": "add",
+      "after": "5d8c02cbe84482c7",
+      "date": 1607572102455
+    },
+    {
+      "type": "edit",
+      "id": "50d0ecb456c44a27",
+      "item": {
+        "type": "code",
+        "id": "50d0ecb456c44a27",
+        "text": "{\n  \"name\": \"Present\",\n  \"title\": \"Present Plugin\",\n  \"category\": \"other\"\n}\n"
+      },
+      "date": 1607572106260
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bf5645383dc6022d"
+      },
+      "id": "bf5645383dc6022d",
+      "type": "add",
+      "after": "50d0ecb456c44a27",
+      "date": 1607572470267
+    },
+    {
+      "type": "edit",
+      "id": "bf5645383dc6022d",
+      "item": {
+        "type": "paragraph",
+        "id": "bf5645383dc6022d",
+        "text": "Uh oh. Npm is serving version 1.0.0 "
+      },
+      "date": 1607572499852
+    },
+    {
+      "type": "edit",
+      "id": "bf5645383dc6022d",
+      "item": {
+        "type": "paragraph",
+        "id": "bf5645383dc6022d",
+        "text": "Uh oh. Npm serves 1.0.0 while GitHub has 0.1.7."
+      },
+      "date": 1607572566496
+    },
+    {
+      "type": "edit",
+      "id": "316c9d905c3dd522",
+      "item": {
+        "type": "paragraph",
+        "id": "316c9d905c3dd522",
+        "text": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu. I'm thinking the markup should say NORMAL."
+      },
+      "date": 1607572630483
+    },
+    {
+      "type": "edit",
+      "id": "316c9d905c3dd522",
+      "item": {
+        "type": "paragraph",
+        "id": "316c9d905c3dd522",
+        "text": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu. Markup could be NORMAL."
+      },
+      "date": 1607572712483
     }
   ]
 }
