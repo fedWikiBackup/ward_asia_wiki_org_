@@ -3327,5 +3327,11 @@
     "title": "Zero-Steps to Claim",
     "date": 1448891062256,
     "synopsis": "A new site could be \"born claimed\". The server could generate a suitable credential and share it with the first visitor's browser. This initiates the \"claim\" process. Let's call this the zero-steps to claim solution. We here consider how it could then be supplemented with more traditional account management and login mechanisms."
+  },
+  {
+    "slug": "hamburger-trap",
+    "title": "Hamburger Trap",
+    "date": 1607567996409,
+    "synopsis": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu."
   }
 ]
