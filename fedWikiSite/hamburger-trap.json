@@ -4,7 +4,12 @@
     {
       "type": "paragraph",
       "id": "316c9d905c3dd522",
-      "text": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu. Markup could be NORMAL."
+      "text": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu. Markup could say NORMAL."
+    },
+    {
+      "type": "markdown",
+      "id": "fdde1e5187018eab",
+      "text": "# Trouble"
     },
     {
       "type": "paragraph",
@@ -49,7 +54,57 @@
     {
       "type": "paragraph",
       "id": "bf5645383dc6022d",
-      "text": "Uh oh. Npm serves 1.0.0 while GitHub has 0.1.7."
+      "text": "Uh oh. Npm serves 1.0.0 while GitHub has 0.1.7. I screen share into an old laptop and find package.json."
+    },
+    {
+      "type": "code",
+      "id": "4c1d9207d14aea9c",
+      "text": "{\n  \"name\": \"wiki-plugin-present\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Federated Wiki - Present Plugin\","
+    },
+    {
+      "type": "paragraph",
+      "id": "1c08d7af755a8e66",
+      "text": "Sure enough, git status suggests a push."
+    },
+    {
+      "type": "code",
+      "id": "7759ef5d9f42ebab",
+      "text": "On branch master\nYour branch is ahead of 'origin/master' by 1 commit.\n  (use \"git push\" to publish your local commits)"
+    },
+    {
+      "type": "markdown",
+      "id": "a6188d4db0d13f3e",
+      "text": "# Start"
+    },
+    {
+      "type": "paragraph",
+      "id": "624f0252fdb78673",
+      "text": "I can't think of any reason why I shouldn't just push the old commit and start reapplying npm security updates in my current work environment. I can see many possible improvements too. Maybe more than NORMAL."
+    },
+    {
+      "type": "paragraph",
+      "id": "6bb95006c206d60b",
+      "text": "First check what over versions I might have unsaved."
+    },
+    {
+      "type": "code",
+      "id": "68ebf3405d537326",
+      "text": "cat wiki-plugin-*/package.json |\\\n jq -r '.name+\" \"+.version'"
+    },
+    {
+      "type": "code",
+      "id": "d5b6307a09576f1c",
+      "text": "wiki-plugin-activity 0.4.0\nwiki-plugin-alert 0.1.2\nwiki-plugin-assets 0.2.3\nwiki-plugin-bat 0.1.0\nwiki-plugin-calendar 0.2.3\nwiki-plugin-changes 0.3.0\nwiki-plugin-club 0.1.0\nwiki-plugin-creole 0.1.0\nwiki-plugin-datalog 0.1.8\nwiki-plugin-detect 0.1.6\nwiki-plugin-geocode 0.0.1\nwiki-plugin-graph 1.0.1\nwiki-plugin-graphviz 0.4.0\nwiki-plugin-grep 1.0.0\nwiki-plugin-html 0.3.3\nwiki-plugin-json 0.1.10\nwiki-plugin-map 0.3.7\nwiki-plugin-markdown 0.3.0\nwiki-plugin-metamodel 0.0.5\nwiki-plugin-method 0.2.3\nwiki-plugin-morseteacher 1.0.0\nwiki-plugin-plugmatic 1.1.2\nwiki-plugin-present 1.0.0\nwiki-plugin-print 0.0.2\nwiki-plugin-radar 0.3.1-1\nwiki-plugin-recycler 0.2.0\nwiki-plugin-reduce 0.1.2\nwiki-plugin-register 0.2.1\nwiki-plugin-rostermatic 1.0.10\nwiki-plugin-rss 0.1.8\nwiki-plugin-search 0.1.5\nwiki-plugin-signature 0.1.2\nwiki-plugin-soundcloud 0.1.0\nwiki-plugin-transport 0.1.3\nwiki-plugin-video 0.2.7\nwiki-plugin-wsjt 0.3.0-pre2\nwiki-plugin-zones 0.1.9\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "63b3aaa986effe07",
+      "text": "But that doesn't tell me the state of the repo. I make a todo list instead."
+    },
+    {
+      "type": "markdown",
+      "id": "e1198a16bc625310",
+      "text": "- [ ] wiki-plugin-activity On branch ward/synopsis\n- [ ] wiki-plugin-alert On branch ward/form-edit\n- [ ] wiki-plugin-assets On branch nrn/copy-from-remote\n- [ ] wiki-plugin-bat On branch master\n- [ ] wiki-plugin-calendar On branch data-ize\n- [ ] wiki-plugin-changes On branch ward/synopsis\n- [ ] wiki-plugin-club On branch master\n- [ ] wiki-plugin-creole On branch master\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
     }
   ],
   "journal": [
@@ -354,6 +409,307 @@
         "text": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu. Markup could be NORMAL."
       },
       "date": 1607572712483
+    },
+    {
+      "type": "edit",
+      "id": "bf5645383dc6022d",
+      "item": {
+        "type": "paragraph",
+        "id": "bf5645383dc6022d",
+        "text": "Uh oh. Npm serves 1.0.0 while GitHub has 0.1.7. I screen share into an old laptop and find package.json."
+      },
+      "date": 1607572958301
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c1d9207d14aea9c"
+      },
+      "id": "4c1d9207d14aea9c",
+      "type": "add",
+      "after": "bf5645383dc6022d",
+      "date": 1607572960441
+    },
+    {
+      "type": "edit",
+      "id": "4c1d9207d14aea9c",
+      "item": {
+        "type": "code",
+        "id": "4c1d9207d14aea9c",
+        "text": "{\n  \"name\": \"wiki-plugin-present\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Federated Wiki - Present Plugin\","
+      },
+      "date": 1607572964503
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1c08d7af755a8e66"
+      },
+      "id": "1c08d7af755a8e66",
+      "type": "add",
+      "after": "4c1d9207d14aea9c",
+      "date": 1607573106982
+    },
+    {
+      "type": "edit",
+      "id": "1c08d7af755a8e66",
+      "item": {
+        "type": "paragraph",
+        "id": "1c08d7af755a8e66",
+        "text": "Sure enough, git status suggests a push."
+      },
+      "date": 1607573134913
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7759ef5d9f42ebab"
+      },
+      "id": "7759ef5d9f42ebab",
+      "type": "add",
+      "after": "1c08d7af755a8e66",
+      "date": 1607573136928
+    },
+    {
+      "type": "edit",
+      "id": "7759ef5d9f42ebab",
+      "item": {
+        "type": "code",
+        "id": "7759ef5d9f42ebab",
+        "text": "On branch master\nYour branch is ahead of 'origin/master' by 1 commit.\n  (use \"git push\" to publish your local commits)"
+      },
+      "date": 1607573142882
+    },
+    {
+      "type": "edit",
+      "id": "316c9d905c3dd522",
+      "item": {
+        "type": "paragraph",
+        "id": "316c9d905c3dd522",
+        "text": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu. Markup could say NORMAL."
+      },
+      "date": 1607573173765
+    },
+    {
+      "type": "add",
+      "id": "fdde1e5187018eab",
+      "item": {
+        "type": "paragraph",
+        "id": "fdde1e5187018eab",
+        "text": "# Trouble"
+      },
+      "after": "316c9d905c3dd522",
+      "date": 1607573276705
+    },
+    {
+      "type": "edit",
+      "id": "fdde1e5187018eab",
+      "item": {
+        "type": "markdown",
+        "id": "fdde1e5187018eab",
+        "text": "# Trouble"
+      },
+      "date": 1607573279280
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a6188d4db0d13f3e"
+      },
+      "id": "a6188d4db0d13f3e",
+      "type": "add",
+      "after": "7759ef5d9f42ebab",
+      "date": 1607573654571
+    },
+    {
+      "type": "edit",
+      "id": "a6188d4db0d13f3e",
+      "item": {
+        "type": "paragraph",
+        "id": "a6188d4db0d13f3e",
+        "text": "# Fix"
+      },
+      "date": 1607573708332
+    },
+    {
+      "type": "add",
+      "id": "624f0252fdb78673",
+      "item": {
+        "type": "paragraph",
+        "id": "624f0252fdb78673",
+        "text": "I can't think of any reason why I shouldn't just push this and start over applying npm security updates in my current work environment. I can see many possible improvements too. Maybe NORMAL isn't thinking big enough."
+      },
+      "after": "a6188d4db0d13f3e",
+      "date": 1607573889074
+    },
+    {
+      "type": "edit",
+      "id": "a6188d4db0d13f3e",
+      "item": {
+        "type": "markdown",
+        "id": "a6188d4db0d13f3e",
+        "text": "# Fix"
+      },
+      "date": 1607573891379
+    },
+    {
+      "type": "edit",
+      "id": "624f0252fdb78673",
+      "item": {
+        "type": "paragraph",
+        "id": "624f0252fdb78673",
+        "text": "I can't think of any reason why I shouldn't just push the old commit and start reapplying npm security updates in my current work environment. I can see many possible improvements too. Maybe NORMAL isn't thinking big enough."
+      },
+      "date": 1607573940584
+    },
+    {
+      "type": "edit",
+      "id": "624f0252fdb78673",
+      "item": {
+        "type": "paragraph",
+        "id": "624f0252fdb78673",
+        "text": "I can't think of any reason why I shouldn't just push the old commit and start reapplying npm security updates in my current work environment. I can see many possible improvements too. Maybe more than NORMAL."
+      },
+      "date": 1607573961642
+    },
+    {
+      "type": "edit",
+      "id": "a6188d4db0d13f3e",
+      "item": {
+        "type": "markdown",
+        "id": "a6188d4db0d13f3e",
+        "text": "# Start"
+      },
+      "date": 1607574035696
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6bb95006c206d60b"
+      },
+      "id": "6bb95006c206d60b",
+      "type": "add",
+      "after": "624f0252fdb78673",
+      "date": 1607574525432
+    },
+    {
+      "type": "edit",
+      "id": "6bb95006c206d60b",
+      "item": {
+        "type": "paragraph",
+        "id": "6bb95006c206d60b",
+        "text": "First check what over versions I might have unsaved."
+      },
+      "date": 1607574545053
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "68ebf3405d537326"
+      },
+      "id": "68ebf3405d537326",
+      "type": "add",
+      "after": "6bb95006c206d60b",
+      "date": 1607574547639
+    },
+    {
+      "type": "edit",
+      "id": "68ebf3405d537326",
+      "item": {
+        "type": "code",
+        "id": "68ebf3405d537326",
+        "text": "cat wiki-plugin-*/package.json |\\\n jq -r '.name+\" \"+.version'"
+      },
+      "date": 1607574561067
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d5b6307a09576f1c"
+      },
+      "id": "d5b6307a09576f1c",
+      "type": "add",
+      "after": "68ebf3405d537326",
+      "date": 1607574792146
+    },
+    {
+      "type": "edit",
+      "id": "d5b6307a09576f1c",
+      "item": {
+        "type": "code",
+        "id": "d5b6307a09576f1c",
+        "text": "wiki-plugin-activity 0.4.0\nwiki-plugin-alert 0.1.2\nwiki-plugin-assets 0.2.3\nwiki-plugin-bat 0.1.0\nwiki-plugin-calendar 0.2.3\nwiki-plugin-changes 0.3.0\nwiki-plugin-club 0.1.0\nwiki-plugin-creole 0.1.0\nwiki-plugin-datalog 0.1.8\nwiki-plugin-detect 0.1.6\nwiki-plugin-geocode 0.0.1\nwiki-plugin-graph 1.0.1\nwiki-plugin-graphviz 0.4.0\nwiki-plugin-grep 1.0.0\nwiki-plugin-html 0.3.3\nwiki-plugin-json 0.1.10\nwiki-plugin-map 0.3.7\nwiki-plugin-markdown 0.3.0\nwiki-plugin-metamodel 0.0.5\nwiki-plugin-method 0.2.3\nwiki-plugin-morseteacher 1.0.0\nwiki-plugin-plugmatic 1.1.2\nwiki-plugin-present 1.0.0\nwiki-plugin-print 0.0.2\nwiki-plugin-radar 0.3.1-1\nwiki-plugin-recycler 0.2.0\nwiki-plugin-reduce 0.1.2\nwiki-plugin-register 0.2.1\nwiki-plugin-rostermatic 1.0.10\nwiki-plugin-rss 0.1.8\nwiki-plugin-search 0.1.5\nwiki-plugin-signature 0.1.2\nwiki-plugin-soundcloud 0.1.0\nwiki-plugin-transport 0.1.3\nwiki-plugin-video 0.2.7\nwiki-plugin-wsjt 0.3.0-pre2\nwiki-plugin-zones 0.1.9\n"
+      },
+      "date": 1607574797202
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e1198a16bc625310"
+      },
+      "id": "e1198a16bc625310",
+      "type": "add",
+      "after": "d5b6307a09576f1c",
+      "date": 1607575622291
+    },
+    {
+      "type": "edit",
+      "id": "e1198a16bc625310",
+      "item": {
+        "type": "markdown",
+        "id": "e1198a16bc625310",
+        "text": "- [ ] wiki-plugin-activity On branch ward/synopsis\n- [ ] wiki-plugin-alert On branch ward/form-edit\n- [ ] wiki-plugin-assets On branch nrn/copy-from-remote\n- [ ] wiki-plugin-bat On branch master\n- [ ] wiki-plugin-calendar On branch data-ize\n- [ ] wiki-plugin-changes On branch ward/synopsis\n- [ ] wiki-plugin-club On branch master\n- [ ] wiki-plugin-creole On branch master\n- [ ] wiki-plugin-datalog On branch master\n- [ ] wiki-plugin-detect On branch master\n- [ ] wiki-plugin-geocode  Not a git repository\n- [ ] wiki-plugin-graph On branch master\n- [ ] wiki-plugin-graphviz On branch master\n- [ ] wiki-plugin-grep On branch ward/button\n- [ ] wiki-plugin-html On branch ward/menu\n- [ ] wiki-plugin-json On branch master\n- [ ] wiki-plugin-map On branch ward/update\n- [ ] wiki-plugin-markdown On branch ward/graph\n- [ ] wiki-plugin-metamodel On branch master\n- [ ] wiki-plugin-method On branch master\n- [ ] wiki-plugin-morseteacher On branch master\n- [ ] wiki-plugin-plugmatic On branch master\n- [ ] wiki-plugin-present On branch master\n- [ ] wiki-plugin-print On branch master\n- [ ] wiki-plugin-radar On branch ward/legibility\n- [ ] wiki-plugin-recycler On branch ward/synopsis\n- [ ] wiki-plugin-reduce On branch master\n- [ ] wiki-plugin-register On branch master\n- [ ] wiki-plugin-rostermatic On branch master\n- [ ] wiki-plugin-rss On branch master\n- [ ] wiki-plugin-search On branch ward/synopsis\n- [ ] wiki-plugin-signature On branch master\n- [ ] wiki-plugin-soundcloud On branch master\n- [ ] wiki-plugin-transport On branch ward/example\n- [ ] wiki-plugin-video On branch master\n- [ ] wiki-plugin-wsjt On branch master\n- [ ] wiki-plugin-zones On branch master"
+      },
+      "date": 1607575627121
+    },
+    {
+      "type": "add",
+      "id": "63b3aaa986effe07",
+      "item": {
+        "type": "paragraph",
+        "id": "63b3aaa986effe07",
+        "text": "But that doesn't tell me the state of the repo."
+      },
+      "after": "6bb95006c206d60b",
+      "date": 1607575653781
+    },
+    {
+      "id": "63b3aaa986effe07",
+      "type": "move",
+      "order": [
+        "316c9d905c3dd522",
+        "fdde1e5187018eab",
+        "95aa5f34926d9e24",
+        "e12acc249f70befc",
+        "4d5a9ccb8e5dab24",
+        "a2ed0e9108c03f02",
+        "0cd3a6d9b19dff40",
+        "60c3ff48d0932e1d",
+        "5d8c02cbe84482c7",
+        "50d0ecb456c44a27",
+        "bf5645383dc6022d",
+        "4c1d9207d14aea9c",
+        "1c08d7af755a8e66",
+        "7759ef5d9f42ebab",
+        "a6188d4db0d13f3e",
+        "624f0252fdb78673",
+        "6bb95006c206d60b",
+        "68ebf3405d537326",
+        "d5b6307a09576f1c",
+        "63b3aaa986effe07",
+        "e1198a16bc625310"
+      ],
+      "date": 1607575660582
+    },
+    {
+      "type": "edit",
+      "id": "63b3aaa986effe07",
+      "item": {
+        "type": "paragraph",
+        "id": "63b3aaa986effe07",
+        "text": "But that doesn't tell me the state of the repo. I make a todo list instead."
+      },
+      "date": 1607575679023
     }
   ]
 }
