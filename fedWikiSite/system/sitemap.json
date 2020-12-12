@@ -1194,6 +1194,12 @@
     "synopsis": "We once had a hint of a hamburger menu in the web page footer where it was intended to offer server or browsing specific information. We'd like to see it return and suggest that its sole purpose should be to open well known plugin about pages like Recent Changes or Recently Recycled."
   },
   {
+    "slug": "hamburger-trap",
+    "title": "Hamburger Trap",
+    "date": 1607580707121,
+    "synopsis": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu. Markup could say NORMAL."
+  },
+  {
     "slug": "hand-drawn-graphs",
     "title": "Hand Drawn Graphs",
     "date": 1455626381772,
@@ -1312,6 +1318,12 @@
     "title": "How We Find Data",
     "date": 1428525579408,
     "synopsis": "Pages from many sites can find each other when they arrive together in a browser and at that moment connect  data to computations and computations to visualizations. Here we explain how that happens."
+  },
+  {
+    "slug": "how-wiki-works",
+    "title": "How Wiki Works",
+    "date": 1607619315547,
+    "synopsis": "When federated wiki started in 2011 it used jquery-ajar to POST to ruby-sinatra on the server. JSON format was already popular in 2011 so we went with the flow."
   },
   {
     "slug": "human-performance-in-systems",
@@ -3327,17 +3339,5 @@
     "title": "Zero-Steps to Claim",
     "date": 1448891062256,
     "synopsis": "A new site could be \"born claimed\". The server could generate a suitable credential and share it with the first visitor's browser. This initiates the \"claim\" process. Let's call this the zero-steps to claim solution. We here consider how it could then be supplemented with more traditional account management and login mechanisms."
-  },
-  {
-    "slug": "hamburger-trap",
-    "title": "Hamburger Trap",
-    "date": 1607580707121,
-    "synopsis": "I noticed that an author has accidentally deleted wiki-plugin-present item from the [[Peer Activity]] page on the hamburger menu. Markup could say NORMAL."
-  },
-  {
-    "slug": "how-wiki-works",
-    "title": "How Wiki Works",
-    "date": 1607619315547,
-    "synopsis": "When federated wiki started in 2011 it used jquery-ajar to POST to ruby-sinatra on the server. JSON format was already popular in 2011 so we went with the flow."
   }
 ]
