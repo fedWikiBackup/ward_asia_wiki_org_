@@ -9,7 +9,17 @@
     {
       "type": "paragraph",
       "id": "3118627a0fef826f",
-      "text": "We imagine two files to make a read only version: serve and browse. Supplement this with two more files for authoring: edit and update."
+      "text": "We imagine two files to make a read only version: host and browse. Supplement this with two more files for authoring: edit and update."
+    },
+    {
+      "type": "paragraph",
+      "id": "2a04b2b40f6f3689",
+      "text": "One additional and optional file will configure both client and server for a community: start."
+    },
+    {
+      "type": "assets",
+      "id": "74f79e8f21535652",
+      "text": "pages/smallest-wiki-revisited"
     }
   ],
   "journal": [
@@ -79,6 +89,47 @@
         "text": "We imagine two files to make a read only version: serve and browse. Supplement this with two more files for authoring: edit and update."
       },
       "date": 1607976006738
+    },
+    {
+      "type": "add",
+      "id": "2a04b2b40f6f3689",
+      "item": {
+        "type": "paragraph",
+        "id": "2a04b2b40f6f3689",
+        "text": "One additional and optional file will configure both client and server for a community: start."
+      },
+      "after": "3118627a0fef826f",
+      "date": 1607976288449
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "74f79e8f21535652"
+      },
+      "id": "74f79e8f21535652",
+      "type": "add",
+      "after": "2a04b2b40f6f3689",
+      "date": 1607976293994
+    },
+    {
+      "type": "edit",
+      "id": "74f79e8f21535652",
+      "item": {
+        "type": "assets",
+        "id": "74f79e8f21535652",
+        "text": "pages/smallest-wiki-revisited"
+      },
+      "date": 1607976324019
+    },
+    {
+      "type": "edit",
+      "id": "3118627a0fef826f",
+      "item": {
+        "type": "paragraph",
+        "id": "3118627a0fef826f",
+        "text": "We imagine two files to make a read only version: host and browse. Supplement this with two more files for authoring: edit and update."
+      },
+      "date": 1607978632186
     }
   ]
 }
