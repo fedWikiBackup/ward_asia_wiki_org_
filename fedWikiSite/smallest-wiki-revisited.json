@@ -1,0 +1,84 @@
+{
+  "title": "Smallest Wiki Revisited",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "53d4c9b19c0a7f8e",
+      "text": "We ask, what is the least code with which a community can collaborate with each other and the larger federation."
+    },
+    {
+      "type": "paragraph",
+      "id": "3118627a0fef826f",
+      "text": "We imagine two files to make a read only version: serve and browse. Supplement this with two more files for authoring: edit and update."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Smallest Wiki Revisited",
+        "story": []
+      },
+      "date": 1607975623295
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "53d4c9b19c0a7f8e"
+      },
+      "id": "53d4c9b19c0a7f8e",
+      "type": "add",
+      "date": 1607975625257
+    },
+    {
+      "type": "edit",
+      "id": "53d4c9b19c0a7f8e",
+      "item": {
+        "type": "paragraph",
+        "id": "53d4c9b19c0a7f8e",
+        "text": "We ask, what is the least code with which a community can collaborate with each other an the larger federation."
+      },
+      "date": 1607975711373
+    },
+    {
+      "type": "edit",
+      "id": "53d4c9b19c0a7f8e",
+      "item": {
+        "type": "paragraph",
+        "id": "53d4c9b19c0a7f8e",
+        "text": "We ask, what is the least code with which a community can collaborate with each other and the larger federation."
+      },
+      "date": 1607975757477
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3118627a0fef826f"
+      },
+      "id": "3118627a0fef826f",
+      "type": "add",
+      "after": "53d4c9b19c0a7f8e",
+      "date": 1607975905107
+    },
+    {
+      "type": "edit",
+      "id": "3118627a0fef826f",
+      "item": {
+        "type": "paragraph",
+        "id": "3118627a0fef826f",
+        "text": "We imagine two files to make a read only version: serve and browse."
+      },
+      "date": 1607975958374
+    },
+    {
+      "type": "edit",
+      "id": "3118627a0fef826f",
+      "item": {
+        "type": "paragraph",
+        "id": "3118627a0fef826f",
+        "text": "We imagine two files to make a read only version: serve and browse. Supplement this with two more files for authoring: edit and update."
+      },
+      "date": 1607976006738
+    }
+  ]
+}
