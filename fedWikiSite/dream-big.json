@@ -112,6 +112,11 @@
       "text": "[[Full Text Search]] now a reality. Done locally."
     },
     {
+      "type": "paragraph",
+      "id": "c0eddfb47c031335",
+      "text": "[[Smallest Wiki Revisited]] in modern javascript."
+    },
+    {
       "type": "pagefold",
       "id": "33fd21955e984e2a",
       "text": "possibilities"
@@ -4137,6 +4142,17 @@
         "c39739eaafa7bab6"
       ],
       "date": 1604626358863
+    },
+    {
+      "type": "add",
+      "id": "c0eddfb47c031335",
+      "item": {
+        "type": "paragraph",
+        "id": "c0eddfb47c031335",
+        "text": "[[Smallest Wiki Revisited]] in modern javascript."
+      },
+      "after": "81eebaf3a8ebd290",
+      "date": 1607975613675
     }
   ]
 }
