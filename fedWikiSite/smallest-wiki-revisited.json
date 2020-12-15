@@ -4,12 +4,12 @@
     {
       "type": "paragraph",
       "id": "53d4c9b19c0a7f8e",
-      "text": "We ask, what is the least code with which a community can collaborate with each other and the larger federation."
+      "text": "We ask, what is the least code with which a community can collaborate with each other and the larger federation?"
     },
     {
       "type": "paragraph",
       "id": "3118627a0fef826f",
-      "text": "We imagine two files to make a read only version: host and view. Supplement this with two more files for authoring: edit and update."
+      "text": "We imagine two files to make a read only wiki: host and view. Supplement this with two more files for authoring: edit and update. [https://github.com/WardCunningham/assets/tree/master/pages/smallest-wiki-revisited github]"
     },
     {
       "type": "paragraph",
@@ -40,6 +40,26 @@
       "type": "code",
       "id": "608c0fedd064a659",
       "text": "http://localhost:4444"
+    },
+    {
+      "type": "markdown",
+      "id": "d84fe1d019edd972",
+      "text": "# Experiments"
+    },
+    {
+      "type": "paragraph",
+      "id": "51a0299482a3c10f",
+      "text": "This makes good on a ten year old challenge: the smallest federated wiki. We will try a few new things hoping to inform [[Principles for Version Two]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "8d41e0b060e26c9a",
+      "text": "We have no configuration other than that in the server bootstrap start.js."
+    },
+    {
+      "type": "paragraph",
+      "id": "e13729e93ad16709",
+      "text": "We make the server ignorant of the lineup. The client is thus independent of the server and ready to be reused in federation outposts."
     }
   ],
   "journal": [
@@ -240,6 +260,138 @@
         "text": "http://localhost:4444"
       },
       "date": 1608012264386
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d84fe1d019edd972"
+      },
+      "id": "d84fe1d019edd972",
+      "type": "add",
+      "after": "608c0fedd064a659",
+      "date": 1608053227785
+    },
+    {
+      "type": "edit",
+      "id": "d84fe1d019edd972",
+      "item": {
+        "type": "paragraph",
+        "id": "d84fe1d019edd972",
+        "text": "# Experiments"
+      },
+      "date": 1608053262078
+    },
+    {
+      "type": "add",
+      "id": "51a0299482a3c10f",
+      "item": {
+        "type": "paragraph",
+        "id": "51a0299482a3c10f",
+        "text": "We are trying a few new things as well as leaving lots of things behind. We hope to inform [[Principles for Version Two]]"
+      },
+      "after": "d84fe1d019edd972",
+      "date": 1608053353330
+    },
+    {
+      "type": "edit",
+      "id": "51a0299482a3c10f",
+      "item": {
+        "type": "paragraph",
+        "id": "51a0299482a3c10f",
+        "text": "We are trying a few new things and leaving lots of things behind. We hope to inform [[Principles for Version Two]]."
+      },
+      "date": 1608053394817
+    },
+    {
+      "type": "edit",
+      "id": "d84fe1d019edd972",
+      "item": {
+        "type": "markdown",
+        "id": "d84fe1d019edd972",
+        "text": "# Experiments"
+      },
+      "date": 1608053398299
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8d41e0b060e26c9a"
+      },
+      "id": "8d41e0b060e26c9a",
+      "type": "add",
+      "after": "51a0299482a3c10f",
+      "date": 1608053443745
+    },
+    {
+      "type": "edit",
+      "id": "8d41e0b060e26c9a",
+      "item": {
+        "type": "paragraph",
+        "id": "8d41e0b060e26c9a",
+        "text": "We have no configuration other than that in the server bootstrap start.js."
+      },
+      "date": 1608053478261
+    },
+    {
+      "type": "add",
+      "id": "e13729e93ad16709",
+      "item": {
+        "type": "paragraph",
+        "id": "e13729e93ad16709",
+        "text": "We make the server ignorant of the lineup. The client is thus independent of the server and ready to be reused in federation outposts."
+      },
+      "after": "8d41e0b060e26c9a",
+      "date": 1608053706806
+    },
+    {
+      "type": "edit",
+      "id": "51a0299482a3c10f",
+      "item": {
+        "type": "paragraph",
+        "id": "51a0299482a3c10f",
+        "text": "This makes good on a ten year old challenge, the smallest federated wiki. We will try a few new things hoping to inform [[Principles for Version Two]]."
+      },
+      "date": 1608053859473
+    },
+    {
+      "type": "edit",
+      "id": "51a0299482a3c10f",
+      "item": {
+        "type": "paragraph",
+        "id": "51a0299482a3c10f",
+        "text": "This makes good on a ten year old challenge: the smallest federated wiki. We will try a few new things hoping to inform [[Principles for Version Two]]."
+      },
+      "date": 1608053871566
+    },
+    {
+      "type": "edit",
+      "id": "3118627a0fef826f",
+      "item": {
+        "type": "paragraph",
+        "id": "3118627a0fef826f",
+        "text": "We imagine two files to make a read only version: host and view. Supplement this with two more files for authoring: edit and update. [https://github.com/WardCunningham/assets/tree/master/pages/smallest-wiki-revisited github]"
+      },
+      "date": 1608056207236
+    },
+    {
+      "type": "edit",
+      "id": "53d4c9b19c0a7f8e",
+      "item": {
+        "type": "paragraph",
+        "id": "53d4c9b19c0a7f8e",
+        "text": "We ask, what is the least code with which a community can collaborate with each other and the larger federation?"
+      },
+      "date": 1608061644963
+    },
+    {
+      "type": "edit",
+      "id": "3118627a0fef826f",
+      "item": {
+        "type": "paragraph",
+        "id": "3118627a0fef826f",
+        "text": "We imagine two files to make a read only wiki: host and view. Supplement this with two more files for authoring: edit and update. [https://github.com/WardCunningham/assets/tree/master/pages/smallest-wiki-revisited github]"
+      },
+      "date": 1608061666880
     }
   ]
 }
