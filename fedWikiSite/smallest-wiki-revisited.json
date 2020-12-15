@@ -20,6 +20,26 @@
       "type": "assets",
       "id": "74f79e8f21535652",
       "text": "pages/smallest-wiki-revisited"
+    },
+    {
+      "type": "paragraph",
+      "id": "46e0b23fde2aefbe",
+      "text": "Install deno then run start. [https://deno.land/ site]"
+    },
+    {
+      "type": "code",
+      "id": "59ce36f0cac79a53",
+      "text": "deno run --allow-net --allow-read start.js"
+    },
+    {
+      "type": "paragraph",
+      "id": "13e6ecfb815abbc1",
+      "text": "Browse from welcome visitors."
+    },
+    {
+      "type": "code",
+      "id": "608c0fedd064a659",
+      "text": "http://localhost:4444"
     }
   ],
   "journal": [
@@ -140,6 +160,86 @@
         "text": "We imagine two files to make a read only version: host and view. Supplement this with two more files for authoring: edit and update."
       },
       "date": 1608011916416
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "46e0b23fde2aefbe"
+      },
+      "id": "46e0b23fde2aefbe",
+      "type": "add",
+      "after": "74f79e8f21535652",
+      "date": 1608012098264
+    },
+    {
+      "type": "edit",
+      "id": "46e0b23fde2aefbe",
+      "item": {
+        "type": "paragraph",
+        "id": "46e0b23fde2aefbe",
+        "text": "Install deno then run start. [https://deno.land/ site]"
+      },
+      "date": 1608012129598
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59ce36f0cac79a53"
+      },
+      "id": "59ce36f0cac79a53",
+      "type": "add",
+      "after": "46e0b23fde2aefbe",
+      "date": 1608012137056
+    },
+    {
+      "type": "edit",
+      "id": "59ce36f0cac79a53",
+      "item": {
+        "type": "code",
+        "id": "59ce36f0cac79a53",
+        "text": "deno run --allow-net --allow-read start.js"
+      },
+      "date": 1608012165981
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "13e6ecfb815abbc1"
+      },
+      "id": "13e6ecfb815abbc1",
+      "type": "add",
+      "after": "59ce36f0cac79a53",
+      "date": 1608012179685
+    },
+    {
+      "type": "edit",
+      "id": "13e6ecfb815abbc1",
+      "item": {
+        "type": "paragraph",
+        "id": "13e6ecfb815abbc1",
+        "text": "Browse from welcome visitors."
+      },
+      "date": 1608012240334
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "608c0fedd064a659"
+      },
+      "id": "608c0fedd064a659",
+      "type": "add",
+      "after": "13e6ecfb815abbc1",
+      "date": 1608012244461
+    },
+    {
+      "type": "edit",
+      "id": "608c0fedd064a659",
+      "item": {
+        "type": "code",
+        "id": "608c0fedd064a659",
+        "text": "http://localhost:4444"
+      },
+      "date": 1608012264386
     }
   ]
 }
