@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "3118627a0fef826f",
-      "text": "We imagine two files to make a read only version: host and browse. Supplement this with two more files for authoring: edit and update."
+      "text": "We imagine two files to make a read only version: host and view. Supplement this with two more files for authoring: edit and update."
     },
     {
       "type": "paragraph",
@@ -130,6 +130,16 @@
         "text": "We imagine two files to make a read only version: host and browse. Supplement this with two more files for authoring: edit and update."
       },
       "date": 1607978632186
+    },
+    {
+      "type": "edit",
+      "id": "3118627a0fef826f",
+      "item": {
+        "type": "paragraph",
+        "id": "3118627a0fef826f",
+        "text": "We imagine two files to make a read only version: host and view. Supplement this with two more files for authoring: edit and update."
+      },
+      "date": 1608011916416
     }
   ]
 }
