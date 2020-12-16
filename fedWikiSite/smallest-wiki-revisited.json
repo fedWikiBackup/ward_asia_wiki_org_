@@ -60,6 +60,16 @@
       "type": "paragraph",
       "id": "e13729e93ad16709",
       "text": "We make the server ignorant of the lineup. The client is thus independent of the server and ready to be reused in federation outposts."
+    },
+    {
+      "type": "markdown",
+      "id": "8b2bae86d97f3cf4",
+      "text": "# Remember"
+    },
+    {
+      "type": "paragraph",
+      "id": "b6a7a8282f6054ac",
+      "text": "Alias item ids when duplicated."
     }
   ],
   "journal": [
@@ -392,6 +402,38 @@
         "text": "We imagine two files to make a read only wiki: host and view. Supplement this with two more files for authoring: edit and update. [https://github.com/WardCunningham/assets/tree/master/pages/smallest-wiki-revisited github]"
       },
       "date": 1608061666880
+    },
+    {
+      "type": "add",
+      "id": "8b2bae86d97f3cf4",
+      "item": {
+        "type": "paragraph",
+        "id": "8b2bae86d97f3cf4",
+        "text": "# Remember"
+      },
+      "after": "e13729e93ad16709",
+      "date": 1608086724574
+    },
+    {
+      "type": "add",
+      "id": "b6a7a8282f6054ac",
+      "item": {
+        "type": "paragraph",
+        "id": "b6a7a8282f6054ac",
+        "text": "Alias item ids when duplicated."
+      },
+      "after": "8b2bae86d97f3cf4",
+      "date": 1608086744067
+    },
+    {
+      "type": "edit",
+      "id": "8b2bae86d97f3cf4",
+      "item": {
+        "type": "markdown",
+        "id": "8b2bae86d97f3cf4",
+        "text": "# Remember"
+      },
+      "date": 1608086746689
     }
   ]
 }
