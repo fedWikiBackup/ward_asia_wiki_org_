@@ -1,0 +1,170 @@
+{
+  "title": "Smallest Deployed",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "48a1508b69929efa",
+      "text": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access."
+    },
+    {
+      "type": "paragraph",
+      "id": "32d392e80de6cf79",
+      "text": "I've launched this under screen, now with a loop to log and recover from failures."
+    },
+    {
+      "type": "code",
+      "id": "f839ec1eade77e37",
+      "text": "while true\ndo deno run --allow-net --allow-read asia.js \\ \n 2>log/`date +%y%m%d-%H%M%S`.txt\ndone"
+    },
+    {
+      "type": "assets",
+      "id": "ceaa23135ebcb106",
+      "text": "pages/smallest-wiki-revisited/log"
+    },
+    {
+      "type": "paragraph",
+      "id": "b9ae8e2ce3c61885",
+      "text": "The newest log is expected to be empty. Should deno abort writing any useful info it will be saved as we open a redirect to a new file."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Smallest Deployed",
+        "story": []
+      },
+      "date": 1608221467350
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "48a1508b69929efa"
+      },
+      "id": "48a1508b69929efa",
+      "type": "add",
+      "date": 1608221480209
+    },
+    {
+      "type": "edit",
+      "id": "48a1508b69929efa",
+      "item": {
+        "type": "paragraph",
+        "id": "48a1508b69929efa",
+        "text": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access."
+      },
+      "date": 1608221677560
+    },
+    {
+      "type": "add",
+      "id": "32d392e80de6cf79",
+      "item": {
+        "type": "paragraph",
+        "id": "32d392e80de6cf79",
+        "text": "I've launched this under screen, now with a loop to log and recover from failures."
+      },
+      "after": "48a1508b69929efa",
+      "date": 1608221754552
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f839ec1eade77e37"
+      },
+      "id": "f839ec1eade77e37",
+      "type": "add",
+      "after": "32d392e80de6cf79",
+      "date": 1608221756322
+    },
+    {
+      "type": "edit",
+      "id": "f839ec1eade77e37",
+      "item": {
+        "type": "code",
+        "id": "f839ec1eade77e37",
+        "text": "while true\ndo deno run --allow-net --allow-read start.js 2>log/`date +%s`\ndone"
+      },
+      "date": 1608221782307
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ceaa23135ebcb106"
+      },
+      "id": "ceaa23135ebcb106",
+      "type": "add",
+      "after": "f839ec1eade77e37",
+      "date": 1608221803939
+    },
+    {
+      "type": "edit",
+      "id": "ceaa23135ebcb106",
+      "item": {
+        "type": "assets",
+        "id": "ceaa23135ebcb106",
+        "text": "pages/smallest-wiki-revisited/log"
+      },
+      "date": 1608221833487
+    },
+    {
+      "type": "edit",
+      "id": "f839ec1eade77e37",
+      "item": {
+        "type": "code",
+        "id": "f839ec1eade77e37",
+        "text": "while true\ndo deno run --allow-net --allow-read start.js \\ 2>log/`date +%s`\ndone"
+      },
+      "date": 1608221943243
+    },
+    {
+      "type": "edit",
+      "id": "f839ec1eade77e37",
+      "item": {
+        "type": "code",
+        "id": "f839ec1eade77e37",
+        "text": "while true\ndo deno run --allow-net --allow-read start.js \\ \n 2>log/`date +%s`.txt\ndone"
+      },
+      "date": 1608221954311
+    },
+    {
+      "type": "edit",
+      "id": "f839ec1eade77e37",
+      "item": {
+        "type": "code",
+        "id": "f839ec1eade77e37",
+        "text": "while true\ndo deno run --allow-net --allow-read asia.js \\ \n 2>log/`date +%s`.txt\ndone"
+      },
+      "date": 1608221971309
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b9ae8e2ce3c61885"
+      },
+      "id": "b9ae8e2ce3c61885",
+      "type": "add",
+      "after": "ceaa23135ebcb106",
+      "date": 1608222165192
+    },
+    {
+      "type": "edit",
+      "id": "b9ae8e2ce3c61885",
+      "item": {
+        "type": "paragraph",
+        "id": "b9ae8e2ce3c61885",
+        "text": "The newest log is expected to be empty. Should deno abort writing any useful info it will be saved as we open a redirect to a new file."
+      },
+      "date": 1608222282679
+    },
+    {
+      "type": "edit",
+      "id": "f839ec1eade77e37",
+      "item": {
+        "type": "code",
+        "id": "f839ec1eade77e37",
+        "text": "while true\ndo deno run --allow-net --allow-read asia.js \\ \n 2>log/`date +%y%m%d-%H%M%S`.txt\ndone"
+      },
+      "date": 1608223895626
+    }
+  ]
+}
