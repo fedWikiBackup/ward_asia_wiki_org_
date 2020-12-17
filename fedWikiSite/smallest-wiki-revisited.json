@@ -42,6 +42,11 @@
       "text": "http://localhost:4444"
     },
     {
+      "type": "paragraph",
+      "id": "521aea417fb37372",
+      "text": "See [[Smallest Deployed]]"
+    },
+    {
       "type": "markdown",
       "id": "d84fe1d019edd972",
       "text": "# Experiments"
@@ -466,6 +471,41 @@
       },
       "after": "e13729e93ad16709",
       "date": 1608170690903
+    },
+    {
+      "type": "add",
+      "id": "521aea417fb37372",
+      "item": {
+        "type": "paragraph",
+        "id": "521aea417fb37372",
+        "text": "See [[Smallest Deployed]]"
+      },
+      "after": "13e6ecfb815abbc1",
+      "date": 1608221460395
+    },
+    {
+      "id": "521aea417fb37372",
+      "type": "move",
+      "order": [
+        "53d4c9b19c0a7f8e",
+        "3118627a0fef826f",
+        "2a04b2b40f6f3689",
+        "74f79e8f21535652",
+        "46e0b23fde2aefbe",
+        "59ce36f0cac79a53",
+        "13e6ecfb815abbc1",
+        "608c0fedd064a659",
+        "521aea417fb37372",
+        "d84fe1d019edd972",
+        "51a0299482a3c10f",
+        "8d41e0b060e26c9a",
+        "e13729e93ad16709",
+        "ab805dad91d38da7",
+        "57988a9cd67316b9",
+        "8b2bae86d97f3cf4",
+        "b6a7a8282f6054ac"
+      ],
+      "date": 1608222325079
     }
   ]
 }
