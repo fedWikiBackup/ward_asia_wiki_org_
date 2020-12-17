@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "48a1508b69929efa",
-      "text": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access."
+      "text": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access. [http://ward.asia.wiki.org:4444 site]"
     },
     {
       "type": "paragraph",
@@ -165,6 +165,16 @@
         "text": "while true\ndo deno run --allow-net --allow-read asia.js \\ \n 2>log/`date +%y%m%d-%H%M%S`.txt\ndone"
       },
       "date": 1608223895626
+    },
+    {
+      "type": "edit",
+      "id": "48a1508b69929efa",
+      "item": {
+        "type": "paragraph",
+        "id": "48a1508b69929efa",
+        "text": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access. [http://ward.asia.wiki.org:4444 site]"
+      },
+      "date": 1608241789957
     }
   ]
 }
