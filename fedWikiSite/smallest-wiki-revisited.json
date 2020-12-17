@@ -9,7 +9,7 @@
     {
       "type": "paragraph",
       "id": "3118627a0fef826f",
-      "text": "We imagine two files to make a read only wiki: host and view. Supplement this with two more files for authoring: edit and update. [https://github.com/WardCunningham/assets/tree/master/pages/smallest-wiki-revisited github]"
+      "text": "We imagine two files to make a read only wiki: host and view. We supplement this with two more files for authoring: edit and update. [https://github.com/WardCunningham/assets/tree/master/pages/smallest-wiki-revisited github]"
     },
     {
       "type": "paragraph",
@@ -25,6 +25,11 @@
       "type": "paragraph",
       "id": "46e0b23fde2aefbe",
       "text": "Install deno then run start. [https://deno.land/ site]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3dc5c214e64af495",
+      "text": "tip: Modify start.js to reference your home directory. Deno can do this for you but it requires granting more permissions. [https://www.seanmcp.com/articles/access-the-home-directory-in-deno/ post]"
     },
     {
       "type": "code",
@@ -506,6 +511,27 @@
         "b6a7a8282f6054ac"
       ],
       "date": 1608222325079
+    },
+    {
+      "type": "add",
+      "id": "3dc5c214e64af495",
+      "item": {
+        "type": "paragraph",
+        "id": "3dc5c214e64af495",
+        "text": "tip: Modify start.js to reference your home directory. Deno can do this for you but it requires granting more permissions. [https://www.seanmcp.com/articles/access-the-home-directory-in-deno/ post]"
+      },
+      "after": "46e0b23fde2aefbe",
+      "date": 1608224467261
+    },
+    {
+      "type": "edit",
+      "id": "3118627a0fef826f",
+      "item": {
+        "type": "paragraph",
+        "id": "3118627a0fef826f",
+        "text": "We imagine two files to make a read only wiki: host and view. We supplement this with two more files for authoring: edit and update. [https://github.com/WardCunningham/assets/tree/master/pages/smallest-wiki-revisited github]"
+      },
+      "date": 1608225401080
     }
   ]
 }
