@@ -3343,13 +3343,13 @@
   {
     "slug": "smallest-wiki-revisited",
     "title": "Smallest Wiki Revisited",
-    "date": 1608225401080,
+    "date": 1608241596330,
     "synopsis": "We ask, what is the least code with which a community can collaborate with each other and the larger federation?"
   },
   {
     "slug": "smallest-deployed",
     "title": "Smallest Deployed",
-    "date": 1608223895626,
-    "synopsis": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access."
+    "date": 1608241789957,
+    "synopsis": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access. [http://ward.asia.wiki.org:4444 site]"
   }
 ]

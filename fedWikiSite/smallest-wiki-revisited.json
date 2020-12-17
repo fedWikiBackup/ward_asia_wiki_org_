@@ -24,7 +24,7 @@
     {
       "type": "paragraph",
       "id": "46e0b23fde2aefbe",
-      "text": "Install deno then run start. [https://deno.land/ site]"
+      "text": "Install deno then run start. [https://deno.land/ install]"
     },
     {
       "type": "paragraph",
@@ -39,7 +39,7 @@
     {
       "type": "paragraph",
       "id": "13e6ecfb815abbc1",
-      "text": "Browse from welcome visitors."
+      "text": "Browse from welcome visitors. [http://localhost:4444 start]"
     },
     {
       "type": "code",
@@ -532,6 +532,26 @@
         "text": "We imagine two files to make a read only wiki: host and view. We supplement this with two more files for authoring: edit and update. [https://github.com/WardCunningham/assets/tree/master/pages/smallest-wiki-revisited github]"
       },
       "date": 1608225401080
+    },
+    {
+      "type": "edit",
+      "id": "13e6ecfb815abbc1",
+      "item": {
+        "type": "paragraph",
+        "id": "13e6ecfb815abbc1",
+        "text": "Browse from welcome visitors. [http://localhost:4444 start]"
+      },
+      "date": 1608241554739
+    },
+    {
+      "type": "edit",
+      "id": "46e0b23fde2aefbe",
+      "item": {
+        "type": "paragraph",
+        "id": "46e0b23fde2aefbe",
+        "text": "Install deno then run start. [https://deno.land/ install]"
+      },
+      "date": 1608241596330
     }
   ]
 }
