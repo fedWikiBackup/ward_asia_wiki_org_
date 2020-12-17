@@ -62,6 +62,16 @@
       "text": "We make the server ignorant of the lineup. The client is thus independent of the server and ready to be reused in federation outposts."
     },
     {
+      "type": "paragraph",
+      "id": "ab805dad91d38da7",
+      "text": "We distinguish a \"page\" on the wire or in an object from a \"panel\" that is a page rendered in the lineup."
+    },
+    {
+      "type": "paragraph",
+      "id": "57988a9cd67316b9",
+      "text": "We distinguish a \"site\" that is a domain and a \"where\" that is a remote domain or a keyword view, origin or local."
+    },
+    {
       "type": "markdown",
       "id": "8b2bae86d97f3cf4",
       "text": "# Remember"
@@ -434,6 +444,28 @@
         "text": "# Remember"
       },
       "date": 1608086746689
+    },
+    {
+      "type": "add",
+      "id": "57988a9cd67316b9",
+      "item": {
+        "type": "paragraph",
+        "id": "57988a9cd67316b9",
+        "text": "We distinguish a \"site\" that is a domain and a \"where\" that is a remote domain or a keyword view, origin or local."
+      },
+      "after": "e13729e93ad16709",
+      "date": 1608170616146
+    },
+    {
+      "type": "add",
+      "id": "ab805dad91d38da7",
+      "item": {
+        "type": "paragraph",
+        "id": "ab805dad91d38da7",
+        "text": "We distinguish a \"page\" on the wire or in an object from a \"panel\" that is a page rendered in the lineup."
+      },
+      "after": "e13729e93ad16709",
+      "date": 1608170690903
     }
   ]
 }
