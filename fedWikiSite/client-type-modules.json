@@ -17,9 +17,19 @@
       "text": "We will test render these plugins now. You need to be viewing with [[Smallest Deployed]] and include a type library in the query portion of the url. [http://ward.asia.wiki.org:4444?type=client-type-modules#view/client-type-modules example]"
     },
     {
+      "type": "paragraph",
+      "id": "f0afc84c8b8045c1",
+      "text": "Now a case study."
+    },
+    {
       "type": "markdown",
       "id": "8b4f043863d45e13",
-      "text": "# Markdown Heading"
+      "text": "# Carol Highsmith's America"
+    },
+    {
+      "type": "html",
+      "id": "22cb93c23abc37fd",
+      "text": "<img width=100% src=https://tile.loc.gov/storage-services/service/pnp/highsm/18300/18361r.jpg>"
     }
   ],
   "journal": [
@@ -139,6 +149,47 @@
         "text": "We will extend client-side markup and rendering with javascript modules that can be installed by a site owner without additional rights, shared from owner to owner, and selected by the viewer when launching a tab. [https://github.com/WardCunningham/assets/tree/master/pages/client-type-modules github]"
       },
       "date": 1608263255766
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "22cb93c23abc37fd"
+      },
+      "id": "22cb93c23abc37fd",
+      "type": "add",
+      "after": "8b4f043863d45e13",
+      "date": 1608267109833
+    },
+    {
+      "type": "edit",
+      "id": "22cb93c23abc37fd",
+      "item": {
+        "type": "html",
+        "id": "22cb93c23abc37fd",
+        "text": "<img width=100% src=https://tile.loc.gov/storage-services/service/pnp/highsm/18300/18361r.jpg>"
+      },
+      "date": 1608267115086
+    },
+    {
+      "type": "edit",
+      "id": "8b4f043863d45e13",
+      "item": {
+        "type": "markdown",
+        "id": "8b4f043863d45e13",
+        "text": "# Carol Highsmith's America"
+      },
+      "date": 1608267349393
+    },
+    {
+      "type": "add",
+      "id": "f0afc84c8b8045c1",
+      "item": {
+        "type": "paragraph",
+        "id": "f0afc84c8b8045c1",
+        "text": "Now a case study."
+      },
+      "after": "89856eae00a09e24",
+      "date": 1608267365359
     }
   ]
 }
