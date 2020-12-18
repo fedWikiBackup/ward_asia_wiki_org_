@@ -87,6 +87,11 @@
       "text": "We separate path?query#fragment where query params will be available to users for customizing client and server. See [[Client Type Modules]]"
     },
     {
+      "type": "html",
+      "id": "c931dd291c74bde2",
+      "text": "<img width=100% src=https://upload.wikimedia.org/wikipedia/commons/d/d6/URI_syntax_diagram.svg>"
+    },
+    {
       "type": "markdown",
       "id": "8b2bae86d97f3cf4",
       "text": "# Remember"
@@ -608,6 +613,63 @@
         "text": "We separate path?query#fragment where query params will be available to users for customizing client and server. See [[Client Type Modules]]"
       },
       "date": 1608261631424
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c931dd291c74bde2"
+      },
+      "id": "c931dd291c74bde2",
+      "type": "add",
+      "after": "b6a7a8282f6054ac",
+      "date": 1608324268534
+    },
+    {
+      "type": "edit",
+      "id": "c931dd291c74bde2",
+      "item": {
+        "type": "html",
+        "id": "c931dd291c74bde2",
+        "text": "<img width=100% src=https://en.wikipedia.org/wiki/URL#/media/File:URI_syntax_diagram.svg>"
+      },
+      "date": 1608324288616
+    },
+    {
+      "type": "edit",
+      "id": "c931dd291c74bde2",
+      "item": {
+        "type": "html",
+        "id": "c931dd291c74bde2",
+        "text": "<img width=100% src=https://upload.wikimedia.org/wikipedia/commons/d/d6/URI_syntax_diagram.svg>"
+      },
+      "date": 1608324340162
+    },
+    {
+      "id": "c931dd291c74bde2",
+      "type": "move",
+      "order": [
+        "53d4c9b19c0a7f8e",
+        "3118627a0fef826f",
+        "2a04b2b40f6f3689",
+        "74f79e8f21535652",
+        "46e0b23fde2aefbe",
+        "3dc5c214e64af495",
+        "59ce36f0cac79a53",
+        "13e6ecfb815abbc1",
+        "608c0fedd064a659",
+        "521aea417fb37372",
+        "d84fe1d019edd972",
+        "51a0299482a3c10f",
+        "8d41e0b060e26c9a",
+        "e13729e93ad16709",
+        "ab805dad91d38da7",
+        "57988a9cd67316b9",
+        "73ce5526dc07c99c",
+        "c931dd291c74bde2",
+        "8b2bae86d97f3cf4",
+        "b6a7a8282f6054ac"
+      ],
+      "date": 1608324343179
     }
   ]
 }
