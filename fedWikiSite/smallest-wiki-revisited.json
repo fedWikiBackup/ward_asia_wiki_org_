@@ -79,7 +79,12 @@
     {
       "type": "paragraph",
       "id": "57988a9cd67316b9",
-      "text": "We distinguish a \"site\" that is a domain and a \"where\" that is a remote domain or a keyword view, origin or local."
+      "text": "We distinguish a \"site\" that is a domain and a \"where\" that is a remote domain or a keyword view, origin or local. We add ghost for pages from nowhere."
+    },
+    {
+      "type": "paragraph",
+      "id": "73ce5526dc07c99c",
+      "text": "We separate path?query#fragment where query params will be available to users for customizing client and server. See [[Client Type Modules]]"
     },
     {
       "type": "markdown",
@@ -552,6 +557,57 @@
         "text": "Install deno then run start. [https://deno.land/ install]"
       },
       "date": 1608241596330
+    },
+    {
+      "type": "edit",
+      "id": "57988a9cd67316b9",
+      "item": {
+        "type": "paragraph",
+        "id": "57988a9cd67316b9",
+        "text": "We distinguish a \"site\" that is a domain and a \"where\" that is a remote domain or a keyword view, origin or local. We add ghost for pages from nowhere."
+      },
+      "date": 1608261247251
+    },
+    {
+      "type": "add",
+      "id": "73ce5526dc07c99c",
+      "item": {
+        "type": "paragraph",
+        "id": "73ce5526dc07c99c",
+        "text": "We separate"
+      },
+      "after": "57988a9cd67316b9",
+      "date": 1608261294359
+    },
+    {
+      "type": "edit",
+      "id": "73ce5526dc07c99c",
+      "item": {
+        "type": "paragraph",
+        "id": "73ce5526dc07c99c",
+        "text": "We separate path?query#fragment where query params will be available to users for customizing client and server side."
+      },
+      "date": 1608261392346
+    },
+    {
+      "type": "edit",
+      "id": "73ce5526dc07c99c",
+      "item": {
+        "type": "paragraph",
+        "id": "73ce5526dc07c99c",
+        "text": "We separate path?query#fragment where query params will be available to users for customizing client and server."
+      },
+      "date": 1608261400935
+    },
+    {
+      "type": "edit",
+      "id": "73ce5526dc07c99c",
+      "item": {
+        "type": "paragraph",
+        "id": "73ce5526dc07c99c",
+        "text": "We separate path?query#fragment where query params will be available to users for customizing client and server. See [[Client Type Modules]]"
+      },
+      "date": 1608261631424
     }
   ]
 }
