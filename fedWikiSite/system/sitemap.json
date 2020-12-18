@@ -3355,7 +3355,7 @@
   {
     "slug": "client-type-modules",
     "title": "Client Type Modules",
-    "date": 1608263255766,
+    "date": 1608267365359,
     "synopsis": "We will extend client-side markup and rendering with javascript modules that can be installed by a site owner without additional rights, shared from owner to owner, and selected by the viewer when launching a tab. [https://github.com/WardCunningham/assets/tree/master/pages/client-type-modules github]"
   }
 ]
