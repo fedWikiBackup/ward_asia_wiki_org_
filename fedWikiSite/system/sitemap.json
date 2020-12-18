@@ -3343,7 +3343,7 @@
   {
     "slug": "smallest-wiki-revisited",
     "title": "Smallest Wiki Revisited",
-    "date": 1608241596330,
+    "date": 1608261631424,
     "synopsis": "We ask, what is the least code with which a community can collaborate with each other and the larger federation?"
   },
   {
@@ -3351,5 +3351,11 @@
     "title": "Smallest Deployed",
     "date": 1608241789957,
     "synopsis": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access. [http://ward.asia.wiki.org:4444 site]"
+  },
+  {
+    "slug": "client-type-modules",
+    "title": "Client Type Modules",
+    "date": 1608263255766,
+    "synopsis": "We will extend client-side markup and rendering with javascript modules that can be installed by a site owner without additional rights, shared from owner to owner, and selected by the viewer when launching a tab. [https://github.com/WardCunningham/assets/tree/master/pages/client-type-modules github]"
   }
 ]
