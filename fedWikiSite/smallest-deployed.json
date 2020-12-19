@@ -39,7 +39,7 @@
     {
       "type": "code",
       "id": "b796e0bad0c5730f",
-      "text": "<span onclick=\n\"location=location.href.replace(\n/wiki\\.org/,'wiki.org:4444/#')\"\n> try 4444</span>"
+      "text": "<span onclick=\"location=location.href\n .replace(/(\\w)\\/(\\w)/,'$1:4444/#/$2')\">\n try 4444 \n</span>"
     }
   ],
   "journal": [
@@ -266,6 +266,26 @@
         "b796e0bad0c5730f"
       ],
       "date": 1608350102497
+    },
+    {
+      "type": "edit",
+      "id": "b796e0bad0c5730f",
+      "item": {
+        "type": "code",
+        "id": "b796e0bad0c5730f",
+        "text": "<span onclick=\n\"location=location.href.replace(\n/wiki\\.org/,'wiki.org:4444/#')\"\n> try 4444 </span>"
+      },
+      "date": 1608350426286
+    },
+    {
+      "type": "edit",
+      "id": "b796e0bad0c5730f",
+      "item": {
+        "type": "code",
+        "id": "b796e0bad0c5730f",
+        "text": "<span onclick=\"location=location.href\n .replace(/(\\w)\\/(\\w)/,'$1:4444/#/$2')\">\n try 4444 \n</span>"
+      },
+      "date": 1608351810550
     }
   ]
 }
