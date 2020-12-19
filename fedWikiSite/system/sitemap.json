@@ -3349,7 +3349,7 @@
   {
     "slug": "smallest-deployed",
     "title": "Smallest Deployed",
-    "date": 1608241789957,
+    "date": 1608350102497,
     "synopsis": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access. [http://ward.asia.wiki.org:4444 site]"
   },
   {
