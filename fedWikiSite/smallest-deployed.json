@@ -25,6 +25,21 @@
       "type": "paragraph",
       "id": "b9ae8e2ce3c61885",
       "text": "The newest log is expected to be empty. Should deno abort writing any useful info it will be saved as we open a redirect to a new file."
+    },
+    {
+      "type": "paragraph",
+      "id": "0a8fa5269fedd521",
+      "text": "We hack the node server at asia.wiki.org to include a link to the this deploy in the footer."
+    },
+    {
+      "type": "code",
+      "id": "2461e2e400f27ce4",
+      "text": "cd /usr/local/lib/node_modules/\ncd wiki/node_modules/wiki-client\nvi views/static.html"
+    },
+    {
+      "type": "code",
+      "id": "b796e0bad0c5730f",
+      "text": "<span onclick=\n\"location=location.href.replace(\n/wiki\\.org/,'wiki.org:4444/#')\"\n> try 4444</span>"
     }
   ],
   "journal": [
@@ -175,6 +190,82 @@
         "text": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access. [http://ward.asia.wiki.org:4444 site]"
       },
       "date": 1608241789957
+    },
+    {
+      "type": "add",
+      "id": "0a8fa5269fedd521",
+      "item": {
+        "type": "paragraph",
+        "id": "0a8fa5269fedd521",
+        "text": "We hack the node server at asia.wiki.org to include a link to the this deploy in the footer."
+      },
+      "after": "b9ae8e2ce3c61885",
+      "date": 1608349902572
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b796e0bad0c5730f"
+      },
+      "id": "b796e0bad0c5730f",
+      "type": "add",
+      "after": "0a8fa5269fedd521",
+      "date": 1608349906185
+    },
+    {
+      "type": "edit",
+      "id": "b796e0bad0c5730f",
+      "item": {
+        "type": "code",
+        "id": "b796e0bad0c5730f",
+        "text": "<span onclick=\n\"location=location.href.replace(\n/wiki\\.org/,'wiki.org:4444/#')\"\n> try 4444</span>"
+      },
+      "date": 1608349989643
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2461e2e400f27ce4"
+      },
+      "id": "2461e2e400f27ce4",
+      "type": "add",
+      "after": "b796e0bad0c5730f",
+      "date": 1608350036127
+    },
+    {
+      "type": "edit",
+      "id": "2461e2e400f27ce4",
+      "item": {
+        "type": "code",
+        "id": "2461e2e400f27ce4",
+        "text": "cd /usr/local/lib/node_modules/\ncd wiki/node_modules/wiki-client"
+      },
+      "date": 1608350067981
+    },
+    {
+      "type": "edit",
+      "id": "2461e2e400f27ce4",
+      "item": {
+        "type": "code",
+        "id": "2461e2e400f27ce4",
+        "text": "cd /usr/local/lib/node_modules/\ncd wiki/node_modules/wiki-client\nvi views/static.html"
+      },
+      "date": 1608350099258
+    },
+    {
+      "id": "2461e2e400f27ce4",
+      "type": "move",
+      "order": [
+        "48a1508b69929efa",
+        "32d392e80de6cf79",
+        "f839ec1eade77e37",
+        "ceaa23135ebcb106",
+        "b9ae8e2ce3c61885",
+        "0a8fa5269fedd521",
+        "2461e2e400f27ce4",
+        "b796e0bad0c5730f"
+      ],
+      "date": 1608350102497
     }
   ]
 }
