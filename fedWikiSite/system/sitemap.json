@@ -674,7 +674,7 @@
   {
     "slug": "dream-big",
     "title": "Dream Big",
-    "date": 1607975613675,
+    "date": 1608572203114,
     "synopsis": "We've allowed ourselves to imagine wiki with many possible features working together well. We do this to find interesting steps along the way."
   },
   {
@@ -3357,5 +3357,23 @@
     "title": "Client Type Modules",
     "date": 1608414821900,
     "synopsis": "We will extend client-side markup and rendering with javascript modules that can be installed by a site owner without additional rights, shared from owner to owner, and selected by the viewer when launching a tab. [https://github.com/WardCunningham/assets/tree/master/pages/client-type-modules github]"
+  },
+  {
+    "slug": "plundering-markup",
+    "title": "Plundering Markup",
+    "date": 1608573395825,
+    "synopsis": "Pages in the lineup can be discovered as sources for specific kinds of information. But what about pages that we find by other means? Can they source structured data too?"
+  },
+  {
+    "slug": "near-woods-creek-development",
+    "title": "Near Woods Creek Development",
+    "date": 1608569599330,
+    "synopsis": "We map the nearest trails and the closest in eight compass point directions."
+  },
+  {
+    "slug": "writing-assignments",
+    "title": "Writing Assignments",
+    "date": 1608499014601,
+    "synopsis": "David has been writing with his family. A topic will be suggested such that others are encouraged to write. He gives the example of tellings stories about one's fourth birthday. The problem arises when everyone chooses the same title, My Fourth Birthday."
   }
 ]
