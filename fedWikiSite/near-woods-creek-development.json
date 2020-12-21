@@ -1,0 +1,55 @@
+{
+  "title": "Near Woods Creek Development",
+  "story": [
+    {
+      "type": "paragraph",
+      "text": "We map the nearest trails and the closest in eight compass point directions.",
+      "id": "136526058049"
+    },
+    {
+      "type": "map",
+      "text": "45.4703401, -122.7422833 [[Woods Creek Development]]\n45.4744593, -122.7436684 [[Frances Garden]]\n45.4767275, -122.7359641 [[Vermont Creek at SW 55th Drive]]\n45.4713107, -122.7359641 [[Miles Court Connector]]\n45.4623943, -122.7369082 [[SW Dolph Street Connector]]\n45.4581938, -122.7469318 [[SW Orchid Street]]\n45.463441, -122.7502924 [[Middlebrooks Subgrade]]\n45.4680535, -122.7520198 [[SW Aloma Way at Oleson]]\n45.4790385, -122.748785 [[Bauman Park]]",
+      "id": "679709604422"
+    },
+    {
+      "type": "html",
+      "text": "<img title=\"Bauman Park\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/fall-2020/IMG_4373.jpg>\n<img title=\"Frances Garden\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/fall-2020/IMG_4302.jpg>\n<img title=\"Vermont Creek at SW 55th Drive\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/fall-2020/IMG_4437.jpg>\n<img title=\"SW Aloma Way at Oleson\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/winter-2020/IMG_4675.jpg>\n<img title=\"Woods Creek Development\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/historic-images/IMG_4218.jpg>\n<img title=\"Miles Court Connector\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/fall-2020/IMG_4366.jpg>\n<img title=\"Middlebrooks Subgrade\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/fall-2020/IMG_4480.jpg>\n<img title=\"SW Orchid Street\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/historic-images/IMG_4211.jpg>\n<img title=\"SW Dolph Street Connector\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/fall-2020/IMG_4469.jpg>",
+      "id": "872939863959"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "date": 1608569599330,
+      "item": {
+        "title": "Near Woods Creek Development",
+        "story": [
+          {
+            "type": "paragraph",
+            "text": "We map the nearest trails and the closest in eight compass point directions.",
+            "id": "136526058049"
+          },
+          {
+            "type": "map",
+            "text": "45.4703401, -122.7422833 [[Woods Creek Development]]\n45.4744593, -122.7436684 [[Frances Garden]]\n45.4767275, -122.7359641 [[Vermont Creek at SW 55th Drive]]\n45.4713107, -122.7359641 [[Miles Court Connector]]\n45.4623943, -122.7369082 [[SW Dolph Street Connector]]\n45.4581938, -122.7469318 [[SW Orchid Street]]\n45.463441, -122.7502924 [[Middlebrooks Subgrade]]\n45.4680535, -122.7520198 [[SW Aloma Way at Oleson]]\n45.4790385, -122.748785 [[Bauman Park]]",
+            "id": "679709604422"
+          },
+          {
+            "type": "html",
+            "text": "<img title=\"Bauman Park\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/fall-2020/IMG_4373.jpg>\n<img title=\"Frances Garden\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/fall-2020/IMG_4302.jpg>\n<img title=\"Vermont Creek at SW 55th Drive\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/fall-2020/IMG_4437.jpg>\n<img title=\"SW Aloma Way at Oleson\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/winter-2020/IMG_4675.jpg>\n<img title=\"Woods Creek Development\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/historic-images/IMG_4218.jpg>\n<img title=\"Miles Court Connector\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/fall-2020/IMG_4366.jpg>\n<img title=\"Middlebrooks Subgrade\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/fall-2020/IMG_4480.jpg>\n<img title=\"SW Orchid Street\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/historic-images/IMG_4211.jpg>\n<img title=\"SW Dolph Street Connector\" width=32% src=http://trails.ward.asia.wiki.org/assets/pages/fall-2020/IMG_4469.jpg>",
+            "id": "872939863959"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1608569605858
+    },
+    {
+      "type": "fork",
+      "site": "trails.ward.asia.wiki.org",
+      "date": 1608572369923
+    }
+  ]
+}
