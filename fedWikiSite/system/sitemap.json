@@ -1922,7 +1922,7 @@
   {
     "slug": "outpost-thinking",
     "title": "Outpost Thinking",
-    "date": 1604968313698,
+    "date": 1608756161650,
     "synopsis": "We built the federation based on the promiscuous sharing of simple things with the hope that this would lead the community to save indefinitely things worth saving. Within a year we had moved from ruby to node without leaving ruby sites behind. Now, in the federation's ninth year, we consider how this process might be further distributed."
   },
   {
@@ -3355,7 +3355,7 @@
   {
     "slug": "client-type-modules",
     "title": "Client Type Modules",
-    "date": 1608414821900,
+    "date": 1608756601489,
     "synopsis": "We will extend client-side markup and rendering with javascript modules that can be installed by a site owner without additional rights, shared from owner to owner, and selected by the viewer when launching a tab. [https://github.com/WardCunningham/assets/tree/master/pages/client-type-modules github]"
   },
   {

@@ -47,6 +47,16 @@
       "type": "code",
       "id": "601534f59309b479",
       "text": "DOT strict digraph\n  rankdir=LR\n  node [shape=\"box\" style=\"filled\" fillcolor=\"gold\"]\n  HERE NODE\n    node [fillcolor=\"lightgreen\"]\n    WHERE /^Used /\n      LINKS NODE -> HERE\n    WHERE /^Uses /\n      LINKS HERE -> NODE"
+    },
+    {
+      "type": "pagefold",
+      "id": "0e9849bf026da629",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "82c83dce92333aee",
+      "text": "See [[Smallest Wiki Explained]] where we organize a whole site to match the organization of the code. We'll see how well this follows code refactoring."
     }
   ],
   "journal": [
@@ -339,6 +349,46 @@
         "text": "test cases"
       },
       "date": 1608414821900
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0e9849bf026da629"
+      },
+      "id": "0e9849bf026da629",
+      "type": "add",
+      "after": "601534f59309b479",
+      "date": 1608756460614
+    },
+    {
+      "type": "edit",
+      "id": "0e9849bf026da629",
+      "item": {
+        "type": "pagefold",
+        "id": "0e9849bf026da629",
+        "text": "."
+      },
+      "date": 1608756468995
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "82c83dce92333aee"
+      },
+      "id": "82c83dce92333aee",
+      "type": "add",
+      "after": "0e9849bf026da629",
+      "date": 1608756545456
+    },
+    {
+      "type": "edit",
+      "id": "82c83dce92333aee",
+      "item": {
+        "type": "paragraph",
+        "id": "82c83dce92333aee",
+        "text": "See [[Smallest Wiki Explained]] where we organize a whole site to match the organization of the code. We'll see how well this follows code refactoring."
+      },
+      "date": 1608756601489
     }
   ]
 }
