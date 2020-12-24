@@ -92,6 +92,24 @@
       "text": "<img width=100% src=https://upload.wikimedia.org/wikipedia/commons/d/d6/URI_syntax_diagram.svg>"
     },
     {
+      "type": "paragraph",
+      "id": "2a11810fbadeea4a",
+      "text": "We're already finding benefit from this separation. So much so that we will benefit from shorter path names for what we share."
+    },
+    {
+      "type": "reference",
+      "id": "3bed88fb8a9aa9e0",
+      "site": "small.fed.wiki",
+      "slug": "public-assets",
+      "title": "Public Assets",
+      "text": "We manage assets used to launch federated wiki servers with no download beyond the deno runtime."
+    },
+    {
+      "type": "paragraph",
+      "id": "f04842d9ae6f2a34",
+      "text": "Proposals and deliberations will continue here."
+    },
+    {
       "type": "markdown",
       "id": "8b2bae86d97f3cf4",
       "text": "# Remember"
@@ -670,6 +688,167 @@
         "b6a7a8282f6054ac"
       ],
       "date": 1608324343179
+    },
+    {
+      "type": "fork",
+      "site": "ward.asia.wiki.org",
+      "date": 1608758309079
+    },
+    {
+      "type": "fork",
+      "site": "goals.pods.wiki.dbbs.co",
+      "date": 1608765130379
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3bed88fb8a9aa9e0"
+      },
+      "id": "3bed88fb8a9aa9e0",
+      "type": "add",
+      "after": "b6a7a8282f6054ac",
+      "date": 1608828086863
+    },
+    {
+      "type": "edit",
+      "id": "3bed88fb8a9aa9e0",
+      "item": {
+        "type": "reference",
+        "id": "3bed88fb8a9aa9e0",
+        "site": "small.fed.wiki",
+        "slug": "public-assets",
+        "title": "Public Assets",
+        "text": "We manage assets used to launch federated wiki servers with no download beyond the deno runtime."
+      },
+      "date": 1608828098550
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2a11810fbadeea4a"
+      },
+      "id": "2a11810fbadeea4a",
+      "type": "add",
+      "after": "3bed88fb8a9aa9e0",
+      "date": 1608828117999
+    },
+    {
+      "type": "edit",
+      "id": "2a11810fbadeea4a",
+      "item": {
+        "type": "paragraph",
+        "id": "2a11810fbadeea4a",
+        "text": "We're already finding benefit from this separation. So much so that we will benefit from shorter path names for what we share."
+      },
+      "date": 1608828221872
+    },
+    {
+      "id": "2a11810fbadeea4a",
+      "type": "move",
+      "order": [
+        "53d4c9b19c0a7f8e",
+        "3118627a0fef826f",
+        "2a04b2b40f6f3689",
+        "74f79e8f21535652",
+        "46e0b23fde2aefbe",
+        "3dc5c214e64af495",
+        "59ce36f0cac79a53",
+        "13e6ecfb815abbc1",
+        "608c0fedd064a659",
+        "521aea417fb37372",
+        "d84fe1d019edd972",
+        "51a0299482a3c10f",
+        "8d41e0b060e26c9a",
+        "e13729e93ad16709",
+        "ab805dad91d38da7",
+        "57988a9cd67316b9",
+        "73ce5526dc07c99c",
+        "c931dd291c74bde2",
+        "2a11810fbadeea4a",
+        "8b2bae86d97f3cf4",
+        "b6a7a8282f6054ac",
+        "3bed88fb8a9aa9e0"
+      ],
+      "date": 1608828225800
+    },
+    {
+      "id": "3bed88fb8a9aa9e0",
+      "type": "move",
+      "order": [
+        "53d4c9b19c0a7f8e",
+        "3118627a0fef826f",
+        "2a04b2b40f6f3689",
+        "74f79e8f21535652",
+        "46e0b23fde2aefbe",
+        "3dc5c214e64af495",
+        "59ce36f0cac79a53",
+        "13e6ecfb815abbc1",
+        "608c0fedd064a659",
+        "521aea417fb37372",
+        "d84fe1d019edd972",
+        "51a0299482a3c10f",
+        "8d41e0b060e26c9a",
+        "e13729e93ad16709",
+        "ab805dad91d38da7",
+        "57988a9cd67316b9",
+        "73ce5526dc07c99c",
+        "c931dd291c74bde2",
+        "2a11810fbadeea4a",
+        "3bed88fb8a9aa9e0",
+        "8b2bae86d97f3cf4",
+        "b6a7a8282f6054ac"
+      ],
+      "date": 1608828228678
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f04842d9ae6f2a34"
+      },
+      "id": "f04842d9ae6f2a34",
+      "type": "add",
+      "after": "b6a7a8282f6054ac",
+      "date": 1608828264084
+    },
+    {
+      "type": "edit",
+      "id": "f04842d9ae6f2a34",
+      "item": {
+        "type": "paragraph",
+        "id": "f04842d9ae6f2a34",
+        "text": "Proposals and deliberations will continue here."
+      },
+      "date": 1608828306609
+    },
+    {
+      "id": "f04842d9ae6f2a34",
+      "type": "move",
+      "order": [
+        "53d4c9b19c0a7f8e",
+        "3118627a0fef826f",
+        "2a04b2b40f6f3689",
+        "74f79e8f21535652",
+        "46e0b23fde2aefbe",
+        "3dc5c214e64af495",
+        "59ce36f0cac79a53",
+        "13e6ecfb815abbc1",
+        "608c0fedd064a659",
+        "521aea417fb37372",
+        "d84fe1d019edd972",
+        "51a0299482a3c10f",
+        "8d41e0b060e26c9a",
+        "e13729e93ad16709",
+        "ab805dad91d38da7",
+        "57988a9cd67316b9",
+        "73ce5526dc07c99c",
+        "c931dd291c74bde2",
+        "2a11810fbadeea4a",
+        "3bed88fb8a9aa9e0",
+        "f04842d9ae6f2a34",
+        "8b2bae86d97f3cf4",
+        "b6a7a8282f6054ac"
+      ],
+      "date": 1608828309511
     }
   ]
 }
