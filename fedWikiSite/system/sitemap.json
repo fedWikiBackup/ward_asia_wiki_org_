@@ -366,6 +366,12 @@
     "synopsis": "We offer a static html framework that will post a query to a server and then render the result in place. This makes for a web version of the read-eval-print loop where eval happens on the server."
   },
   {
+    "slug": "client-type-modules",
+    "title": "Client Type Modules",
+    "date": 1608756601489,
+    "synopsis": "We will extend client-side markup and rendering with javascript modules that can be installed by a site owner without additional rights, shared from owner to owner, and selected by the viewer when launching a tab. [https://github.com/WardCunningham/assets/tree/master/pages/client-type-modules github]"
+  },
+  {
     "slug": "coding-folks",
     "title": "Coding Folks",
     "date": 1419111026860,
@@ -1782,6 +1788,12 @@
     "synopsis": "We throw around a lot of terms when we talk about federated wiki that come from a variety of sources. Here we look at the sources and mention the most common names they provide."
   },
   {
+    "slug": "near-woods-creek-development",
+    "title": "Near Woods Creek Development",
+    "date": 1608569599330,
+    "synopsis": "We map the nearest trails and the closest in eight compass point directions."
+  },
+  {
     "slug": "neo4j",
     "title": "Neo4J",
     "date": 1454816332768,
@@ -2020,6 +2032,12 @@
     "title": "Plugins Installed Here",
     "date": 1422030191062,
     "synopsis": "These are plugins installed on the server where you started browsing. You may not see a list here unless that server installed the Plugins plugin. This page started its life on a server where this works. Try visiting there to see how it works."
+  },
+  {
+    "slug": "plundering-markup",
+    "title": "Plundering Markup",
+    "date": 1608573395825,
+    "synopsis": "Pages in the lineup can be discovered as sources for specific kinds of information. But what about pages that we find by other means? Can they source structured data too?"
   },
   {
     "slug": "pluto-image-of-the-year",
@@ -2565,6 +2583,18 @@
     "title": "Small Steps",
     "date": 1467721110768,
     "synopsis": "This is [[work-in-progress]]. We outline below some steps that help bring us closer to the goal of creating a new form of decentralised conversation:"
+  },
+  {
+    "slug": "smallest-deployed",
+    "title": "Smallest Deployed",
+    "date": 1608351810550,
+    "synopsis": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access. [http://ward.asia.wiki.org:4444 site]"
+  },
+  {
+    "slug": "smallest-wiki-revisited",
+    "title": "Smallest Wiki Revisited",
+    "date": 1608828309511,
+    "synopsis": "We ask, what is the least code with which a community can collaborate with each other and the larger federation?"
   },
   {
     "slug": "social-library",
@@ -3329,6 +3359,12 @@
     "synopsis": "We imagine a slide rule useful for scheduling and awaiting events where offsets that change with seasons and prefered times of participants are taken into account."
   },
   {
+    "slug": "writing-assignments",
+    "title": "Writing Assignments",
+    "date": 1608499014601,
+    "synopsis": "David has been writing with his family. A topic will be suggested such that others are encouraged to write. He gives the example of tellings stories about one's fourth birthday. The problem arises when everyone chooses the same title, My Fourth Birthday."
+  },
+  {
     "slug": "yellow-local",
     "title": "Yellow Local",
     "date": 1495210757340,
@@ -3339,41 +3375,5 @@
     "title": "Zero-Steps to Claim",
     "date": 1448891062256,
     "synopsis": "A new site could be \"born claimed\". The server could generate a suitable credential and share it with the first visitor's browser. This initiates the \"claim\" process. Let's call this the zero-steps to claim solution. We here consider how it could then be supplemented with more traditional account management and login mechanisms."
-  },
-  {
-    "slug": "smallest-wiki-revisited",
-    "title": "Smallest Wiki Revisited",
-    "date": 1608828309511,
-    "synopsis": "We ask, what is the least code with which a community can collaborate with each other and the larger federation?"
-  },
-  {
-    "slug": "smallest-deployed",
-    "title": "Smallest Deployed",
-    "date": 1608351810550,
-    "synopsis": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access. [http://ward.asia.wiki.org:4444 site]"
-  },
-  {
-    "slug": "client-type-modules",
-    "title": "Client Type Modules",
-    "date": 1608756601489,
-    "synopsis": "We will extend client-side markup and rendering with javascript modules that can be installed by a site owner without additional rights, shared from owner to owner, and selected by the viewer when launching a tab. [https://github.com/WardCunningham/assets/tree/master/pages/client-type-modules github]"
-  },
-  {
-    "slug": "plundering-markup",
-    "title": "Plundering Markup",
-    "date": 1608573395825,
-    "synopsis": "Pages in the lineup can be discovered as sources for specific kinds of information. But what about pages that we find by other means? Can they source structured data too?"
-  },
-  {
-    "slug": "near-woods-creek-development",
-    "title": "Near Woods Creek Development",
-    "date": 1608569599330,
-    "synopsis": "We map the nearest trails and the closest in eight compass point directions."
-  },
-  {
-    "slug": "writing-assignments",
-    "title": "Writing Assignments",
-    "date": 1608499014601,
-    "synopsis": "David has been writing with his family. A topic will be suggested such that others are encouraged to write. He gives the example of tellings stories about one's fourth birthday. The problem arises when everyone chooses the same title, My Fourth Birthday."
   }
 ]
