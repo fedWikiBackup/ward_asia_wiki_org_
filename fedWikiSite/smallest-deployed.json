@@ -14,7 +14,7 @@
     {
       "type": "code",
       "id": "f839ec1eade77e37",
-      "text": "while true\ndo deno run --allow-net --allow-read asia.js \\ \n 2>log/`date +%y%m%d-%H%M%S`.txt\ndone"
+      "text": "while true\ndo (cd /root/.wiki\n  deno run --allow-net --allow-read=. --reload \\\n    http://small.fed.wiki/assets/start.js) \\\n  2>log/`date +%y%m%d-%H%M%S`.txt\ndone\n"
     },
     {
       "type": "assets",
@@ -286,6 +286,16 @@
         "text": "<span onclick=\"location=location.href\n .replace(/(\\w)\\/(\\w)/,'$1:4444/#/$2')\">\n try 4444 \n</span>"
       },
       "date": 1608351810550
+    },
+    {
+      "type": "edit",
+      "id": "f839ec1eade77e37",
+      "item": {
+        "type": "code",
+        "id": "f839ec1eade77e37",
+        "text": "while true\ndo (cd /root/.wiki\n  deno run --allow-net --allow-read=. --reload \\\n    http://small.fed.wiki/assets/start.js) \\\n  2>log/`date +%y%m%d-%H%M%S`.txt\ndone\n"
+      },
+      "date": 1608938733034
     }
   ]
 }
