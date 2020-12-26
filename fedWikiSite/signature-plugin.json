@@ -71,6 +71,18 @@
             "rev": 50,
             "algo": "trivial",
             "sum": "1a54b38cfb32bc8183b1662130926a0e"
+          },
+          "efc78670f1e07059c163da06fede42bd": {
+            "date": 1608943046432,
+            "rev": 54,
+            "algo": "trivial",
+            "sum": "efc78670f1e07059c163da06fede42bd"
+          },
+          "6c6b0e599985dfde29f4b4f0ee41cdcb": {
+            "date": 1608943947709,
+            "rev": 56,
+            "algo": "trivial",
+            "sum": "6c6b0e599985dfde29f4b4f0ee41cdcb"
           }
         },
         "clive.tries.fed.wiki": {
@@ -117,7 +129,7 @@
     {
       "type": "html",
       "id": "16b77f1863211bf5",
-      "text": "<img width=100% src=http://ward.asia.wiki.org/assets//public-key-crypto.jpg>"
+      "text": "<img width=100% src=http://ward.asia.wiki.org/assets/pages/signature-plugin/public-key-crypto.jpg>"
     }
   ],
   "journal": [
@@ -1026,6 +1038,205 @@
         }
       },
       "date": 1519154485138
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7d82df992348788a"
+      },
+      "id": "7d82df992348788a",
+      "type": "add",
+      "after": "16b77f1863211bf5",
+      "date": 1608942690897
+    },
+    {
+      "type": "edit",
+      "id": "7d82df992348788a",
+      "item": {
+        "type": "assets",
+        "id": "7d82df992348788a",
+        "text": "pages/signature-plugin"
+      },
+      "date": 1608942713032
+    },
+    {
+      "type": "edit",
+      "id": "16b77f1863211bf5",
+      "item": {
+        "type": "html",
+        "id": "16b77f1863211bf5",
+        "text": "<img width=100% src=http://ward.asia.wiki.org/assets/pages/signature-plugin/public-key-crypto.jpg>"
+      },
+      "date": 1608943041399
+    },
+    {
+      "type": "edit",
+      "id": "6745046115bdeef3",
+      "item": {
+        "type": "signature",
+        "id": "6745046115bdeef3",
+        "text": "Here signed I agree with reservation.",
+        "algo": "trivial",
+        "signatures": {
+          "localhost:3000": {
+            "3569": {
+              "sum": 3569,
+              "date": 1511937703256
+            }
+          },
+          "foo.localhost:3000": {
+            "3569": {
+              "sum": 3569,
+              "date": 1511937749893
+            }
+          },
+          "ward.asia.wiki.org": {
+            "292296": {
+              "sum": 292296,
+              "date": 1511938211756
+            },
+            "662275": {
+              "date": 1511969730255,
+              "rev": 38,
+              "algo": "trivial",
+              "sum": 662275
+            },
+            "662437": {
+              "date": 1512245647242,
+              "rev": 43,
+              "algo": "trivial",
+              "sum": 662437
+            },
+            "890805": {
+              "sum": 890805,
+              "date": 1511938301703
+            },
+            "eef5181bfd3ba697b53f0e766928e6b8": {
+              "date": 1512321809930,
+              "rev": 45,
+              "algo": "trivial",
+              "sum": "eef5181bfd3ba697b53f0e766928e6b8"
+            },
+            "1a54b38cfb32bc8183b1662130926a0e": {
+              "date": 1519154485130,
+              "rev": 50,
+              "algo": "trivial",
+              "sum": "1a54b38cfb32bc8183b1662130926a0e"
+            },
+            "efc78670f1e07059c163da06fede42bd": {
+              "date": 1608943046432,
+              "rev": 54,
+              "algo": "trivial",
+              "sum": "efc78670f1e07059c163da06fede42bd"
+            }
+          },
+          "clive.tries.fed.wiki": {
+            "662275": {
+              "date": 1512240772650,
+              "rev": 40,
+              "algo": "trivial",
+              "sum": 662275
+            },
+            "662437": {
+              "date": 1512240963916,
+              "rev": 42,
+              "algo": "trivial",
+              "sum": 662437
+            }
+          }
+        }
+      },
+      "date": 1608943046441
+    },
+    {
+      "type": "remove",
+      "id": "7d82df992348788a",
+      "date": 1608943937110
+    },
+    {
+      "type": "edit",
+      "id": "6745046115bdeef3",
+      "item": {
+        "type": "signature",
+        "id": "6745046115bdeef3",
+        "text": "Here signed I agree with reservation.",
+        "algo": "trivial",
+        "signatures": {
+          "localhost:3000": {
+            "3569": {
+              "sum": 3569,
+              "date": 1511937703256
+            }
+          },
+          "foo.localhost:3000": {
+            "3569": {
+              "sum": 3569,
+              "date": 1511937749893
+            }
+          },
+          "ward.asia.wiki.org": {
+            "292296": {
+              "sum": 292296,
+              "date": 1511938211756
+            },
+            "662275": {
+              "date": 1511969730255,
+              "rev": 38,
+              "algo": "trivial",
+              "sum": 662275
+            },
+            "662437": {
+              "date": 1512245647242,
+              "rev": 43,
+              "algo": "trivial",
+              "sum": 662437
+            },
+            "890805": {
+              "sum": 890805,
+              "date": 1511938301703
+            },
+            "eef5181bfd3ba697b53f0e766928e6b8": {
+              "date": 1512321809930,
+              "rev": 45,
+              "algo": "trivial",
+              "sum": "eef5181bfd3ba697b53f0e766928e6b8"
+            },
+            "1a54b38cfb32bc8183b1662130926a0e": {
+              "date": 1519154485130,
+              "rev": 50,
+              "algo": "trivial",
+              "sum": "1a54b38cfb32bc8183b1662130926a0e"
+            },
+            "efc78670f1e07059c163da06fede42bd": {
+              "date": 1608943046432,
+              "rev": 54,
+              "algo": "trivial",
+              "sum": "efc78670f1e07059c163da06fede42bd"
+            },
+            "6c6b0e599985dfde29f4b4f0ee41cdcb": {
+              "date": 1608943947709,
+              "rev": 56,
+              "algo": "trivial",
+              "sum": "6c6b0e599985dfde29f4b4f0ee41cdcb"
+            }
+          },
+          "clive.tries.fed.wiki": {
+            "662275": {
+              "date": 1512240772650,
+              "rev": 40,
+              "algo": "trivial",
+              "sum": 662275
+            },
+            "662437": {
+              "date": 1512240963916,
+              "rev": 42,
+              "algo": "trivial",
+              "sum": 662437
+            }
+          }
+        }
+      },
+      "date": 1608943947712
     }
   ]
 }

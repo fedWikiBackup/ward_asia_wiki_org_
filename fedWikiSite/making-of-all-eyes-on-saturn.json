@@ -110,6 +110,36 @@
       "type": "paragraph",
       "id": "d4fe7b5092438e72",
       "text": "Then it was gone and s-band right after it. I'm sure everyone in mission control knew that was the spacecraft struggling for alignment. X-band must have a narrower beam so it went first. They knew how their machine worked. And it was working then only to be turned to dust 45 seconds later."
+    },
+    {
+      "type": "paragraph",
+      "id": "1303f4145492040d",
+      "text": "Three years pass."
+    },
+    {
+      "type": "paragraph",
+      "id": "724fa397eaf70db2",
+      "text": "I find it awkward to have files at the root level of the assets directory. I see out their usage and move them to new asset folder using our pages/slug convention. "
+    },
+    {
+      "type": "code",
+      "id": "dfc2ef5329ad5cd1",
+      "text": "grep 'Screen Shot 2017-09-15 at 4.54.27 AM.jpg' *"
+    },
+    {
+      "type": "code",
+      "id": "7dad3b370540aca1",
+      "text": "mkdir pages/all-eyes-on-saturn\nmv Screen* pages/all-eyes-on-saturn/"
+    },
+    {
+      "type": "assets",
+      "id": "468cafdc43f6634c",
+      "text": "pages/all-eyes-on-saturn"
+    },
+    {
+      "type": "paragraph",
+      "id": "a6e269c5b85ce7c0",
+      "text": "I similarly move an illustration from the page [[Signature Plugin]]. Clive and I have been sharing that page so I checked if he was still using the image at the old address. No. But my edit invalidated my signature so I signed the page again."
     }
   ],
   "journal": [
@@ -598,6 +628,245 @@
         "text": "I was thinking about Cassini's final moments while I showered. I enlarged my screen shots. There were two radio blips, one for the microwave x-band signal 20db above the noise floor and another for s-band at almost 30db. In the final moments x-band took a dip and then recovered. A second or two later another dip. "
       },
       "date": 1505490252231
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "468cafdc43f6634c"
+      },
+      "id": "468cafdc43f6634c",
+      "type": "add",
+      "after": "d4fe7b5092438e72",
+      "date": 1608941778466
+    },
+    {
+      "type": "edit",
+      "id": "468cafdc43f6634c",
+      "item": {
+        "type": "assets",
+        "id": "468cafdc43f6634c",
+        "text": "pages/all-eyes-on-saturn"
+      },
+      "date": 1608941815034
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1303f4145492040d"
+      },
+      "id": "1303f4145492040d",
+      "type": "add",
+      "after": "468cafdc43f6634c",
+      "date": 1608941911011
+    },
+    {
+      "type": "edit",
+      "id": "1303f4145492040d",
+      "item": {
+        "type": "paragraph",
+        "id": "1303f4145492040d",
+        "text": "Three years pass ..."
+      },
+      "date": 1608941922661
+    },
+    {
+      "id": "1303f4145492040d",
+      "type": "move",
+      "order": [
+        "0ff3f9b9da9b89c6",
+        "4b5e2ed53c562fd6",
+        "2831d9473cd798ee",
+        "76cf5c7ad6c12798",
+        "08df81337b446f3d",
+        "9a2d2526e54b55c5",
+        "0f4540bad7918af5",
+        "b9b5dcd11906998d",
+        "aef02a3664b22ec6",
+        "eb0a4a77453d00a8",
+        "e18e984d089926b0",
+        "17d4bcf9cd73b5fe",
+        "637662ebbd37379a",
+        "d0aedb2116eca1fa",
+        "f187f7155eb4aa5a",
+        "1e29e6c1bc521684",
+        "11db58a67faa7845",
+        "01514cb434441204",
+        "729eb4d3805fdbcc",
+        "ea2bb335ba819487",
+        "cf576fa5ea208969",
+        "d4fe7b5092438e72",
+        "1303f4145492040d",
+        "468cafdc43f6634c"
+      ],
+      "date": 1608941925972
+    },
+    {
+      "type": "add",
+      "id": "724fa397eaf70db2",
+      "item": {
+        "type": "paragraph",
+        "id": "724fa397eaf70db2",
+        "text": "I find it awkward to have files at the root level of the assets directory. I see out their usage and move them to new asset folder using our pages/slug convention. "
+      },
+      "after": "1303f4145492040d",
+      "date": 1608942035527
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dfc2ef5329ad5cd1"
+      },
+      "id": "dfc2ef5329ad5cd1",
+      "type": "add",
+      "after": "468cafdc43f6634c",
+      "date": 1608942063756
+    },
+    {
+      "type": "edit",
+      "id": "dfc2ef5329ad5cd1",
+      "item": {
+        "type": "code",
+        "id": "dfc2ef5329ad5cd1",
+        "text": "grep 'Screen Shot 2017-09-15 at 4.54.27 AM.jpg' *"
+      },
+      "date": 1608942068747
+    },
+    {
+      "id": "dfc2ef5329ad5cd1",
+      "type": "move",
+      "order": [
+        "0ff3f9b9da9b89c6",
+        "4b5e2ed53c562fd6",
+        "2831d9473cd798ee",
+        "76cf5c7ad6c12798",
+        "08df81337b446f3d",
+        "9a2d2526e54b55c5",
+        "0f4540bad7918af5",
+        "b9b5dcd11906998d",
+        "aef02a3664b22ec6",
+        "eb0a4a77453d00a8",
+        "e18e984d089926b0",
+        "17d4bcf9cd73b5fe",
+        "637662ebbd37379a",
+        "d0aedb2116eca1fa",
+        "f187f7155eb4aa5a",
+        "1e29e6c1bc521684",
+        "11db58a67faa7845",
+        "01514cb434441204",
+        "729eb4d3805fdbcc",
+        "ea2bb335ba819487",
+        "cf576fa5ea208969",
+        "d4fe7b5092438e72",
+        "1303f4145492040d",
+        "724fa397eaf70db2",
+        "dfc2ef5329ad5cd1",
+        "468cafdc43f6634c"
+      ],
+      "date": 1608942072144
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7dad3b370540aca1"
+      },
+      "id": "7dad3b370540aca1",
+      "type": "add",
+      "after": "468cafdc43f6634c",
+      "date": 1608942283410
+    },
+    {
+      "type": "edit",
+      "id": "7dad3b370540aca1",
+      "item": {
+        "type": "code",
+        "id": "7dad3b370540aca1",
+        "text": "mv Screen* pages/all-eyes-on-saturn/"
+      },
+      "date": 1608942294479
+    },
+    {
+      "type": "edit",
+      "id": "7dad3b370540aca1",
+      "item": {
+        "type": "code",
+        "id": "7dad3b370540aca1",
+        "text": "mkdir pages/all-eyes-on-saturn\nmv Screen* pages/all-eyes-on-saturn/"
+      },
+      "date": 1608942316079
+    },
+    {
+      "id": "7dad3b370540aca1",
+      "type": "move",
+      "order": [
+        "0ff3f9b9da9b89c6",
+        "4b5e2ed53c562fd6",
+        "2831d9473cd798ee",
+        "76cf5c7ad6c12798",
+        "08df81337b446f3d",
+        "9a2d2526e54b55c5",
+        "0f4540bad7918af5",
+        "b9b5dcd11906998d",
+        "aef02a3664b22ec6",
+        "eb0a4a77453d00a8",
+        "e18e984d089926b0",
+        "17d4bcf9cd73b5fe",
+        "637662ebbd37379a",
+        "d0aedb2116eca1fa",
+        "f187f7155eb4aa5a",
+        "1e29e6c1bc521684",
+        "11db58a67faa7845",
+        "01514cb434441204",
+        "729eb4d3805fdbcc",
+        "ea2bb335ba819487",
+        "cf576fa5ea208969",
+        "d4fe7b5092438e72",
+        "1303f4145492040d",
+        "724fa397eaf70db2",
+        "dfc2ef5329ad5cd1",
+        "7dad3b370540aca1",
+        "468cafdc43f6634c"
+      ],
+      "date": 1608942317918
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a6e269c5b85ce7c0"
+      },
+      "id": "a6e269c5b85ce7c0",
+      "type": "add",
+      "after": "468cafdc43f6634c",
+      "date": 1608943158150
+    },
+    {
+      "type": "edit",
+      "id": "a6e269c5b85ce7c0",
+      "item": {
+        "type": "paragraph",
+        "id": "a6e269c5b85ce7c0",
+        "text": "I similarly move an illustration from the page [[Signature Plugin]]. Clive and I have been sharing that page so I checked if he was still using the image at the old address. No. But my edit invalidated my signature so I signed it again."
+      },
+      "date": 1608943272781
+    },
+    {
+      "type": "edit",
+      "id": "a6e269c5b85ce7c0",
+      "item": {
+        "type": "paragraph",
+        "id": "a6e269c5b85ce7c0",
+        "text": "I similarly move an illustration from the page [[Signature Plugin]]. Clive and I have been sharing that page so I checked if he was still using the image at the old address. No. But my edit invalidated my signature so I signed the page again."
+      },
+      "date": 1608943285381
+    },
+    {
+      "type": "edit",
+      "id": "1303f4145492040d",
+      "item": {
+        "type": "paragraph",
+        "id": "1303f4145492040d",
+        "text": "Three years pass."
+      },
+      "date": 1608943472160
     }
   ]
 }
