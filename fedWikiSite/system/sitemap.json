@@ -1,11 +1,5 @@
 [
   {
-    "slug": "-federated-wiki-design-principles",
-    "title": " Federated Wiki Design Principles",
-    "date": 1450538077631,
-    "synopsis": "SITES splash.fed.wiki.org"
-  },
-  {
     "slug": "2001-geocaches",
     "title": "2001 Geocaches",
     "date": 1469059966790,
@@ -110,7 +104,7 @@
   {
     "slug": "all-eyes-on-saturn",
     "title": "All Eyes on Saturn",
-    "date": 1505490343014,
+    "date": 1608942364698,
     "synopsis": "I got up this morning to watch the live feed from JPL as the Cassini spacecraft tumbled into Saturn's atmosphere. Cassini's thruster stabilization switched to high gain as it struggled to point its antenna to Earth. A minute passed. Then the last blip on the radio spectrum was gone,"
   },
   {
@@ -1592,7 +1586,7 @@
   {
     "slug": "making-of-all-eyes-on-saturn",
     "title": "Making of All Eyes on Saturn",
-    "date": 1505490252231,
+    "date": 1608943472160,
     "synopsis": "I watched the video feed from JPL as the Cassini spacecraft burned in Saturn's atmosphere. I took a few screen shots and felt compelled to share them. This took some work."
   },
   {
@@ -2533,7 +2527,7 @@
   {
     "slug": "signature-plugin",
     "title": "Signature Plugin",
-    "date": 1519154485138,
+    "date": 1608943947712,
     "synopsis": "We will try out the plugin here. For the moment we are interested mostly in workflow enabled by wiki with only a nod to digital signatures."
   },
   {
