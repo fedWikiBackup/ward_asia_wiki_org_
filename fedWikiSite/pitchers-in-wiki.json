@@ -9,7 +9,7 @@
     {
       "type": "html",
       "id": "65bf78bacf5b20cd",
-      "text": "<video controls width=100% src=http://ward.asia.wiki.org/assets/IMG_2142.MOV></video>"
+      "text": "<video controls width=100% src=http://ward.asia.wiki.org/assets/pages/pitchers-in-wiki/IMG_2142.mov></video>"
     },
     {
       "type": "paragraph",
@@ -20,6 +20,11 @@
       "type": "paragraph",
       "id": "1145f432cef179f9",
       "text": "See [[Image Assets]] for early thinking that lead us here."
+    },
+    {
+      "type": "assets",
+      "id": "8ee5ae04d87d2f47",
+      "text": "pages/pitchers-in-wiki"
     }
   ],
   "journal": [
@@ -149,6 +154,46 @@
         "text": "<video controls width=100% src=http://ward.asia.wiki.org/assets/IMG_2142.MOV></video>"
       },
       "date": 1504568651594
+    },
+    {
+      "type": "edit",
+      "id": "65bf78bacf5b20cd",
+      "item": {
+        "type": "html",
+        "id": "65bf78bacf5b20cd",
+        "text": "<video controls width=100% src=http://ward.asia.wiki.org/assets/pages/pitchers-in-wiki/IMG_2142.MOV></video>"
+      },
+      "date": 1608939959323
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8ee5ae04d87d2f47"
+      },
+      "id": "8ee5ae04d87d2f47",
+      "type": "add",
+      "after": "1145f432cef179f9",
+      "date": 1608939974772
+    },
+    {
+      "type": "edit",
+      "id": "8ee5ae04d87d2f47",
+      "item": {
+        "type": "assets",
+        "id": "8ee5ae04d87d2f47",
+        "text": "pages/pitchers-in-wiki"
+      },
+      "date": 1608939989265
+    },
+    {
+      "type": "edit",
+      "id": "65bf78bacf5b20cd",
+      "item": {
+        "type": "html",
+        "id": "65bf78bacf5b20cd",
+        "text": "<video controls width=100% src=http://ward.asia.wiki.org/assets/pages/pitchers-in-wiki/IMG_2142.mov></video>"
+      },
+      "date": 1608940030283
     }
   ]
 }
