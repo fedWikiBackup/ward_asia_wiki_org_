@@ -2006,7 +2006,7 @@
   {
     "slug": "pitchers-in-wiki",
     "title": "Pitchers in Wiki",
-    "date": 1504568651594,
+    "date": 1608940030283,
     "synopsis": "We can now store pitchers and other large assets and serve them from a wiki site."
   },
   {
@@ -2587,13 +2587,13 @@
   {
     "slug": "smallest-deployed",
     "title": "Smallest Deployed",
-    "date": 1608351810550,
+    "date": 1608938733034,
     "synopsis": "On the third day I deployed [[Smallest Wiki Revisited]] on a production server with 400 claimed sites. I feel safe since I only grant deno read access. [http://ward.asia.wiki.org:4444 site]"
   },
   {
     "slug": "smallest-wiki-revisited",
     "title": "Smallest Wiki Revisited",
-    "date": 1608828309511,
+    "date": 1608939508242,
     "synopsis": "We ask, what is the least code with which a community can collaborate with each other and the larger federation?"
   },
   {
