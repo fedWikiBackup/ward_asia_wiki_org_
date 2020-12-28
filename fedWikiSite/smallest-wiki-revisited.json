@@ -90,6 +90,11 @@
       "text": "We separate path?query#fragment where query params will be available to users for customizing client and server. See [[Client Type Modules]]"
     },
     {
+      "type": "paragraph",
+      "id": "0f2db63b7421a62e",
+      "text": "Wiki based authoring environment for new and limited circulation plugins. See [[Make Plugin Page]]"
+    },
+    {
       "type": "html",
       "id": "c931dd291c74bde2",
       "text": "<img width=100% src=https://upload.wikimedia.org/wikipedia/commons/d/d6/URI_syntax_diagram.svg>"
@@ -910,6 +915,17 @@
       "type": "remove",
       "id": "74f79e8f21535652",
       "date": 1608939508242
+    },
+    {
+      "type": "add",
+      "id": "0f2db63b7421a62e",
+      "item": {
+        "type": "paragraph",
+        "id": "0f2db63b7421a62e",
+        "text": "Wiki based authoring environment for new and limited circulation plugins. See [[Make Plugin Page]]"
+      },
+      "after": "73ce5526dc07c99c",
+      "date": 1609179227331
     }
   ]
 }
