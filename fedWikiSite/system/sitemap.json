@@ -2587,7 +2587,7 @@
   {
     "slug": "smallest-wiki-revisited",
     "title": "Smallest Wiki Revisited",
-    "date": 1608939508242,
+    "date": 1609179227331,
     "synopsis": "We ask, what is the least code with which a community can collaborate with each other and the larger federation?"
   },
   {
@@ -3369,5 +3369,17 @@
     "title": "Zero-Steps to Claim",
     "date": 1448891062256,
     "synopsis": "A new site could be \"born claimed\". The server could generate a suitable credential and share it with the first visitor's browser. This initiates the \"claim\" process. Let's call this the zero-steps to claim solution. We here consider how it could then be supplemented with more traditional account management and login mechanisms."
+  },
+  {
+    "slug": "make-plugin-page",
+    "title": "Make Plugin Page",
+    "date": 1609182034366,
+    "synopsis": "New strategy for making plugins. This starts at the Make New Plugin page. See [[Client Type Modules]]"
+  },
+  {
+    "slug": "smallest-wiki-explained",
+    "title": "Smallest Wiki Explained",
+    "date": 1608829646881,
+    "synopsis": "We imagine two files to make a read only wiki: host and view. We supplement this with two more files for authoring: edit and update. [https://github.com/WardCunningham/assets/tree/master/pages/smallest-wiki-revisited github]"
   }
 ]
