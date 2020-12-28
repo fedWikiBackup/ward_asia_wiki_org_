@@ -9,12 +9,12 @@
     {
       "type": "paragraph",
       "id": "27e2472afd94b76f",
-      "text": "You fill out a form with basic info like the plugin name and what it does. You also describe what markup keywords will have special meaning and what data sources you consume and/or provide. Then press download to get your new plugin. Drag that to your plugin assets folder and you are operational.\n"
+      "text": "You fill out a form with basic info like the plugin name and what it does. You also describe what markup keywords will have special meaning and what data sources you consume and/or provide. Then press download to get your new plugin. Drag that to your plugin assets folder and you are operational. See [[About Map Plugin]]"
     },
     {
       "type": "html",
       "id": "765a7daccf6c3634",
-      "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"min-height:280px;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n\n<center><button>download</button></center>\n</div>"
+      "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"min-height:80px;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n\n<label>markup keywords<br>\n<textarea style=\"min-height:40px;\">BOUNDARY LINEUP WEBLINK OVERLAY</textarea><br>\n\n<label>data sources consumed or emitted<br>\n<textarea style=\"min-height:40px;\">marker-source boundary-source</textarea><br>\n\n<center><button>download</button></center>\n</div>"
     },
     {
       "type": "paragraph",
@@ -475,6 +475,60 @@
         "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"min-height:280px;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n\n<center><button>download</button></center>\n</div>"
       },
       "date": 1609182720951
+    },
+    {
+      "type": "edit",
+      "id": "765a7daccf6c3634",
+      "item": {
+        "type": "html",
+        "id": "765a7daccf6c3634",
+        "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"min-height:80px;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n\n<center><button>download</button></center>\n</div>"
+      },
+      "date": 1609193694578
+    },
+    {
+      "type": "fork",
+      "date": 1609193813409
+    },
+    {
+      "type": "edit",
+      "id": "765a7daccf6c3634",
+      "item": {
+        "type": "html",
+        "id": "765a7daccf6c3634",
+        "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"min-height:80px;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n\n<label>markup keywords<br>\n<textarea style=\"min-height:80px;\">BOUNDARY LINEUP</textarea><br>\n\n<label>data sources consumed or emitted<br>\n<textarea style=\"min-height:80px;\">marker-source boundary-source</textarea><br>\n\n<center><button>download</button></center>\n</div>"
+      },
+      "date": 1609194001608
+    },
+    {
+      "type": "edit",
+      "id": "765a7daccf6c3634",
+      "item": {
+        "type": "html",
+        "id": "765a7daccf6c3634",
+        "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"min-height:80px;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n\n<label>markup keywords<br>\n<textarea style=\"min-height:40px;\">BOUNDARY LINEUP</textarea><br>\n\n<label>data sources consumed or emitted<br>\n<textarea style=\"min-height:40px;\">marker-source boundary-source</textarea><br>\n\n<center><button>download</button></center>\n</div>"
+      },
+      "date": 1609194022814
+    },
+    {
+      "type": "edit",
+      "id": "765a7daccf6c3634",
+      "item": {
+        "type": "html",
+        "id": "765a7daccf6c3634",
+        "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"min-height:80px;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n\n<label>markup keywords<br>\n<textarea style=\"min-height:40px;\">BOUNDARY LINEUP WEBLINK OVERLAY</textarea><br>\n\n<label>data sources consumed or emitted<br>\n<textarea style=\"min-height:40px;\">marker-source boundary-source</textarea><br>\n\n<center><button>download</button></center>\n</div>"
+      },
+      "date": 1609194102976
+    },
+    {
+      "type": "edit",
+      "id": "27e2472afd94b76f",
+      "item": {
+        "type": "paragraph",
+        "id": "27e2472afd94b76f",
+        "text": "You fill out a form with basic info like the plugin name and what it does. You also describe what markup keywords will have special meaning and what data sources you consume and/or provide. Then press download to get your new plugin. Drag that to your plugin assets folder and you are operational. See [[About Map Plugin]]"
+      },
+      "date": 1609194320357
     }
   ]
 }
