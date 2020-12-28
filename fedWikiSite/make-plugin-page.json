@@ -14,7 +14,7 @@
     {
       "type": "html",
       "id": "765a7daccf6c3634",
-      "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input type=text name=type value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea height=3em>This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n<center><button>download</button></center>\n</div>"
+      "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"min-height:280px;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n\n<center><button>download</button></center>\n</div>"
     },
     {
       "type": "paragraph",
@@ -415,6 +415,66 @@
         "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input type=text name=type value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea height=3em>This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n<center><button>download</button></center>\n</div>"
       },
       "date": 1609182034366
+    },
+    {
+      "type": "edit",
+      "id": "765a7daccf6c3634",
+      "item": {
+        "type": "html",
+        "id": "765a7daccf6c3634",
+        "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea height=3em>This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n<center><button>download</button></center>\n</div>"
+      },
+      "date": 1609182320511
+    },
+    {
+      "type": "edit",
+      "id": "765a7daccf6c3634",
+      "item": {
+        "type": "html",
+        "id": "765a7daccf6c3634",
+        "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"height:3em;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n<center><button>download</button></center>\n</div>"
+      },
+      "date": 1609182359642
+    },
+    {
+      "type": "edit",
+      "id": "765a7daccf6c3634",
+      "item": {
+        "type": "html",
+        "id": "765a7daccf6c3634",
+        "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"min-height:4em;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n<center><button>download</button></center>\n</div>"
+      },
+      "date": 1609182555733
+    },
+    {
+      "type": "edit",
+      "id": "765a7daccf6c3634",
+      "item": {
+        "type": "html",
+        "id": "765a7daccf6c3634",
+        "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"min-height:80px;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n<center><button>download</button></center>\n</div>"
+      },
+      "date": 1609182587315
+    },
+    {
+      "type": "edit",
+      "id": "765a7daccf6c3634",
+      "item": {
+        "type": "html",
+        "id": "765a7daccf6c3634",
+        "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"min-height:80px;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n\n<center><button>download</button></center>\n</div>"
+      },
+      "date": 1609182692920
+    },
+    {
+      "type": "edit",
+      "id": "765a7daccf6c3634",
+      "item": {
+        "type": "html",
+        "id": "765a7daccf6c3634",
+        "text": "<div style=\"background-color:#eee;padding:15px; margin-block-start:1em; margin-block-end:1em;\">\n\n<label>plugin type<br>\n<input value=map>\n</label><br>\n\n<label>plugin description<br>\n<textarea style=\"min-height:280px;\">This plugin displays a map and caption along with markers from various sources. Explore by scrolling and zooming. Move by dragging the caption.</textarea><br>\n\n<center><button>download</button></center>\n</div>"
+      },
+      "date": 1609182720951
     }
   ]
 }
