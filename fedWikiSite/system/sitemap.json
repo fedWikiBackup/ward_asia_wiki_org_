@@ -2587,7 +2587,7 @@
   {
     "slug": "smallest-wiki-revisited",
     "title": "Smallest Wiki Revisited",
-    "date": 1609179227331,
+    "date": 1609622628355,
     "synopsis": "We ask, what is the least code with which a community can collaborate with each other and the larger federation?"
   },
   {
@@ -3381,5 +3381,11 @@
     "title": "Smallest Wiki Explained",
     "date": 1608829646881,
     "synopsis": "We imagine two files to make a read only wiki: host and view. We supplement this with two more files for authoring: edit and update. [https://github.com/WardCunningham/assets/tree/master/pages/smallest-wiki-revisited github]"
+  },
+  {
+    "slug": "guidance-for-a-small-wiki",
+    "title": "Guidance for a Small Wiki",
+    "date": 1609623344268,
+    "synopsis": "We dive progressively deeper into into what we want of a small wiki and how we might implement it."
   }
 ]
