@@ -90,14 +90,19 @@
       "text": "We separate path?query#fragment where query params will be available to users for customizing client and server. See [[Client Type Modules]]"
     },
     {
+      "type": "html",
+      "id": "c931dd291c74bde2",
+      "text": "<img width=100% src=https://upload.wikimedia.org/wikipedia/commons/d/d6/URI_syntax_diagram.svg>"
+    },
+    {
       "type": "paragraph",
       "id": "0f2db63b7421a62e",
       "text": "Wiki based authoring environment for new and limited circulation plugins. See [[Make Plugin Page]]"
     },
     {
-      "type": "html",
-      "id": "c931dd291c74bde2",
-      "text": "<img width=100% src=https://upload.wikimedia.org/wikipedia/commons/d/d6/URI_syntax_diagram.svg>"
+      "type": "paragraph",
+      "id": "72b8c3b9a88b103e",
+      "text": "Experiments proliferate and implementations diverge. This may or may not be too soon for unity. See [[Guidance for a Small Wiki]]"
     },
     {
       "type": "markdown",
@@ -108,11 +113,6 @@
       "type": "paragraph",
       "id": "b6a7a8282f6054ac",
       "text": "Alias item ids when duplicated."
-    },
-    {
-      "type": "paragraph",
-      "id": "72b8c3b9a88b103e",
-      "text": "Experiments proliferate and implementations diverge. This may or may not be too soon for unity. See [[Guidance for a Small Wiki]]"
     }
   ],
   "journal": [
@@ -951,6 +951,93 @@
         "text": "Experiments proliferate and implementations diverge. This may or may not be too soon for unity. See [[Guidance for a Small Wiki]]"
       },
       "date": 1609622628355
+    },
+    {
+      "id": "72b8c3b9a88b103e",
+      "type": "move",
+      "order": [
+        "53d4c9b19c0a7f8e",
+        "3118627a0fef826f",
+        "2a04b2b40f6f3689",
+        "3ce3612106f307a1",
+        "46e0b23fde2aefbe",
+        "3dc5c214e64af495",
+        "59ce36f0cac79a53",
+        "13e6ecfb815abbc1",
+        "608c0fedd064a659",
+        "521aea417fb37372",
+        "d84fe1d019edd972",
+        "51a0299482a3c10f",
+        "8d41e0b060e26c9a",
+        "e13729e93ad16709",
+        "ab805dad91d38da7",
+        "57988a9cd67316b9",
+        "73ce5526dc07c99c",
+        "0f2db63b7421a62e",
+        "c931dd291c74bde2",
+        "72b8c3b9a88b103e",
+        "8b2bae86d97f3cf4",
+        "b6a7a8282f6054ac"
+      ],
+      "date": 1609625663405
+    },
+    {
+      "id": "c931dd291c74bde2",
+      "type": "move",
+      "order": [
+        "53d4c9b19c0a7f8e",
+        "3118627a0fef826f",
+        "2a04b2b40f6f3689",
+        "3ce3612106f307a1",
+        "46e0b23fde2aefbe",
+        "3dc5c214e64af495",
+        "59ce36f0cac79a53",
+        "13e6ecfb815abbc1",
+        "608c0fedd064a659",
+        "521aea417fb37372",
+        "d84fe1d019edd972",
+        "51a0299482a3c10f",
+        "8d41e0b060e26c9a",
+        "e13729e93ad16709",
+        "ab805dad91d38da7",
+        "57988a9cd67316b9",
+        "c931dd291c74bde2",
+        "73ce5526dc07c99c",
+        "0f2db63b7421a62e",
+        "72b8c3b9a88b103e",
+        "8b2bae86d97f3cf4",
+        "b6a7a8282f6054ac"
+      ],
+      "date": 1609625692389
+    },
+    {
+      "id": "c931dd291c74bde2",
+      "type": "move",
+      "order": [
+        "53d4c9b19c0a7f8e",
+        "3118627a0fef826f",
+        "2a04b2b40f6f3689",
+        "3ce3612106f307a1",
+        "46e0b23fde2aefbe",
+        "3dc5c214e64af495",
+        "59ce36f0cac79a53",
+        "13e6ecfb815abbc1",
+        "608c0fedd064a659",
+        "521aea417fb37372",
+        "d84fe1d019edd972",
+        "51a0299482a3c10f",
+        "8d41e0b060e26c9a",
+        "e13729e93ad16709",
+        "ab805dad91d38da7",
+        "57988a9cd67316b9",
+        "73ce5526dc07c99c",
+        "c931dd291c74bde2",
+        "0f2db63b7421a62e",
+        "72b8c3b9a88b103e",
+        "8b2bae86d97f3cf4",
+        "b6a7a8282f6054ac"
+      ],
+      "date": 1609625703274
     }
   ]
 }
