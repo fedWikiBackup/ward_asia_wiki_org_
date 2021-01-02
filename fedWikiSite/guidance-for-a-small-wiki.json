@@ -25,6 +25,16 @@
       "type": "paragraph",
       "id": "4101202a46feb331",
       "text": "We want our work safe when it is being worked and stable when left unattended."
+    },
+    {
+      "type": "pagefold",
+      "id": "413b7586a05d99e4",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "26fef8a07f6e3118",
+      "text": "This top-down approach is not working for me. I am so far away from important decisions I feel I must work on those, or on an environment for making those before writing about them here."
     }
   ],
   "journal": [
@@ -108,6 +118,61 @@
       },
       "after": "efd76b39f29f7058",
       "date": 1609623344268
+    },
+    {
+      "type": "add",
+      "id": "26fef8a07f6e3118",
+      "item": {
+        "type": "paragraph",
+        "id": "26fef8a07f6e3118",
+        "text": "Note: this top-down approach is not working for me. I am so far away from important decisions I feel I must work on those, or on an environment for making those before writing about them here."
+      },
+      "after": "4101202a46feb331",
+      "date": 1609624878170
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "413b7586a05d99e4"
+      },
+      "id": "413b7586a05d99e4",
+      "type": "add",
+      "after": "26fef8a07f6e3118",
+      "date": 1609624884450
+    },
+    {
+      "type": "edit",
+      "id": "413b7586a05d99e4",
+      "item": {
+        "type": "pagefold",
+        "id": "413b7586a05d99e4",
+        "text": "."
+      },
+      "date": 1609624888425
+    },
+    {
+      "id": "413b7586a05d99e4",
+      "type": "move",
+      "order": [
+        "a9b05024d455d703",
+        "3e2231fb3275455e",
+        "990fd3b7846c2084",
+        "efd76b39f29f7058",
+        "4101202a46feb331",
+        "413b7586a05d99e4",
+        "26fef8a07f6e3118"
+      ],
+      "date": 1609624891177
+    },
+    {
+      "type": "edit",
+      "id": "26fef8a07f6e3118",
+      "item": {
+        "type": "paragraph",
+        "id": "26fef8a07f6e3118",
+        "text": "This top-down approach is not working for me. I am so far away from important decisions I feel I must work on those, or on an environment for making those before writing about them here."
+      },
+      "date": 1609624902197
     }
   ]
 }
