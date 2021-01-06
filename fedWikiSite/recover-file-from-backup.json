@@ -1,0 +1,39 @@
+{
+  "title": "Recover File from Backup",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "a8805e5752c0db80",
+      "text": "I recently lost a file while debugging from the presumed trustworthy admin site asia.wiki.org. This doesn't make sense. But these are the steps I followed to recover the file and these do make sense."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Recover File from Backup",
+        "story": []
+      },
+      "date": 1609945095962
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a8805e5752c0db80"
+      },
+      "id": "a8805e5752c0db80",
+      "type": "add",
+      "date": 1609945104040
+    },
+    {
+      "type": "edit",
+      "id": "a8805e5752c0db80",
+      "item": {
+        "type": "paragraph",
+        "id": "a8805e5752c0db80",
+        "text": "I recently lost a file while debugging from the presumed trustworthy admin site asia.wiki.org. This doesn't make sense. But these are the steps I followed to recover the file and these do make sense."
+      },
+      "date": 1609945212540
+    }
+  ]
+}

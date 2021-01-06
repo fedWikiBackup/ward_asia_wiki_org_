@@ -5766,5 +5766,11 @@
       "login": "b46d6ae3d652d0e8",
       "forgot-password": "a1af9125cd46f73d"
     }
+  },
+  {
+    "slug": "recover-file-from-backup",
+    "title": "Recover File from Backup",
+    "date": 1609945212540,
+    "synopsis": "I recently lost a file while debugging from the presumed trustworthy admin site asia.wiki.org. This doesn't make sense. But these are the steps I followed to recover the file and these do make sense."
   }
 ]
