@@ -701,13 +701,12 @@
   {
     "slug": "config-notes",
     "title": "Config Notes",
-    "date": 1547278260874,
-    "synopsis": "We notice where important server files get installed. See also [[Wiki Admin]], [[Wiki Relocation]], [[Server Startup]]",
+    "date": 1610121357763,
+    "synopsis": "We notice where important server files get installed. See also [[Wiki Admin]], [[Wiki Relocation]]",
     "links": {
       "wiki-admin": "6dd4ca0298c4a477",
       "wiki-relocation": "6dd4ca0298c4a477",
-      "server-startup": "6dd4ca0298c4a477",
-      "setting-up-systemd": "79873ae7a12f668e"
+      "setting-up-systemd": "86bc6a7485f5f35b"
     }
   },
   {
