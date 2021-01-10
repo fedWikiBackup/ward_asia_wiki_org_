@@ -4320,8 +4320,8 @@
   {
     "slug": "sitemap-scrape-statistics",
     "title": "Sitemap Scrape Statistics",
-    "date": 1465073172963,
-    "synopsis": "We collect various counts while scraping sitemaps and report them as a text file. Here we plot the most recent counts available.",
+    "date": 1610238475473,
+    "synopsis": "We collect various counts while scraping and report them as a text file. [http://search.fed.wiki.org:3030/counts.txt json]",
     "links": {
       "search-index-downloads": "ec65bc1a2cb5d714"
     }

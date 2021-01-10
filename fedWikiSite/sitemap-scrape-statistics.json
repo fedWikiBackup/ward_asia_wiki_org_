@@ -11,12 +11,12 @@
     {
       "type": "paragraph",
       "id": "65db691a1c9291cd",
-      "text": "We collect various counts while scraping sitemaps and report them as a text file. Here we plot the most recent counts available. "
+      "text": "We collect various counts while scraping and report them as a text file. [http://search.fed.wiki.org:3030/counts.txt json]"
     },
     {
       "type": "paragraph",
-      "id": "7a3b82537300d317",
-      "text": "[http://search.fed.wiki.org:3030/counts.html plots]"
+      "id": "ae4256ce233cac77",
+      "text": "Here we plot the most recent counts available. \n [http://search.fed.wiki.org:3030/counts.html plots]"
     },
     {
       "type": "paragraph",
@@ -457,6 +457,72 @@
         "text": "Now with runtime range from 20-80 minutes, tolerating timezone and daylight shifts. [https://github.com/WardCunningham/search/compare/556592...645ab2c github]"
       },
       "date": 1465073172963
+    },
+    {
+      "type": "edit",
+      "id": "65db691a1c9291cd",
+      "item": {
+        "type": "paragraph",
+        "id": "65db691a1c9291cd",
+        "text": "We collect various counts while scraping sitemaps and report them as a text file. Here we plot the most recent counts available. [http://search.fed.wiki.org:3030/counts.txt json]"
+      },
+      "date": 1610238402731
+    },
+    {
+      "type": "edit",
+      "id": "65db691a1c9291cd",
+      "item": {
+        "type": "paragraph",
+        "id": "65db691a1c9291cd",
+        "text": "We collect various counts while scraping sitemaps and report them as a text file.[http://search.fed.wiki.org:3030/counts.txt json]"
+      },
+      "date": 1610238428339
+    },
+    {
+      "type": "add",
+      "id": "ae4256ce233cac77",
+      "item": {
+        "type": "paragraph",
+        "id": "ae4256ce233cac77",
+        "text": "Here we plot the most recent counts available. "
+      },
+      "after": "65db691a1c9291cd",
+      "date": 1610238434149
+    },
+    {
+      "type": "remove",
+      "id": "7a3b82537300d317",
+      "date": 1610238438992
+    },
+    {
+      "type": "edit",
+      "id": "ae4256ce233cac77",
+      "item": {
+        "type": "paragraph",
+        "id": "ae4256ce233cac77",
+        "text": "Here we plot the most recent counts available. \n [http://search.fed.wiki.org:3030/counts.html plots]"
+      },
+      "date": 1610238442615
+    },
+    {
+      "type": "edit",
+      "id": "65db691a1c9291cd",
+      "item": {
+        "type": "paragraph",
+        "id": "65db691a1c9291cd",
+        "text": "We collect various counts while scraping and report them as a text file.[http://search.fed.wiki.org:3030/counts.txt json]"
+      },
+      "date": 1610238470041
+    },
+    {
+      "type": "edit",
+      "id": "65db691a1c9291cd",
+      "item": {
+        "type": "paragraph",
+        "id": "65db691a1c9291cd",
+        "text": "We collect various counts while scraping and report them as a text file. [http://search.fed.wiki.org:3030/counts.txt json]"
+      },
+      "date": 1610238475473
     }
   ]
 }
