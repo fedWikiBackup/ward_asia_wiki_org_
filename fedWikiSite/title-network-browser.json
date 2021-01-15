@@ -85,6 +85,21 @@
     },
     {
       "type": "markdown",
+      "id": "674b634eb6557ef9",
+      "text": "# Search"
+    },
+    {
+      "type": "paragraph",
+      "id": "cad4999fa8a02351",
+      "text": "To find pages, copy the slug from the location bar."
+    },
+    {
+      "type": "search",
+      "id": "e293cbb40fb56a7b",
+      "text": "SEARCH SLUGS INPUT"
+    },
+    {
+      "type": "markdown",
       "id": "45f16928044712ec",
       "text": "# Download"
     },
@@ -874,6 +889,200 @@
         "text": "From one starting point this web application displays reachable titles following links forward or backwards two hops. Find a link to this interactive tool in the caption to the right."
       },
       "date": 1444489936217
+    },
+    {
+      "type": "add",
+      "id": "674b634eb6557ef9",
+      "item": {
+        "type": "paragraph",
+        "id": "674b634eb6557ef9",
+        "text": "# Search"
+      },
+      "after": "551837c04cd99f10",
+      "date": 1610736780220
+    },
+    {
+      "type": "add",
+      "id": "cad4999fa8a02351",
+      "item": {
+        "type": "paragraph",
+        "id": "cad4999fa8a02351",
+        "text": "You can find pages for slugs here."
+      },
+      "after": "674b634eb6557ef9",
+      "date": 1610736811794
+    },
+    {
+      "type": "edit",
+      "id": "674b634eb6557ef9",
+      "item": {
+        "type": "markdown",
+        "id": "674b634eb6557ef9",
+        "text": "# Search"
+      },
+      "date": 1610736815927
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e293cbb40fb56a7b"
+      },
+      "id": "e293cbb40fb56a7b",
+      "type": "add",
+      "after": "be47ad9bb1743ca9",
+      "date": 1610736818698
+    },
+    {
+      "type": "edit",
+      "id": "e293cbb40fb56a7b",
+      "item": {
+        "type": "search",
+        "id": "e293cbb40fb56a7b",
+        "text": "SEARCH SLUGS INPUT"
+      },
+      "date": 1610736827782
+    },
+    {
+      "id": "e293cbb40fb56a7b",
+      "type": "move",
+      "order": [
+        "3ae2a000b6ce1060",
+        "665c6130268aa425",
+        "5051715837a7564e",
+        "6a06d37e85074f7b",
+        "3cd732cb85ae41b4",
+        "1cf4302dd216b5b1",
+        "8d9089b26a445e5f",
+        "bde3389b211400e3",
+        "2f8ad2221f1a153a",
+        "a21f9d4d5fe619f1",
+        "db7b74a5680eb448",
+        "56a2e05a0bddad54",
+        "4a896b3681161580",
+        "05b506d7aa8241ab",
+        "88333db558a0c50b",
+        "551837c04cd99f10",
+        "674b634eb6557ef9",
+        "cad4999fa8a02351",
+        "45f16928044712ec",
+        "fa9c5d949cb7f625",
+        "4c64b6e3f02a901a",
+        "e293cbb40fb56a7b",
+        "d10038224855081f",
+        "2d9081246f71cf54",
+        "3a1d48de90e4a519",
+        "117b894d4f348a4e",
+        "be47ad9bb1743ca9"
+      ],
+      "date": 1610736833179
+    },
+    {
+      "id": "e293cbb40fb56a7b",
+      "type": "move",
+      "order": [
+        "3ae2a000b6ce1060",
+        "665c6130268aa425",
+        "5051715837a7564e",
+        "6a06d37e85074f7b",
+        "3cd732cb85ae41b4",
+        "1cf4302dd216b5b1",
+        "8d9089b26a445e5f",
+        "bde3389b211400e3",
+        "2f8ad2221f1a153a",
+        "a21f9d4d5fe619f1",
+        "db7b74a5680eb448",
+        "56a2e05a0bddad54",
+        "4a896b3681161580",
+        "05b506d7aa8241ab",
+        "88333db558a0c50b",
+        "551837c04cd99f10",
+        "674b634eb6557ef9",
+        "e293cbb40fb56a7b",
+        "cad4999fa8a02351",
+        "45f16928044712ec",
+        "fa9c5d949cb7f625",
+        "4c64b6e3f02a901a",
+        "d10038224855081f",
+        "2d9081246f71cf54",
+        "3a1d48de90e4a519",
+        "117b894d4f348a4e",
+        "be47ad9bb1743ca9"
+      ],
+      "date": 1610736837422
+    },
+    {
+      "id": "e293cbb40fb56a7b",
+      "type": "move",
+      "order": [
+        "3ae2a000b6ce1060",
+        "665c6130268aa425",
+        "5051715837a7564e",
+        "6a06d37e85074f7b",
+        "3cd732cb85ae41b4",
+        "1cf4302dd216b5b1",
+        "8d9089b26a445e5f",
+        "bde3389b211400e3",
+        "2f8ad2221f1a153a",
+        "a21f9d4d5fe619f1",
+        "db7b74a5680eb448",
+        "56a2e05a0bddad54",
+        "4a896b3681161580",
+        "05b506d7aa8241ab",
+        "88333db558a0c50b",
+        "551837c04cd99f10",
+        "674b634eb6557ef9",
+        "cad4999fa8a02351",
+        "e293cbb40fb56a7b",
+        "45f16928044712ec",
+        "fa9c5d949cb7f625",
+        "4c64b6e3f02a901a",
+        "d10038224855081f",
+        "2d9081246f71cf54",
+        "3a1d48de90e4a519",
+        "117b894d4f348a4e",
+        "be47ad9bb1743ca9"
+      ],
+      "date": 1610736843222
+    },
+    {
+      "type": "edit",
+      "id": "cad4999fa8a02351",
+      "item": {
+        "type": "paragraph",
+        "id": "cad4999fa8a02351",
+        "text": "To find pages, copy the slug from the location bar."
+      },
+      "date": 1610737142851
+    },
+    {
+      "type": "edit",
+      "id": "cad4999fa8a02351",
+      "item": {
+        "type": "paragraph",
+        "id": "cad4999fa8a02351",
+        "text": "To find pages for a title, copy the slug from the location bar."
+      },
+      "date": 1610737185003
+    },
+    {
+      "type": "edit",
+      "id": "cad4999fa8a02351",
+      "item": {
+        "type": "paragraph",
+        "id": "cad4999fa8a02351",
+        "text": "To find pages for a title, copy the slug from location bar."
+      },
+      "date": 1610737197041
+    },
+    {
+      "type": "edit",
+      "id": "cad4999fa8a02351",
+      "item": {
+        "type": "paragraph",
+        "id": "cad4999fa8a02351",
+        "text": "To find pages, copy the slug from the location bar."
+      },
+      "date": 1610737214213
     }
   ]
 }
