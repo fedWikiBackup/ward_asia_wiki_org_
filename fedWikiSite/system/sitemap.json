@@ -3331,7 +3331,7 @@
   {
     "slug": "outpost-thinking",
     "title": "Outpost Thinking",
-    "date": 1608756161650,
+    "date": 1610746985487,
     "synopsis": "We built the federation based on the promiscuous sharing of simple things with the hope that this would lead the community to save indefinitely things worth saving. Within a year we had moved from ruby to node without leaving ruby sites behind. Now, in the federation's ninth year, we consider how this process might be further distributed.",
     "links": {
       "federation-friendly-outposts": "758c33e5e69b47ed",
