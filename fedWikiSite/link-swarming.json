@@ -69,7 +69,7 @@
     {
       "type": "paragraph",
       "id": "3e61ab1829317de1",
-      "text": "A swarm will close after a week of inactivity but its contributors will persist as a Pod with a Roster where the contributors will be immortalized as founders."
+      "text": "A swarm will close after a week of inactivity but will persist as a Pod with a Roster where the contributors will be immortalized as founders."
     },
     {
       "type": "markdown",
@@ -80,6 +80,41 @@
       "type": "paragraph",
       "id": "959354ea95f22722",
       "text": "We now sketch the moving parts of a link swarming application. As is our tradition we seek a decentralized approach. As such we anticipate multiple client implementations using a well established API agains an open and easily hosted server."
+    },
+    {
+      "type": "paragraph",
+      "id": "e8b79299e2c038d1",
+      "text": "Clients will vary depending on the mobile platforms supported, the degree of integration with other services on the platform, and the skills and interests of the mobile developers."
+    },
+    {
+      "type": "paragraph",
+      "id": "4cba8d98c953b757",
+      "text": "A single ES6 module will launch within deno a server configured to manage a flat-file database consisting of JSON content organized and managed as Assets folders and serve read-only wiki content to the federation."
+    },
+    {
+      "type": "code",
+      "id": "b7265b552437a57d",
+      "text": "cd .wiki/swarms.fed.wiki\ndeno run http://c2.com/modules/hive.js"
+    },
+    {
+      "type": "paragraph",
+      "id": "1df50a07fc069360",
+      "text": "The client-facing API will provide a REST interface to swarm descriptions, memberships, and recent activity. For a given user, the interface will provide a list of engaged swarms, and all posts to each swarm if asked."
+    },
+    {
+      "type": "paragraph",
+      "id": "9bb66b635e23f5ad",
+      "text": "A POST will validate that the user's site is a wiki and that the welcome page \"about us\" item contains a link to an extant and non-empty page. Beyond the ability to follow these conventions, no further login will be required. The server will not write to a user's site."
+    },
+    {
+      "type": "pagefold",
+      "id": "3fc6e71a62a2ebf0",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "4cac57dc0fda092a",
+      "text": "This page has been assembled from direct contributions by David Bovill, Eric Dobbs and Ward Cunningham. Many others contributed indirectly."
     }
   ],
   "journal": [
@@ -424,6 +459,229 @@
         "text": "We now sketch the moving parts of a link swarming application. As is our tradition we seek a decentralized approach. As such we anticipate multiple client implementations using a well established API agains an open and easily hosted server."
       },
       "date": 1611946820960
+    },
+    {
+      "type": "add",
+      "id": "e8b79299e2c038d1",
+      "item": {
+        "type": "paragraph",
+        "id": "e8b79299e2c038d1",
+        "text": "Clients will vary depending on the mobile platforms supported, the degree of integration with other services on the platform, and the skills and interests of the mobile developers."
+      },
+      "after": "959354ea95f22722",
+      "date": 1611946940296
+    },
+    {
+      "type": "add",
+      "id": "4cba8d98c953b757",
+      "item": {
+        "type": "paragraph",
+        "id": "4cba8d98c953b757",
+        "text": "A single ES6 module will launch within deno a read-only server configured to manage a flat-file database consisting of JSON content organized and managed as Assets folders."
+      },
+      "after": "e8b79299e2c038d1",
+      "date": 1611947335669
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b7265b552437a57d"
+      },
+      "id": "b7265b552437a57d",
+      "type": "add",
+      "after": "4cba8d98c953b757",
+      "date": 1611947366414
+    },
+    {
+      "type": "edit",
+      "id": "b7265b552437a57d",
+      "item": {
+        "type": "code",
+        "id": "b7265b552437a57d",
+        "text": "cd .wiki/swarms.fed.wiki\ndeno run http://c2.com/modules/hive.js"
+      },
+      "date": 1611947603508
+    },
+    {
+      "type": "edit",
+      "id": "4cba8d98c953b757",
+      "item": {
+        "type": "paragraph",
+        "id": "4cba8d98c953b757",
+        "text": "A single ES6 module will launch within deno a server configured to manage a flat-file database consisting of JSON content organized and managed as Assets folders."
+      },
+      "date": 1611947686559
+    },
+    {
+      "type": "edit",
+      "id": "4cba8d98c953b757",
+      "item": {
+        "type": "paragraph",
+        "id": "4cba8d98c953b757",
+        "text": "A single ES6 module will launch within deno a server configured to manage a flat-file database consisting of JSON content organized and managed as Assets folders and serve read-only wiki content to the federation."
+      },
+      "date": 1611947777659
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1df50a07fc069360"
+      },
+      "id": "1df50a07fc069360",
+      "type": "add",
+      "after": "b7265b552437a57d",
+      "date": 1611947863446
+    },
+    {
+      "type": "edit",
+      "id": "1df50a07fc069360",
+      "item": {
+        "type": "paragraph",
+        "id": "1df50a07fc069360",
+        "text": "The client-facing API will provide a REST interface to swarm descriptions, memberships, and recent activity. For a given user, the interface will provide a list of engaged swarms, and all posts to each swarm if asked. A POST will validate that the site is a wiki and that the welcome page \"about us\" item contains a link to an extant and non-empty page."
+      },
+      "date": 1611948534307
+    },
+    {
+      "type": "edit",
+      "id": "1df50a07fc069360",
+      "item": {
+        "type": "paragraph",
+        "id": "1df50a07fc069360",
+        "text": "The client-facing API will provide a REST interface to swarm descriptions, memberships, and recent activity. For a given user, the interface will provide a list of engaged swarms, and all posts to each swarm if asked."
+      },
+      "date": 1611948547672
+    },
+    {
+      "type": "add",
+      "id": "9bb66b635e23f5ad",
+      "item": {
+        "type": "paragraph",
+        "id": "9bb66b635e23f5ad",
+        "text": "A POST will validate that the site is a wiki and that the welcome page \"about us\" item contains a link to an extant and non-empty page."
+      },
+      "after": "1df50a07fc069360",
+      "date": 1611948549402
+    },
+    {
+      "type": "edit",
+      "id": "9bb66b635e23f5ad",
+      "item": {
+        "type": "paragraph",
+        "id": "9bb66b635e23f5ad",
+        "text": "A POST will validate that the site is a wiki and that the welcome page \"about us\" item contains a link to an extant and non-empty page. Beyond the ability to follow these conventions, no further login will be required."
+      },
+      "date": 1611948604587
+    },
+    {
+      "type": "edit",
+      "id": "9bb66b635e23f5ad",
+      "item": {
+        "type": "paragraph",
+        "id": "9bb66b635e23f5ad",
+        "text": "A POST will validate that the site is a wiki and that the welcome page \"about us\" item contains a link to an extant and non-empty page. Beyond the ability to follow these conventions, no further login will be required. The server will not write to a user's site."
+      },
+      "date": 1611948643016
+    },
+    {
+      "type": "edit",
+      "id": "b7265b552437a57d",
+      "item": {
+        "type": "code",
+        "id": "b7265b552437a57d",
+        "text": "cd .wiki/swarms.fed.wiki\ndeno run --allow-write=. http://c2.com/modules/hive.js"
+      },
+      "date": 1611948734261
+    },
+    {
+      "type": "edit",
+      "id": "b7265b552437a57d",
+      "item": {
+        "type": "code",
+        "id": "b7265b552437a57d",
+        "text": "cd .wiki/swarms.fed.wiki\ndeno run --allow-write=. http://c2.com/mod/hive.js"
+      },
+      "date": 1611948751367
+    },
+    {
+      "type": "edit",
+      "id": "b7265b552437a57d",
+      "item": {
+        "type": "code",
+        "id": "b7265b552437a57d",
+        "text": "cd .wiki/swarms.fed.wiki\ndeno run http://c2.com/modules/hive.js"
+      },
+      "date": 1611948792842
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "3fc6e71a62a2ebf0"
+      },
+      "id": "3fc6e71a62a2ebf0",
+      "type": "add",
+      "after": "9bb66b635e23f5ad",
+      "date": 1611949617796
+    },
+    {
+      "type": "edit",
+      "id": "3fc6e71a62a2ebf0",
+      "item": {
+        "type": "pagefold",
+        "id": "3fc6e71a62a2ebf0",
+        "text": "."
+      },
+      "date": 1611949625923
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4cac57dc0fda092a"
+      },
+      "id": "4cac57dc0fda092a",
+      "type": "add",
+      "after": "3fc6e71a62a2ebf0",
+      "date": 1611949627959
+    },
+    {
+      "type": "edit",
+      "id": "4cac57dc0fda092a",
+      "item": {
+        "type": "paragraph",
+        "id": "4cac57dc0fda092a",
+        "text": "This page has been assembled from direct contributions from David Bovill, Eric Dobbs and Ward Cunningham. Many others contributed indirectly."
+      },
+      "date": 1611949701167
+    },
+    {
+      "type": "edit",
+      "id": "4cac57dc0fda092a",
+      "item": {
+        "type": "paragraph",
+        "id": "4cac57dc0fda092a",
+        "text": "This page has been assembled from direct contributions by David Bovill, Eric Dobbs and Ward Cunningham. Many others contributed indirectly."
+      },
+      "date": 1611949715281
+    },
+    {
+      "type": "edit",
+      "id": "9bb66b635e23f5ad",
+      "item": {
+        "type": "paragraph",
+        "id": "9bb66b635e23f5ad",
+        "text": "A POST will validate that the user's site is a wiki and that the welcome page \"about us\" item contains a link to an extant and non-empty page. Beyond the ability to follow these conventions, no further login will be required. The server will not write to a user's site."
+      },
+      "date": 1611949866298
+    },
+    {
+      "type": "edit",
+      "id": "3e61ab1829317de1",
+      "item": {
+        "type": "paragraph",
+        "id": "3e61ab1829317de1",
+        "text": "A swarm will close after a week of inactivity but will persist as a Pod with a Roster where the contributors will be immortalized as founders."
+      },
+      "date": 1611950015803
     }
   ]
 }
