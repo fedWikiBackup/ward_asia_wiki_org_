@@ -1,0 +1,74 @@
+{
+  "title": "Link Swarming",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "01910fc840afd5b2",
+      "text": "We suggest a new workflow for collaborative research which consists of a gathering phase followed by reflection and then synthesis."
+    },
+    {
+      "type": "markdown",
+      "id": "69887fb6e9706c81",
+      "text": "The simplest mathematical models of animal swarms generally represent individual animals as following three rules. [https://en.wikipedia.org/wiki/Swarm_behaviour#Mathematical_models wikipedia]\n\n- Move in the same direction as their neighbours\n- Remain close to their neighbours\n- Avoid collisions with their neighbours"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Link Swarming",
+        "story": []
+      },
+      "date": 1611942914919
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "01910fc840afd5b2"
+      },
+      "id": "01910fc840afd5b2",
+      "type": "add",
+      "date": 1611942926419
+    },
+    {
+      "type": "edit",
+      "id": "01910fc840afd5b2",
+      "item": {
+        "type": "paragraph",
+        "id": "01910fc840afd5b2",
+        "text": "We suggest a new workflow for collaborative research which consists of a gathering phase followed by reflection and then synthesis."
+      },
+      "date": 1611943029784
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "69887fb6e9706c81"
+      },
+      "id": "69887fb6e9706c81",
+      "type": "add",
+      "after": "01910fc840afd5b2",
+      "date": 1611943170762
+    },
+    {
+      "type": "edit",
+      "id": "69887fb6e9706c81",
+      "item": {
+        "type": "markdown",
+        "id": "69887fb6e9706c81",
+        "text": "The simplest mathematical models of animal swarms generally represent individual animals as following three rules. [\n\n- Move in the same direction as their neighbours\n- Remain close to their neighbours\n- Avoid collisions with their neighbours"
+      },
+      "date": 1611943197925
+    },
+    {
+      "type": "edit",
+      "id": "69887fb6e9706c81",
+      "item": {
+        "type": "markdown",
+        "id": "69887fb6e9706c81",
+        "text": "The simplest mathematical models of animal swarms generally represent individual animals as following three rules. [https://en.wikipedia.org/wiki/Swarm_behaviour#Mathematical_models wikipedia]\n\n- Move in the same direction as their neighbours\n- Remain close to their neighbours\n- Avoid collisions with their neighbours"
+      },
+      "date": 1611943227087
+    }
+  ]
+}
