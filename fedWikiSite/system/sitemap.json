@@ -5771,5 +5771,11 @@
       "login": "b46d6ae3d652d0e8",
       "forgot-password": "a1af9125cd46f73d"
     }
+  },
+  {
+    "slug": "link-swarming",
+    "title": "Link Swarming",
+    "date": 1611943227087,
+    "synopsis": "We suggest a new workflow for collaborative research which consists of a gathering phase followed by reflection and then synthesis."
   }
 ]
