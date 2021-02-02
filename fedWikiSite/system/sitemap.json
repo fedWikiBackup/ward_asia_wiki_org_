@@ -2609,6 +2609,12 @@
     "synopsis": "The Laws provide a foundation for identifying preferable outcomes that should be consider in the creation of new products, services and business models. [https://www.geekwire.com/2016/guest-post-laws-mixed-reality-mixed-reality-without-rose-colored-glasses/ post]"
   },
   {
+    "slug": "link-swarming",
+    "title": "Link Swarming",
+    "date": 1611950015803,
+    "synopsis": "We suggest a new workflow for collaborative research which consists of a gathering phase followed by reflection and then synthesis."
+  },
+  {
     "slug": "link-symmetry",
     "title": "Link Symmetry",
     "date": 1442013986544,
@@ -5771,11 +5777,5 @@
       "login": "b46d6ae3d652d0e8",
       "forgot-password": "a1af9125cd46f73d"
     }
-  },
-  {
-    "slug": "link-swarming",
-    "title": "Link Swarming",
-    "date": 1611950015803,
-    "synopsis": "We suggest a new workflow for collaborative research which consists of a gathering phase followed by reflection and then synthesis."
   }
 ]
