@@ -5777,24 +5777,5 @@
       "login": "b46d6ae3d652d0e8",
       "forgot-password": "a1af9125cd46f73d"
     }
-  },
-  {
-    "slug": "street-map",
-    "title": "Street Map",
-    "date": 1612381254464,
-    "synopsis": "Here we place markers from the lineup on a street map.",
-    "links": {
-      "aerial-map": "e384ed28baee4dcd",
-      "topo-map": "e384ed28baee4dcd"
-    }
-  },
-  {
-    "slug": "about-bikeshare-plugin",
-    "title": "About Bikeshare Plugin",
-    "date": 1612381223097,
-    "synopsis": "This plugin will fetch status information from city bikeshare programs to be rendered as map markers. [https://github.com/WardCunningham/wiki-plugin-bikeshare github]",
-    "links": {
-      "street-map": "b4be87ffef5510c8"
-    }
   }
 ]
