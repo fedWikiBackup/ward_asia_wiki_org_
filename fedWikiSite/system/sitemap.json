@@ -5777,5 +5777,11 @@
       "login": "b46d6ae3d652d0e8",
       "forgot-password": "a1af9125cd46f73d"
     }
+  },
+  {
+    "slug": "pilot-parts-list",
+    "title": "Pilot Parts List",
+    "date": 1612626295321,
+    "synopsis": "Things to find or build for a useable foreign federated application."
   }
 ]
