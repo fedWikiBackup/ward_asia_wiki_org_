@@ -1,0 +1,269 @@
+{
+  "title": "Pilot Parts List",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "5910fbd546866553",
+      "text": "Things to find or build for a useable foreign federated application."
+    },
+    {
+      "type": "paragraph",
+      "id": "9325e283df31b944",
+      "text": "Well known resource that characterizes the site adapter configuration required to access pages. Suitable for static sites."
+    },
+    {
+      "type": "paragraph",
+      "id": "3ae7093c40679bcb",
+      "text": "Module architecture with startup and messaging between the parts. JSONish or ES6 objects? Typescript or JSON Schema for guidance."
+    },
+    {
+      "type": "paragraph",
+      "id": "3e9246f423dd06b2",
+      "text": "Monkey that works a little harder to confirm that all the parts are working."
+    },
+    {
+      "type": "paragraph",
+      "id": "b13a415572d52e66",
+      "text": "Accumulated monkey guidance that are easily navigated as if it were a specification."
+    },
+    {
+      "type": "paragraph",
+      "id": "72304d70e017514d",
+      "text": "Standard configurations for client-server, client-only, server-only. Read only for sure and maybe read-write. E.g. Swarming bookmarking."
+    },
+    {
+      "type": "paragraph",
+      "id": "b0fba53defa46fac",
+      "text": "Small wiki improved page fetch."
+    },
+    {
+      "type": "paragraph",
+      "id": "00ee31b2ef2fb40f",
+      "text": "Small wiki ghost pages."
+    },
+    {
+      "type": "paragraph",
+      "id": "560d3be3d66fdd93",
+      "text": "Small wiki hash lineup with slug@site."
+    },
+    {
+      "type": "paragraph",
+      "id": "f0306da6afd4f877",
+      "text": "Strategy for finding things in sites without sitemaps. Sudoko solver is example."
+    },
+    {
+      "type": "paragraph",
+      "id": "9c78cc287a1322f7",
+      "text": "Sparse sitemap with incremental build?"
+    },
+    {
+      "type": "pagefold",
+      "id": "6d3ebd5ea5f65023",
+      "text": "must have"
+    },
+    {
+      "type": "pagefold",
+      "id": "bdcd1d5595b6d187",
+      "text": "good time to consider"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Pilot Parts List",
+        "story": []
+      },
+      "date": 1612624968175
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5910fbd546866553"
+      },
+      "id": "5910fbd546866553",
+      "type": "add",
+      "date": 1612624971139
+    },
+    {
+      "type": "edit",
+      "id": "5910fbd546866553",
+      "item": {
+        "type": "paragraph",
+        "id": "5910fbd546866553",
+        "text": "Things to find or build for a useable foreign federated application."
+      },
+      "date": 1612625026234
+    },
+    {
+      "type": "add",
+      "id": "9325e283df31b944",
+      "item": {
+        "type": "paragraph",
+        "id": "9325e283df31b944",
+        "text": "Well known resource that characterizes the site adapter configuration required to access pages."
+      },
+      "after": "5910fbd546866553",
+      "date": 1612625101469
+    },
+    {
+      "type": "add",
+      "id": "3ae7093c40679bcb",
+      "item": {
+        "type": "paragraph",
+        "id": "3ae7093c40679bcb",
+        "text": "Module architecture with startup and messaging between the parts. JSONish or ES6 objects? Typescript or JSON Schema for guidance."
+      },
+      "after": "9325e283df31b944",
+      "date": 1612625209114
+    },
+    {
+      "type": "add",
+      "id": "3e9246f423dd06b2",
+      "item": {
+        "type": "paragraph",
+        "id": "3e9246f423dd06b2",
+        "text": "Monkey that works a little harder to confirm that all the parts are working."
+      },
+      "after": "3ae7093c40679bcb",
+      "date": 1612625237136
+    },
+    {
+      "type": "add",
+      "id": "b13a415572d52e66",
+      "item": {
+        "type": "paragraph",
+        "id": "b13a415572d52e66",
+        "text": "Accumulated monkey guidance that are easily navigated as if it were a specification."
+      },
+      "after": "3e9246f423dd06b2",
+      "date": 1612625344482
+    },
+    {
+      "type": "add",
+      "id": "72304d70e017514d",
+      "item": {
+        "type": "paragraph",
+        "id": "72304d70e017514d",
+        "text": "Standard configurations for client-server, client-only, server-only. Read only for sure and maybe read-write. E.g. Swarming bookmarking."
+      },
+      "after": "b13a415572d52e66",
+      "date": 1612625506434
+    },
+    {
+      "type": "add",
+      "id": "b0fba53defa46fac",
+      "item": {
+        "type": "paragraph",
+        "id": "b0fba53defa46fac",
+        "text": "Small wiki improved page fetch."
+      },
+      "after": "72304d70e017514d",
+      "date": 1612625614934
+    },
+    {
+      "type": "add",
+      "id": "00ee31b2ef2fb40f",
+      "item": {
+        "type": "paragraph",
+        "id": "00ee31b2ef2fb40f",
+        "text": "Small wiki ghost pages."
+      },
+      "after": "b0fba53defa46fac",
+      "date": 1612625631492
+    },
+    {
+      "type": "add",
+      "id": "560d3be3d66fdd93",
+      "item": {
+        "type": "paragraph",
+        "id": "560d3be3d66fdd93",
+        "text": "Small wiki hash lineup."
+      },
+      "after": "00ee31b2ef2fb40f",
+      "date": 1612625647047
+    },
+    {
+      "type": "edit",
+      "id": "560d3be3d66fdd93",
+      "item": {
+        "type": "paragraph",
+        "id": "560d3be3d66fdd93",
+        "text": "Small wiki hash lineup with slug@site."
+      },
+      "date": 1612625708118
+    },
+    {
+      "type": "edit",
+      "id": "9325e283df31b944",
+      "item": {
+        "type": "paragraph",
+        "id": "9325e283df31b944",
+        "text": "Well known resource that characterizes the site adapter configuration required to access pages. Suitable for static sites."
+      },
+      "date": 1612625864765
+    },
+    {
+      "type": "add",
+      "id": "f0306da6afd4f877",
+      "item": {
+        "type": "paragraph",
+        "id": "f0306da6afd4f877",
+        "text": "Strategy for finding things in sites without sitemaps. Sudoko solver is example."
+      },
+      "after": "560d3be3d66fdd93",
+      "date": 1612626003630
+    },
+    {
+      "type": "add",
+      "id": "9c78cc287a1322f7",
+      "item": {
+        "type": "paragraph",
+        "id": "9c78cc287a1322f7",
+        "text": "Sparse sitemap with incremental build?"
+      },
+      "after": "f0306da6afd4f877",
+      "date": 1612626164509
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6d3ebd5ea5f65023"
+      },
+      "id": "6d3ebd5ea5f65023",
+      "type": "add",
+      "after": "9c78cc287a1322f7",
+      "date": 1612626274663
+    },
+    {
+      "type": "edit",
+      "id": "6d3ebd5ea5f65023",
+      "item": {
+        "type": "pagefold",
+        "id": "6d3ebd5ea5f65023",
+        "text": "must have"
+      },
+      "date": 1612626281087
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bdcd1d5595b6d187"
+      },
+      "id": "bdcd1d5595b6d187",
+      "type": "add",
+      "after": "6d3ebd5ea5f65023",
+      "date": 1612626283985
+    },
+    {
+      "type": "edit",
+      "id": "bdcd1d5595b6d187",
+      "item": {
+        "type": "pagefold",
+        "id": "bdcd1d5595b6d187",
+        "text": "good time to consider"
+      },
+      "date": 1612626295321
+    }
+  ]
+}
