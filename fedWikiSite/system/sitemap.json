@@ -674,8 +674,11 @@
   {
     "slug": "computational-plasticity",
     "title": "Computational Plasticity",
-    "date": 1606325103942,
-    "synopsis": "We wonder, how can a computation operate usefully in a broad range of applications? We have some simple examples. Here we try to imagine more."
+    "date": 1612637422627,
+    "synopsis": "We wonder, how can a computation operate usefully in a broad range of applications? We have some simple examples. Here we try to imagine more.",
+    "links": {
+      "latitude-for-deviance": "9f3cb4fb33446101"
+    }
   },
   {
     "slug": "condensed-journal",
