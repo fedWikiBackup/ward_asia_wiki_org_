@@ -7,6 +7,11 @@
       "text": "Things to find or build for a useable foreign federated application."
     },
     {
+      "type": "pagefold",
+      "id": "6d3ebd5ea5f65023",
+      "text": "must have"
+    },
+    {
       "type": "paragraph",
       "id": "9325e283df31b944",
       "text": "Well known resource that characterizes the site adapter configuration required to access pages. Suitable for static sites."
@@ -25,6 +30,11 @@
       "type": "paragraph",
       "id": "b13a415572d52e66",
       "text": "Accumulated monkey guidance that are easily navigated as if it were a specification."
+    },
+    {
+      "type": "pagefold",
+      "id": "bdcd1d5595b6d187",
+      "text": "good time to consider"
     },
     {
       "type": "paragraph",
@@ -55,16 +65,6 @@
       "type": "paragraph",
       "id": "9c78cc287a1322f7",
       "text": "Sparse sitemap with incremental build?"
-    },
-    {
-      "type": "pagefold",
-      "id": "6d3ebd5ea5f65023",
-      "text": "must have"
-    },
-    {
-      "type": "pagefold",
-      "id": "bdcd1d5595b6d187",
-      "text": "good time to consider"
     }
   ],
   "journal": [
@@ -264,6 +264,46 @@
         "text": "good time to consider"
       },
       "date": 1612626295321
+    },
+    {
+      "id": "6d3ebd5ea5f65023",
+      "type": "move",
+      "order": [
+        "5910fbd546866553",
+        "6d3ebd5ea5f65023",
+        "9325e283df31b944",
+        "3ae7093c40679bcb",
+        "3e9246f423dd06b2",
+        "b13a415572d52e66",
+        "72304d70e017514d",
+        "b0fba53defa46fac",
+        "00ee31b2ef2fb40f",
+        "560d3be3d66fdd93",
+        "f0306da6afd4f877",
+        "9c78cc287a1322f7",
+        "bdcd1d5595b6d187"
+      ],
+      "date": 1612629905994
+    },
+    {
+      "id": "bdcd1d5595b6d187",
+      "type": "move",
+      "order": [
+        "5910fbd546866553",
+        "6d3ebd5ea5f65023",
+        "9325e283df31b944",
+        "3ae7093c40679bcb",
+        "3e9246f423dd06b2",
+        "b13a415572d52e66",
+        "bdcd1d5595b6d187",
+        "72304d70e017514d",
+        "b0fba53defa46fac",
+        "00ee31b2ef2fb40f",
+        "560d3be3d66fdd93",
+        "f0306da6afd4f877",
+        "9c78cc287a1322f7"
+      ],
+      "date": 1612629910168
     }
   ]
 }
