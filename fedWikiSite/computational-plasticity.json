@@ -25,6 +25,11 @@
       "type": "paragraph",
       "id": "25fe604eee9dcd3a",
       "text": "Imagine. Could data in files or streams \"intend\" to be processed by whatever means are conveniently available?"
+    },
+    {
+      "type": "paragraph",
+      "id": "9f3cb4fb33446101",
+      "text": "See [[Latitude for Deviance]]"
     }
   ],
   "journal": [
@@ -107,6 +112,17 @@
       },
       "after": "ea3ec920cb220e3c",
       "date": 1606325103942
+    },
+    {
+      "type": "add",
+      "id": "9f3cb4fb33446101",
+      "item": {
+        "type": "paragraph",
+        "id": "9f3cb4fb33446101",
+        "text": "See [[Latitude for Deviance]]"
+      },
+      "after": "25fe604eee9dcd3a",
+      "date": 1612637422627
     }
   ]
 }
