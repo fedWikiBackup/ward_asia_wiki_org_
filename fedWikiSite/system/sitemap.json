@@ -3420,6 +3420,12 @@
     "synopsis": "Mathematical models of natural selection have evolved in the decades I've been reading science, especially models of altruistic behavior as will be required if we are to leave a habitable planet to our grandchildren. What would have to be true of wiki if it were to be important in this cause?"
   },
   {
+    "slug": "pilot-parts-list",
+    "title": "Pilot Parts List",
+    "date": 1612629910168,
+    "synopsis": "Things to find or build for a useable foreign federated application."
+  },
+  {
     "slug": "ping-home-servers",
     "title": "Ping Home Servers",
     "date": 1559360040725,
@@ -5780,11 +5786,5 @@
       "login": "b46d6ae3d652d0e8",
       "forgot-password": "a1af9125cd46f73d"
     }
-  },
-  {
-    "slug": "pilot-parts-list",
-    "title": "Pilot Parts List",
-    "date": 1612629910168,
-    "synopsis": "Things to find or build for a useable foreign federated application."
   }
 ]
