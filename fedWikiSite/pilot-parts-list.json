@@ -34,12 +34,22 @@
     {
       "type": "paragraph",
       "id": "9325e283df31b944",
-      "text": "Well known resource that characterizes the site adapter configuration required to access pages. Suitable for static sites."
+      "text": "Well known resource that characterizes the site adapter configuration required to access pages. Suitable for static sites or read-only server."
+    },
+    {
+      "type": "paragraph",
+      "id": "1a6fba2b4f732931",
+      "text": "Some mechanism for a simpleton server to proxy adapted sites into the legacy federation. See [[Adapter Proxy]]"
     },
     {
       "type": "paragraph",
       "id": "3ae7093c40679bcb",
-      "text": "Module architecture with startup and messaging between the parts. JSONish or ES6 objects? Typescript or JSON Schema for guidance."
+      "text": "Module architecture with startup and messaging between the parts. JSONish or ES6 objects? Typescript or JSON Schema for guidance?"
+    },
+    {
+      "type": "pagefold",
+      "id": "b0538716133a9911",
+      "text": "need to do next"
     },
     {
       "type": "paragraph",
@@ -472,6 +482,97 @@
         "9c78cc287a1322f7"
       ],
       "date": 1613257001290
+    },
+    {
+      "type": "edit",
+      "id": "9325e283df31b944",
+      "item": {
+        "type": "paragraph",
+        "id": "9325e283df31b944",
+        "text": "Well known resource that characterizes the site adapter configuration required to access pages. Suitable for static sites or read-only server."
+      },
+      "date": 1613257246975
+    },
+    {
+      "type": "add",
+      "id": "1a6fba2b4f732931",
+      "item": {
+        "type": "paragraph",
+        "id": "1a6fba2b4f732931",
+        "text": "Some mechanism for a simpleton server to proxy adapted sites into the legacy federation."
+      },
+      "after": "9325e283df31b944",
+      "date": 1613257727572
+    },
+    {
+      "type": "fork",
+      "date": 1613257955706
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b0538716133a9911"
+      },
+      "id": "b0538716133a9911",
+      "type": "add",
+      "after": "9c78cc287a1322f7",
+      "date": 1613257962500
+    },
+    {
+      "type": "edit",
+      "id": "b0538716133a9911",
+      "item": {
+        "type": "pagefold",
+        "id": "b0538716133a9911",
+        "text": "need to do next"
+      },
+      "date": 1613258008761
+    },
+    {
+      "id": "b0538716133a9911",
+      "type": "move",
+      "order": [
+        "5910fbd546866553",
+        "6d3ebd5ea5f65023",
+        "3d9dac92419ea8cb",
+        "19b07a10c878dfd9",
+        "8ff36c2226b9d6c3",
+        "0b7d5908dbb22994",
+        "9325e283df31b944",
+        "1a6fba2b4f732931",
+        "3ae7093c40679bcb",
+        "b0538716133a9911",
+        "3e9246f423dd06b2",
+        "b13a415572d52e66",
+        "bdcd1d5595b6d187",
+        "72304d70e017514d",
+        "b0fba53defa46fac",
+        "00ee31b2ef2fb40f",
+        "560d3be3d66fdd93",
+        "f0306da6afd4f877",
+        "9c78cc287a1322f7"
+      ],
+      "date": 1613258016058
+    },
+    {
+      "type": "edit",
+      "id": "3ae7093c40679bcb",
+      "item": {
+        "type": "paragraph",
+        "id": "3ae7093c40679bcb",
+        "text": "Module architecture with startup and messaging between the parts. JSONish or ES6 objects? Typescript or JSON Schema for guidance?"
+      },
+      "date": 1613258036313
+    },
+    {
+      "type": "edit",
+      "id": "1a6fba2b4f732931",
+      "item": {
+        "type": "paragraph",
+        "id": "1a6fba2b4f732931",
+        "text": "Some mechanism for a simpleton server to proxy adapted sites into the legacy federation. See [[Adapter Proxy]]"
+      },
+      "date": 1613258082575
     }
   ]
 }
