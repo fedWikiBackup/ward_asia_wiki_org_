@@ -3422,8 +3422,11 @@
   {
     "slug": "pilot-parts-list",
     "title": "Pilot Parts List",
-    "date": 1613257001290,
-    "synopsis": "Things to find or build for a useable candidate next generation. Add links to work in progress."
+    "date": 1613258082575,
+    "synopsis": "Things to find or build for a useable candidate next generation. Add links to work in progress.",
+    "links": {
+      "adapter-proxy": "1a6fba2b4f732931"
+    }
   },
   {
     "slug": "ping-home-servers",
@@ -5786,5 +5789,11 @@
       "login": "b46d6ae3d652d0e8",
       "forgot-password": "a1af9125cd46f73d"
     }
+  },
+  {
+    "slug": "adapter-proxy",
+    "title": "Adapter Proxy",
+    "date": 1613259235622,
+    "synopsis": "We imagine a more capable site adapter running client-side and talking to many modern federation sites using a variety of protocols. We can't expect all federation clients to be so versatile so we look for some way for newer servers to help them out."
   }
 ]
